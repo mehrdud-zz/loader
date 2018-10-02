@@ -1,0 +1,287 @@
+[
+  {
+    "RowNumber": 2,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "EUR"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "EUSA"
+      }
+    ]
+  },
+  {
+    "RowNumber": 3,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "USD"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "USSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 4,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "JPY"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "JYSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 5,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "GBP"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "BPSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 6,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "AUD"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "ADSWAP"
+      }
+    ]
+  },
+  {
+    "RowNumber": 7,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "CAD"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "CDSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 8,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "CHF"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "SFSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 9,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "SEK"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "SKSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 10,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "NOK"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "NKSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 11,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "PLN"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "PZSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 12,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "ZAR"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "SASW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 13,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "KRW"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "KWSWNI"
+      }
+    ]
+  },
+  {
+    "RowNumber": 14,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "MYR"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "MRSWNI"
+      }
+    ]
+  },
+  {
+    "RowNumber": 15,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "CZK"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "CKSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 16,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "HKD"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "HDSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 17,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "NZD"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "NDSWAP"
+      }
+    ]
+  },
+  {
+    "RowNumber": 18,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "SGD"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "SDSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 19,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "ILS"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "ISSW"
+      }
+    ]
+  },
+  {
+    "RowNumber": 20,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "CURRENCY",
+        "value": "[Not assigned]"
+      },
+      {
+        "column_index": 2,
+        "header": "IRS TICKER PREFIX",
+        "value": "[Not assigned]"
+      }
+    ]
+  }
+]

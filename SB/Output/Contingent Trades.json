@@ -1,0 +1,1972 @@
+[
+  {
+    "RowNumber": 2,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "ACWI Quality Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 3,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "ACWI Quality Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 4,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "ACWI Quality Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 5,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "ACWI Quality Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 6,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "ACWI Quality Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 7,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "ACWI Value Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 8,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "ACWI Value Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 9,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "ACWI Value Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 10,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "ACWI Value Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 11,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "ACWI Value Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 12,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94946"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "BD Benchmark 10 Year DS Govt. Index - Tot Return Ind"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX"
+      }
+    ]
+  },
+  {
+    "RowNumber": 13,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94946"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Can 10 Yr Duration"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX"
+      }
+    ]
+  },
+  {
+    "RowNumber": 14,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "EMD Spread"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "US Benchmark 10 Year DS Govt"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 15,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "EMD Spread"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "JPM EMBI+ Composite"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX. Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 16,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "EMD Spread"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 17,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "EMD Spread"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "US Benchmark 10 Year DS Govt"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 18,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "EMD Spread"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "JPM EMBI+ Composite"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX. Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 19,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "EMD Spread"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 20,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Eu Credit Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 21,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Eu Credit Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 22,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Eu Credit Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 23,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Eu Credit Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 24,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Eu High Yield Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 25,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Eu High Yield Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 26,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Eu High Yield Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 27,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Eu High Yield Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 28,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Growth"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Growth"
+      }
+    ]
+  },
+  {
+    "RowNumber": 29,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91612"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Growth"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Growth"
+      }
+    ]
+  },
+  {
+    "RowNumber": 30,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Growth"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Growth"
+      }
+    ]
+  },
+  {
+    "RowNumber": 31,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Growth"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Growth"
+      }
+    ]
+  },
+  {
+    "RowNumber": 32,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Growth"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Growth"
+      }
+    ]
+  },
+  {
+    "RowNumber": 33,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Growth"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Growth"
+      }
+    ]
+  },
+  {
+    "RowNumber": 34,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Value"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Value"
+      }
+    ]
+  },
+  {
+    "RowNumber": 35,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91612"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Value"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Value"
+      }
+    ]
+  },
+  {
+    "RowNumber": 36,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Value"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Value"
+      }
+    ]
+  },
+  {
+    "RowNumber": 37,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Value"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Value"
+      }
+    ]
+  },
+  {
+    "RowNumber": 38,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Value"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Value"
+      }
+    ]
+  },
+  {
+    "RowNumber": 39,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "FX Value"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Value"
+      }
+    ]
+  },
+  {
+    "RowNumber": 40,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "German Extra Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 41,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "German Extra Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 42,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "German Extra Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 43,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "German Extra Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 44,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "German Extra Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target Close. Contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 45,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Gold"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX"
+      }
+    ]
+  },
+  {
+    "RowNumber": 46,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Inflation Risk Premium"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "ML US Govt 5-10Y"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 47,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Inflation Risk Premium"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "ML US TIPS 7-10Y"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX. Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 48,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Inflation Risk Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 49,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Inflation Risk Premium"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "ML US Govt 5-10Y"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 50,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Inflation Risk Premium"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "ML US TIPS 7-10Y"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX. Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 51,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Inflation Risk Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Target 2:30pm UK"
+      }
+    ]
+  },
+  {
+    "RowNumber": 52,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Internal Fixed Income RV"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. RV trades"
+      }
+    ]
+  },
+  {
+    "RowNumber": 53,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91612"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Internal Fixed Income RV"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. RV trades"
+      }
+    ]
+  },
+  {
+    "RowNumber": 54,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Internal Fixed Income RV"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. RV trades"
+      }
+    ]
+  },
+  {
+    "RowNumber": 55,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Internal Fixed Income RV"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. RV trades"
+      }
+    ]
+  },
+  {
+    "RowNumber": 56,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Internal Fixed Income RV"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. RV trades"
+      }
+    ]
+  },
+  {
+    "RowNumber": 57,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Internal Fixed Income RV"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. RV trades"
+      }
+    ]
+  },
+  {
+    "RowNumber": 58,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94946"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "MSCI Daily TR Net Emerging Markets USD Index"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. MSCI EM"
+      }
+    ]
+  },
+  {
+    "RowNumber": 59,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 60,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91612"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 61,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 62,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 63,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 64,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 65,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF EM Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX EM Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 66,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91612"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF EM Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX EM Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 67,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF EM Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX EM Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 68,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF EM Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX EM Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 69,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF EM Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX EM Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 70,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "RF EM Carry Basket"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "FX EM Carry"
+      }
+    ]
+  },
+  {
+    "RowNumber": 71,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. Russell 2000 vs S&P 500"
+      }
+    ]
+  },
+  {
+    "RowNumber": 72,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. Russell 2000 vs S&P 500"
+      }
+    ]
+  },
+  {
+    "RowNumber": 73,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. Russell 2000 vs S&P 500"
+      }
+    ]
+  },
+  {
+    "RowNumber": 74,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. Russell 2000 vs S&P 500"
+      }
+    ]
+  },
+  {
+    "RowNumber": 75,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. Russell 2000 vs S&P 500"
+      }
+    ]
+  },
+  {
+    "RowNumber": 76,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Trend Index"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "iShares JPMorgan Emerging Markets Bond Fund"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX"
+      }
+    ]
+  },
+  {
+    "RowNumber": 77,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Trend Index"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "Gold "
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX"
+      }
+    ]
+  },
+  {
+    "RowNumber": 78,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Trend Index DCF"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "iShares JPMorgan Emerging Markets Bond Fund"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX"
+      }
+    ]
+  },
+  {
+    "RowNumber": 79,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Trend Index DCF"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "Gold "
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX"
+      }
+    ]
+  },
+  {
+    "RowNumber": 80,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "Trend Index DCF"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "ETFS Commodities"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX"
+      }
+    ]
+  },
+  {
+    "RowNumber": 81,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB91051"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "UK Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. FTSE 250 vs 100"
+      }
+    ]
+  },
+  {
+    "RowNumber": 82,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "UK Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. FTSE 250 vs 100"
+      }
+    ]
+  },
+  {
+    "RowNumber": 83,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "UK Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. FTSE 250 vs 100"
+      }
+    ]
+  },
+  {
+    "RowNumber": 84,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "UK Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. FTSE 250 vs 100"
+      }
+    ]
+  },
+  {
+    "RowNumber": 85,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "UK Small Cap Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Contingent. FTSE 250 vs 100"
+      }
+    ]
+  },
+  {
+    "RowNumber": 86,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB90264"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "US Benchmark 10 Year DS Govt. Index - Tot Return Ind"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX"
+      }
+    ]
+  },
+  {
+    "RowNumber": 87,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94946"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "US Benchmark 10 Year DS Govt. Index - Tot Return Ind"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Possible TRFX"
+      }
+    ]
+  },
+  {
+    "RowNumber": 88,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "US Credit Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 89,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "US Credit Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 90,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "US Credit Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 91,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "US Credit Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 92,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93116"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "US High Yield Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 93,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB93479"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "US High Yield Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 94,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94077"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "US High Yield Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 95,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "GB94309"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "US High Yield Premium"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "Future contingent on TRS"
+      }
+    ]
+  },
+  {
+    "RowNumber": 129,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Group",
+        "value": "[Not assigned]"
+      },
+      {
+        "column_index": 2,
+        "header": "Strategy",
+        "value": "[Not assigned]"
+      },
+      {
+        "column_index": 3,
+        "header": "Asset (Optional)",
+        "value": "[Not assigned]"
+      },
+      {
+        "column_index": 4,
+        "header": "Instruction",
+        "value": "[Not assigned]"
+      }
+    ]
+  }
+]

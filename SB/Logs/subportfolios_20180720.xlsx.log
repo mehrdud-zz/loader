@@ -1,0 +1,2425 @@
+2018-10-01 16:43:05,598 DEBUG Max number of rows: 412
+2018-10-01 16:43:05,599 DEBUG Total number of rows: 412
+2018-10-01 16:43:05,599 DEBUG Total number of columns: 3
+2018-10-01 16:43:05,600 DEBUG Requesting1 row:2, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,600 DEBUG [Not assigned]
+2018-10-01 16:43:05,600 DEBUG Requesting2 row:2, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,602 DEBUG Value read: GB93479
+2018-10-01 16:43:05,602 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,603 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,603 DEBUG AddedGB93479
+2018-10-01 16:43:05,603 DEBUG Requesting1 row:2, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,604 DEBUG [Not assigned]
+2018-10-01 16:43:05,604 DEBUG Requesting2 row:2, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,606 DEBUG Value read: Main
+2018-10-01 16:43:05,606 DEBUG Cell value: Main
+2018-10-01 16:43:05,606 DEBUG Cell text is: Main
+2018-10-01 16:43:05,607 DEBUG AddedMain
+2018-10-01 16:43:05,607 DEBUG Requesting1 row:2, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,607 DEBUG [Not assigned]
+2018-10-01 16:43:05,608 DEBUG Requesting2 row:2, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,609 DEBUG Value read: GB93479001
+2018-10-01 16:43:05,609 DEBUG Cell value: GB93479001
+2018-10-01 16:43:05,609 DEBUG Cell text is: GB93479001
+2018-10-01 16:43:05,610 DEBUG AddedGB93479001
+2018-10-01 16:43:05,610 DEBUG Requesting1 row:3, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,610 DEBUG [Not assigned]
+2018-10-01 16:43:05,611 DEBUG Requesting2 row:3, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,612 DEBUG Value read: GB93479
+2018-10-01 16:43:05,612 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,613 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,613 DEBUG AddedGB93479
+2018-10-01 16:43:05,613 DEBUG Requesting1 row:3, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,614 DEBUG [Not assigned]
+2018-10-01 16:43:05,614 DEBUG Requesting2 row:3, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,615 DEBUG Value read: US Credit Premium
+2018-10-01 16:43:05,616 DEBUG Cell value: US Credit Premium
+2018-10-01 16:43:05,616 DEBUG Cell text is: US Credit Premium
+2018-10-01 16:43:05,616 DEBUG AddedUS Credit Premium
+2018-10-01 16:43:05,617 DEBUG Requesting1 row:3, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,617 DEBUG [Not assigned]
+2018-10-01 16:43:05,617 DEBUG Requesting2 row:3, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,618 DEBUG Value read: GB93479002
+2018-10-01 16:43:05,619 DEBUG Cell value: GB93479002
+2018-10-01 16:43:05,619 DEBUG Cell text is: GB93479002
+2018-10-01 16:43:05,620 DEBUG AddedGB93479002
+2018-10-01 16:43:05,620 DEBUG Requesting1 row:4, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,620 DEBUG [Not assigned]
+2018-10-01 16:43:05,621 DEBUG Requesting2 row:4, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,622 DEBUG Value read: GB93479
+2018-10-01 16:43:05,622 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,623 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,623 DEBUG AddedGB93479
+2018-10-01 16:43:05,623 DEBUG Requesting1 row:4, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,624 DEBUG [Not assigned]
+2018-10-01 16:43:05,624 DEBUG Requesting2 row:4, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,625 DEBUG Value read: EU Credit Premium
+2018-10-01 16:43:05,626 DEBUG Cell value: EU Credit Premium
+2018-10-01 16:43:05,626 DEBUG Cell text is: EU Credit Premium
+2018-10-01 16:43:05,626 DEBUG AddedEU Credit Premium
+2018-10-01 16:43:05,627 DEBUG Requesting1 row:4, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,627 DEBUG [Not assigned]
+2018-10-01 16:43:05,627 DEBUG Requesting2 row:4, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,629 DEBUG Value read: GB93479003
+2018-10-01 16:43:05,630 DEBUG Cell value: GB93479003
+2018-10-01 16:43:05,630 DEBUG Cell text is: GB93479003
+2018-10-01 16:43:05,630 DEBUG AddedGB93479003
+2018-10-01 16:43:05,631 DEBUG Requesting1 row:5, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,631 DEBUG [Not assigned]
+2018-10-01 16:43:05,631 DEBUG Requesting2 row:5, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,633 DEBUG Value read: GB93479
+2018-10-01 16:43:05,633 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,634 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,634 DEBUG AddedGB93479
+2018-10-01 16:43:05,634 DEBUG Requesting1 row:5, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,635 DEBUG [Not assigned]
+2018-10-01 16:43:05,635 DEBUG Requesting2 row:5, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,637 DEBUG Value read: Eu High Yield Premium
+2018-10-01 16:43:05,637 DEBUG Cell value: Eu High Yield Premium
+2018-10-01 16:43:05,637 DEBUG Cell text is: Eu High Yield Premium
+2018-10-01 16:43:05,638 DEBUG AddedEu High Yield Premium
+2018-10-01 16:43:05,638 DEBUG Requesting1 row:5, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,638 DEBUG [Not assigned]
+2018-10-01 16:43:05,639 DEBUG Requesting2 row:5, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,640 DEBUG Value read: GB93479004
+2018-10-01 16:43:05,640 DEBUG Cell value: GB93479004
+2018-10-01 16:43:05,641 DEBUG Cell text is: GB93479004
+2018-10-01 16:43:05,641 DEBUG AddedGB93479004
+2018-10-01 16:43:05,641 DEBUG Requesting1 row:6, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,642 DEBUG [Not assigned]
+2018-10-01 16:43:05,642 DEBUG Requesting2 row:6, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,643 DEBUG Value read: GB93479
+2018-10-01 16:43:05,644 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,644 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,645 DEBUG AddedGB93479
+2018-10-01 16:43:05,645 DEBUG Requesting1 row:6, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,645 DEBUG [Not assigned]
+2018-10-01 16:43:05,646 DEBUG Requesting2 row:6, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,647 DEBUG Value read: US High Yield Premium
+2018-10-01 16:43:05,647 DEBUG Cell value: US High Yield Premium
+2018-10-01 16:43:05,648 DEBUG Cell text is: US High Yield Premium
+2018-10-01 16:43:05,648 DEBUG AddedUS High Yield Premium
+2018-10-01 16:43:05,648 DEBUG Requesting1 row:6, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,649 DEBUG [Not assigned]
+2018-10-01 16:43:05,649 DEBUG Requesting2 row:6, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,651 DEBUG Value read: GB93479005
+2018-10-01 16:43:05,651 DEBUG Cell value: GB93479005
+2018-10-01 16:43:05,651 DEBUG Cell text is: GB93479005
+2018-10-01 16:43:05,652 DEBUG AddedGB93479005
+2018-10-01 16:43:05,652 DEBUG Requesting1 row:7, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,652 DEBUG [Not assigned]
+2018-10-01 16:43:05,652 DEBUG Requesting2 row:7, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,654 DEBUG Value read: GB93479
+2018-10-01 16:43:05,654 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,655 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,655 DEBUG AddedGB93479
+2018-10-01 16:43:05,655 DEBUG Requesting1 row:7, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,655 DEBUG [Not assigned]
+2018-10-01 16:43:05,656 DEBUG Requesting2 row:7, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,657 DEBUG Value read: FTSE 100 Index
+2018-10-01 16:43:05,658 DEBUG Cell value: FTSE 100 Index
+2018-10-01 16:43:05,658 DEBUG Cell text is: FTSE 100 Index
+2018-10-01 16:43:05,658 DEBUG AddedFTSE 100 Index
+2018-10-01 16:43:05,658 DEBUG Requesting1 row:7, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,659 DEBUG [Not assigned]
+2018-10-01 16:43:05,659 DEBUG Requesting2 row:7, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,660 DEBUG Value read: GB93479006
+2018-10-01 16:43:05,661 DEBUG Cell value: GB93479006
+2018-10-01 16:43:05,661 DEBUG Cell text is: GB93479006
+2018-10-01 16:43:05,662 DEBUG AddedGB93479006
+2018-10-01 16:43:05,662 DEBUG Requesting1 row:8, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,662 DEBUG [Not assigned]
+2018-10-01 16:43:05,663 DEBUG Requesting2 row:8, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,664 DEBUG Value read: GB93479
+2018-10-01 16:43:05,665 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,665 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,665 DEBUG AddedGB93479
+2018-10-01 16:43:05,665 DEBUG Requesting1 row:8, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,666 DEBUG [Not assigned]
+2018-10-01 16:43:05,666 DEBUG Requesting2 row:8, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,668 DEBUG Value read: S&P US 500 TR 
+2018-10-01 16:43:05,668 DEBUG Cell value: S&P US 500 TR 
+2018-10-01 16:43:05,668 DEBUG Cell text is: S&P US 500 TR 
+2018-10-01 16:43:05,669 DEBUG AddedS&P US 500 TR 
+2018-10-01 16:43:05,669 DEBUG Requesting1 row:8, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,669 DEBUG [Not assigned]
+2018-10-01 16:43:05,670 DEBUG Requesting2 row:8, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,671 DEBUG Value read: GB93479007
+2018-10-01 16:43:05,672 DEBUG Cell value: GB93479007
+2018-10-01 16:43:05,672 DEBUG Cell text is: GB93479007
+2018-10-01 16:43:05,672 DEBUG AddedGB93479007
+2018-10-01 16:43:05,673 DEBUG Requesting1 row:9, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,673 DEBUG [Not assigned]
+2018-10-01 16:43:05,673 DEBUG Requesting2 row:9, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,675 DEBUG Value read: GB93479
+2018-10-01 16:43:05,675 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,675 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,676 DEBUG AddedGB93479
+2018-10-01 16:43:05,676 DEBUG Requesting1 row:9, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,676 DEBUG [Not assigned]
+2018-10-01 16:43:05,676 DEBUG Requesting2 row:9, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,678 DEBUG Value read: Eurostoxx 50 NRt (Local)
+2018-10-01 16:43:05,678 DEBUG Cell value: Eurostoxx 50 NRt (Local)
+2018-10-01 16:43:05,679 DEBUG Cell text is: Eurostoxx 50 NRt (Local)
+2018-10-01 16:43:05,679 DEBUG AddedEurostoxx 50 NRt (Local)
+2018-10-01 16:43:05,679 DEBUG Requesting1 row:9, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,680 DEBUG [Not assigned]
+2018-10-01 16:43:05,680 DEBUG Requesting2 row:9, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,681 DEBUG Value read: GB93479008
+2018-10-01 16:43:05,682 DEBUG Cell value: GB93479008
+2018-10-01 16:43:05,682 DEBUG Cell text is: GB93479008
+2018-10-01 16:43:05,682 DEBUG AddedGB93479008
+2018-10-01 16:43:05,683 DEBUG Requesting1 row:10, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,683 DEBUG [Not assigned]
+2018-10-01 16:43:05,683 DEBUG Requesting2 row:10, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,685 DEBUG Value read: GB93479
+2018-10-01 16:43:05,685 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,685 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,686 DEBUG AddedGB93479
+2018-10-01 16:43:05,686 DEBUG Requesting1 row:10, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,686 DEBUG [Not assigned]
+2018-10-01 16:43:05,687 DEBUG Requesting2 row:10, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,688 DEBUG Value read: MSCI AC Asia Pacific ex Japan (Local)
+2018-10-01 16:43:05,689 DEBUG Cell value: MSCI AC Asia Pacific ex Japan (Local)
+2018-10-01 16:43:05,689 DEBUG Cell text is: MSCI AC Asia Pacific ex Japan (Local)
+2018-10-01 16:43:05,689 DEBUG AddedMSCI AC Asia Pacific ex Japan (Local)
+2018-10-01 16:43:05,690 DEBUG Requesting1 row:10, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,690 DEBUG [Not assigned]
+2018-10-01 16:43:05,691 DEBUG Requesting2 row:10, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,692 DEBUG Value read: GB93479009
+2018-10-01 16:43:05,692 DEBUG Cell value: GB93479009
+2018-10-01 16:43:05,693 DEBUG Cell text is: GB93479009
+2018-10-01 16:43:05,693 DEBUG AddedGB93479009
+2018-10-01 16:43:05,693 DEBUG Requesting1 row:11, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,694 DEBUG [Not assigned]
+2018-10-01 16:43:05,694 DEBUG Requesting2 row:11, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,696 DEBUG Value read: GB93479
+2018-10-01 16:43:05,696 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,696 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,697 DEBUG AddedGB93479
+2018-10-01 16:43:05,697 DEBUG Requesting1 row:11, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,697 DEBUG [Not assigned]
+2018-10-01 16:43:05,698 DEBUG Requesting2 row:11, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,699 DEBUG Value read: MSCI Daily TR Net Emerging Markets USD Index
+2018-10-01 16:43:05,699 DEBUG Cell value: MSCI Daily TR Net Emerging Markets USD Index
+2018-10-01 16:43:05,700 DEBUG Cell text is: MSCI Daily TR Net Emerging Markets USD Index
+2018-10-01 16:43:05,700 DEBUG AddedMSCI Daily TR Net Emerging Markets USD Index
+2018-10-01 16:43:05,700 DEBUG Requesting1 row:11, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,701 DEBUG [Not assigned]
+2018-10-01 16:43:05,701 DEBUG Requesting2 row:11, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,702 DEBUG Value read: GB93479010
+2018-10-01 16:43:05,703 DEBUG Cell value: GB93479010
+2018-10-01 16:43:05,703 DEBUG Cell text is: GB93479010
+2018-10-01 16:43:05,704 DEBUG AddedGB93479010
+2018-10-01 16:43:05,704 DEBUG Requesting1 row:12, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,704 DEBUG [Not assigned]
+2018-10-01 16:43:05,704 DEBUG Requesting2 row:12, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,706 DEBUG Value read: GB93479
+2018-10-01 16:43:05,706 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,707 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,707 DEBUG AddedGB93479
+2018-10-01 16:43:05,707 DEBUG Requesting1 row:12, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,708 DEBUG [Not assigned]
+2018-10-01 16:43:05,708 DEBUG Requesting2 row:12, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,709 DEBUG Value read: TOPIX TR Index 
+2018-10-01 16:43:05,709 DEBUG Cell value: TOPIX TR Index 
+2018-10-01 16:43:05,710 DEBUG Cell text is: TOPIX TR Index 
+2018-10-01 16:43:05,710 DEBUG AddedTOPIX TR Index 
+2018-10-01 16:43:05,710 DEBUG Requesting1 row:12, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,712 DEBUG [Not assigned]
+2018-10-01 16:43:05,712 DEBUG Requesting2 row:12, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,713 DEBUG Value read: GB93479011
+2018-10-01 16:43:05,714 DEBUG Cell value: GB93479011
+2018-10-01 16:43:05,714 DEBUG Cell text is: GB93479011
+2018-10-01 16:43:05,714 DEBUG AddedGB93479011
+2018-10-01 16:43:05,715 DEBUG Requesting1 row:13, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,715 DEBUG [Not assigned]
+2018-10-01 16:43:05,715 DEBUG Requesting2 row:13, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,717 DEBUG Value read: GB93479
+2018-10-01 16:43:05,717 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,718 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,718 DEBUG AddedGB93479
+2018-10-01 16:43:05,719 DEBUG Requesting1 row:13, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,719 DEBUG [Not assigned]
+2018-10-01 16:43:05,719 DEBUG Requesting2 row:13, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,721 DEBUG Value read: FTSE China A50 Index
+2018-10-01 16:43:05,721 DEBUG Cell value: FTSE China A50 Index
+2018-10-01 16:43:05,722 DEBUG Cell text is: FTSE China A50 Index
+2018-10-01 16:43:05,722 DEBUG AddedFTSE China A50 Index
+2018-10-01 16:43:05,722 DEBUG Requesting1 row:13, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,723 DEBUG [Not assigned]
+2018-10-01 16:43:05,723 DEBUG Requesting2 row:13, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,725 DEBUG Value read: GB93479012
+2018-10-01 16:43:05,725 DEBUG Cell value: GB93479012
+2018-10-01 16:43:05,725 DEBUG Cell text is: GB93479012
+2018-10-01 16:43:05,726 DEBUG AddedGB93479012
+2018-10-01 16:43:05,726 DEBUG Requesting1 row:14, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,726 DEBUG [Not assigned]
+2018-10-01 16:43:05,727 DEBUG Requesting2 row:14, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,728 DEBUG Value read: GB93479
+2018-10-01 16:43:05,728 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,729 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,729 DEBUG AddedGB93479
+2018-10-01 16:43:05,730 DEBUG Requesting1 row:14, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,730 DEBUG [Not assigned]
+2018-10-01 16:43:05,730 DEBUG Requesting2 row:14, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,732 DEBUG Value read: EMD Spread
+2018-10-01 16:43:05,732 DEBUG Cell value: EMD Spread
+2018-10-01 16:43:05,733 DEBUG Cell text is: EMD Spread
+2018-10-01 16:43:05,733 DEBUG AddedEMD Spread
+2018-10-01 16:43:05,733 DEBUG Requesting1 row:14, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,734 DEBUG [Not assigned]
+2018-10-01 16:43:05,734 DEBUG Requesting2 row:14, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,736 DEBUG Value read: GB93479014
+2018-10-01 16:43:05,736 DEBUG Cell value: GB93479014
+2018-10-01 16:43:05,736 DEBUG Cell text is: GB93479014
+2018-10-01 16:43:05,737 DEBUG AddedGB93479014
+2018-10-01 16:43:05,737 DEBUG Requesting1 row:15, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,738 DEBUG [Not assigned]
+2018-10-01 16:43:05,738 DEBUG Requesting2 row:15, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,740 DEBUG Value read: GB93479
+2018-10-01 16:43:05,740 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,740 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,741 DEBUG AddedGB93479
+2018-10-01 16:43:05,741 DEBUG Requesting1 row:15, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,741 DEBUG [Not assigned]
+2018-10-01 16:43:05,742 DEBUG Requesting2 row:15, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,743 DEBUG Value read: Hang Seng Futures
+2018-10-01 16:43:05,744 DEBUG Cell value: Hang Seng Futures
+2018-10-01 16:43:05,744 DEBUG Cell text is: Hang Seng Futures
+2018-10-01 16:43:05,744 DEBUG AddedHang Seng Futures
+2018-10-01 16:43:05,745 DEBUG Requesting1 row:15, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,745 DEBUG [Not assigned]
+2018-10-01 16:43:05,745 DEBUG Requesting2 row:15, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,747 DEBUG Value read: GB93479015
+2018-10-01 16:43:05,747 DEBUG Cell value: GB93479015
+2018-10-01 16:43:05,748 DEBUG Cell text is: GB93479015
+2018-10-01 16:43:05,748 DEBUG AddedGB93479015
+2018-10-01 16:43:05,748 DEBUG Requesting1 row:16, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,749 DEBUG [Not assigned]
+2018-10-01 16:43:05,749 DEBUG Requesting2 row:16, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,751 DEBUG Value read: GB93479
+2018-10-01 16:43:05,751 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,752 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,752 DEBUG AddedGB93479
+2018-10-01 16:43:05,752 DEBUG Requesting1 row:16, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,753 DEBUG [Not assigned]
+2018-10-01 16:43:05,753 DEBUG Requesting2 row:16, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,755 DEBUG Value read: Brazilian Futures Account
+2018-10-01 16:43:05,756 DEBUG Cell value: Brazilian Futures Account
+2018-10-01 16:43:05,756 DEBUG Cell text is: Brazilian Futures Account
+2018-10-01 16:43:05,756 DEBUG AddedBrazilian Futures Account
+2018-10-01 16:43:05,756 DEBUG Requesting1 row:16, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,757 DEBUG [Not assigned]
+2018-10-01 16:43:05,757 DEBUG Requesting2 row:16, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,758 DEBUG Value read: GB93479016
+2018-10-01 16:43:05,759 DEBUG Cell value: GB93479016
+2018-10-01 16:43:05,759 DEBUG Cell text is: GB93479016
+2018-10-01 16:43:05,759 DEBUG AddedGB93479016
+2018-10-01 16:43:05,760 DEBUG Requesting1 row:17, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,760 DEBUG [Not assigned]
+2018-10-01 16:43:05,760 DEBUG Requesting2 row:17, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,762 DEBUG Value read: GB93479
+2018-10-01 16:43:05,763 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,763 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,763 DEBUG AddedGB93479
+2018-10-01 16:43:05,764 DEBUG Requesting1 row:17, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,764 DEBUG [Not assigned]
+2018-10-01 16:43:05,764 DEBUG Requesting2 row:17, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,766 DEBUG Value read: ML UK Gilt 1-3Y
+2018-10-01 16:43:05,766 DEBUG Cell value: ML UK Gilt 1-3Y
+2018-10-01 16:43:05,766 DEBUG Cell text is: ML UK Gilt 1-3Y
+2018-10-01 16:43:05,767 DEBUG AddedML UK Gilt 1-3Y
+2018-10-01 16:43:05,767 DEBUG Requesting1 row:17, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,767 DEBUG [Not assigned]
+2018-10-01 16:43:05,768 DEBUG Requesting2 row:17, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,770 DEBUG Value read: =A17&"018"
+2018-10-01 16:43:05,770 DEBUG Cell value: =A17&"018"
+2018-10-01 16:43:05,771 DEBUG Cell text is: =A17&"018"
+2018-10-01 16:43:05,771 DEBUG Added=A17&"018"
+2018-10-01 16:43:05,771 DEBUG Requesting1 row:18, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,772 DEBUG [Not assigned]
+2018-10-01 16:43:05,772 DEBUG Requesting2 row:18, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,774 DEBUG Value read: GB93479
+2018-10-01 16:43:05,774 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,774 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,775 DEBUG AddedGB93479
+2018-10-01 16:43:05,775 DEBUG Requesting1 row:18, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,776 DEBUG [Not assigned]
+2018-10-01 16:43:05,776 DEBUG Requesting2 row:18, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,778 DEBUG Value read: AU Benchmark 3 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,779 DEBUG Cell value: AU Benchmark 3 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,779 DEBUG Cell text is: AU Benchmark 3 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,780 DEBUG AddedAU Benchmark 3 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,780 DEBUG Requesting1 row:18, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,780 DEBUG [Not assigned]
+2018-10-01 16:43:05,781 DEBUG Requesting2 row:18, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,783 DEBUG Value read: GB93479020
+2018-10-01 16:43:05,784 DEBUG Cell value: GB93479020
+2018-10-01 16:43:05,784 DEBUG Cell text is: GB93479020
+2018-10-01 16:43:05,785 DEBUG AddedGB93479020
+2018-10-01 16:43:05,785 DEBUG Requesting1 row:19, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,785 DEBUG [Not assigned]
+2018-10-01 16:43:05,786 DEBUG Requesting2 row:19, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,787 DEBUG Value read: GB93479
+2018-10-01 16:43:05,788 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,788 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,789 DEBUG AddedGB93479
+2018-10-01 16:43:05,789 DEBUG Requesting1 row:19, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,789 DEBUG [Not assigned]
+2018-10-01 16:43:05,790 DEBUG Requesting2 row:19, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,791 DEBUG Value read: Aus 10 Yr Duration
+2018-10-01 16:43:05,792 DEBUG Cell value: Aus 10 Yr Duration
+2018-10-01 16:43:05,792 DEBUG Cell text is: Aus 10 Yr Duration
+2018-10-01 16:43:05,792 DEBUG AddedAus 10 Yr Duration
+2018-10-01 16:43:05,793 DEBUG Requesting1 row:19, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,793 DEBUG [Not assigned]
+2018-10-01 16:43:05,793 DEBUG Requesting2 row:19, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,795 DEBUG Value read: GB93479021
+2018-10-01 16:43:05,795 DEBUG Cell value: GB93479021
+2018-10-01 16:43:05,796 DEBUG Cell text is: GB93479021
+2018-10-01 16:43:05,796 DEBUG AddedGB93479021
+2018-10-01 16:43:05,796 DEBUG Requesting1 row:20, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,797 DEBUG [Not assigned]
+2018-10-01 16:43:05,797 DEBUG Requesting2 row:20, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,798 DEBUG Value read: GB93479
+2018-10-01 16:43:05,799 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,799 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,800 DEBUG AddedGB93479
+2018-10-01 16:43:05,800 DEBUG Requesting1 row:20, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,800 DEBUG [Not assigned]
+2018-10-01 16:43:05,801 DEBUG Requesting2 row:20, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,803 DEBUG Value read: Can 10 Yr Duration
+2018-10-01 16:43:05,804 DEBUG Cell value: Can 10 Yr Duration
+2018-10-01 16:43:05,804 DEBUG Cell text is: Can 10 Yr Duration
+2018-10-01 16:43:05,805 DEBUG AddedCan 10 Yr Duration
+2018-10-01 16:43:05,805 DEBUG Requesting1 row:20, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,806 DEBUG [Not assigned]
+2018-10-01 16:43:05,806 DEBUG Requesting2 row:20, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,814 DEBUG Value read: GB93479022
+2018-10-01 16:43:05,814 DEBUG Cell value: GB93479022
+2018-10-01 16:43:05,815 DEBUG Cell text is: GB93479022
+2018-10-01 16:43:05,815 DEBUG AddedGB93479022
+2018-10-01 16:43:05,816 DEBUG Requesting1 row:21, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,816 DEBUG [Not assigned]
+2018-10-01 16:43:05,816 DEBUG Requesting2 row:21, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,819 DEBUG Value read: GB93479
+2018-10-01 16:43:05,819 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,820 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,820 DEBUG AddedGB93479
+2018-10-01 16:43:05,820 DEBUG Requesting1 row:21, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,821 DEBUG [Not assigned]
+2018-10-01 16:43:05,821 DEBUG Requesting2 row:21, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,823 DEBUG Value read: IRS 10yr SEK
+2018-10-01 16:43:05,824 DEBUG Cell value: IRS 10yr SEK
+2018-10-01 16:43:05,824 DEBUG Cell text is: IRS 10yr SEK
+2018-10-01 16:43:05,824 DEBUG AddedIRS 10yr SEK
+2018-10-01 16:43:05,825 DEBUG Requesting1 row:21, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,826 DEBUG [Not assigned]
+2018-10-01 16:43:05,827 DEBUG Requesting2 row:21, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,828 DEBUG Value read: GB93479023
+2018-10-01 16:43:05,829 DEBUG Cell value: GB93479023
+2018-10-01 16:43:05,829 DEBUG Cell text is: GB93479023
+2018-10-01 16:43:05,829 DEBUG AddedGB93479023
+2018-10-01 16:43:05,830 DEBUG Requesting1 row:22, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,830 DEBUG [Not assigned]
+2018-10-01 16:43:05,830 DEBUG Requesting2 row:22, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,832 DEBUG Value read: GB93479
+2018-10-01 16:43:05,833 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,833 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,833 DEBUG AddedGB93479
+2018-10-01 16:43:05,834 DEBUG Requesting1 row:22, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,834 DEBUG [Not assigned]
+2018-10-01 16:43:05,835 DEBUG Requesting2 row:22, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,836 DEBUG Value read: JPM EMBI+ Composite
+2018-10-01 16:43:05,837 DEBUG Cell value: JPM EMBI+ Composite
+2018-10-01 16:43:05,837 DEBUG Cell text is: JPM EMBI+ Composite
+2018-10-01 16:43:05,838 DEBUG AddedJPM EMBI+ Composite
+2018-10-01 16:43:05,838 DEBUG Requesting1 row:22, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,838 DEBUG [Not assigned]
+2018-10-01 16:43:05,839 DEBUG Requesting2 row:22, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,841 DEBUG Value read: GB93479023
+2018-10-01 16:43:05,841 DEBUG Cell value: GB93479023
+2018-10-01 16:43:05,842 DEBUG Cell text is: GB93479023
+2018-10-01 16:43:05,842 DEBUG AddedGB93479023
+2018-10-01 16:43:05,843 DEBUG Requesting1 row:23, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,843 DEBUG [Not assigned]
+2018-10-01 16:43:05,843 DEBUG Requesting2 row:23, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,845 DEBUG Value read: GB93479
+2018-10-01 16:43:05,845 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,846 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,846 DEBUG AddedGB93479
+2018-10-01 16:43:05,846 DEBUG Requesting1 row:23, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,847 DEBUG [Not assigned]
+2018-10-01 16:43:05,847 DEBUG Requesting2 row:23, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,849 DEBUG Value read: UK Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,849 DEBUG Cell value: UK Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,850 DEBUG Cell text is: UK Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,850 DEBUG AddedUK Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,851 DEBUG Requesting1 row:23, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,851 DEBUG [Not assigned]
+2018-10-01 16:43:05,851 DEBUG Requesting2 row:23, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,853 DEBUG Value read: GB93479024
+2018-10-01 16:43:05,854 DEBUG Cell value: GB93479024
+2018-10-01 16:43:05,854 DEBUG Cell text is: GB93479024
+2018-10-01 16:43:05,855 DEBUG AddedGB93479024
+2018-10-01 16:43:05,855 DEBUG Requesting1 row:24, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,855 DEBUG [Not assigned]
+2018-10-01 16:43:05,856 DEBUG Requesting2 row:24, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,857 DEBUG Value read: GB93479
+2018-10-01 16:43:05,858 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,858 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,859 DEBUG AddedGB93479
+2018-10-01 16:43:05,859 DEBUG Requesting1 row:24, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,860 DEBUG [Not assigned]
+2018-10-01 16:43:05,860 DEBUG Requesting2 row:24, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,862 DEBUG Value read: US Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,862 DEBUG Cell value: US Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,863 DEBUG Cell text is: US Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,863 DEBUG AddedUS Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,864 DEBUG Requesting1 row:24, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,864 DEBUG [Not assigned]
+2018-10-01 16:43:05,865 DEBUG Requesting2 row:24, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,868 DEBUG Value read: GB93479025
+2018-10-01 16:43:05,868 DEBUG Cell value: GB93479025
+2018-10-01 16:43:05,869 DEBUG Cell text is: GB93479025
+2018-10-01 16:43:05,869 DEBUG AddedGB93479025
+2018-10-01 16:43:05,870 DEBUG Requesting1 row:25, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,870 DEBUG [Not assigned]
+2018-10-01 16:43:05,870 DEBUG Requesting2 row:25, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,872 DEBUG Value read: GB93479
+2018-10-01 16:43:05,872 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,873 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,873 DEBUG AddedGB93479
+2018-10-01 16:43:05,874 DEBUG Requesting1 row:25, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,874 DEBUG [Not assigned]
+2018-10-01 16:43:05,875 DEBUG Requesting2 row:25, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,877 DEBUG Value read: US Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,877 DEBUG Cell value: US Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,877 DEBUG Cell text is: US Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,878 DEBUG AddedUS Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,878 DEBUG Requesting1 row:25, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,878 DEBUG [Not assigned]
+2018-10-01 16:43:05,879 DEBUG Requesting2 row:25, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,881 DEBUG Value read: GB93479026
+2018-10-01 16:43:05,881 DEBUG Cell value: GB93479026
+2018-10-01 16:43:05,881 DEBUG Cell text is: GB93479026
+2018-10-01 16:43:05,882 DEBUG AddedGB93479026
+2018-10-01 16:43:05,882 DEBUG Requesting1 row:26, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,884 DEBUG [Not assigned]
+2018-10-01 16:43:05,884 DEBUG Requesting2 row:26, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,887 DEBUG Value read: GB93479
+2018-10-01 16:43:05,887 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,887 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,888 DEBUG AddedGB93479
+2018-10-01 16:43:05,888 DEBUG Requesting1 row:26, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,888 DEBUG [Not assigned]
+2018-10-01 16:43:05,889 DEBUG Requesting2 row:26, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,891 DEBUG Value read: US Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,891 DEBUG Cell value: US Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,892 DEBUG Cell text is: US Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,892 DEBUG AddedUS Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,892 DEBUG Requesting1 row:26, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,893 DEBUG [Not assigned]
+2018-10-01 16:43:05,893 DEBUG Requesting2 row:26, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,895 DEBUG Value read: GB93479027
+2018-10-01 16:43:05,895 DEBUG Cell value: GB93479027
+2018-10-01 16:43:05,896 DEBUG Cell text is: GB93479027
+2018-10-01 16:43:05,896 DEBUG AddedGB93479027
+2018-10-01 16:43:05,896 DEBUG Requesting1 row:27, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,897 DEBUG [Not assigned]
+2018-10-01 16:43:05,897 DEBUG Requesting2 row:27, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,899 DEBUG Value read: GB93479
+2018-10-01 16:43:05,899 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,899 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,900 DEBUG AddedGB93479
+2018-10-01 16:43:05,900 DEBUG Requesting1 row:27, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,900 DEBUG [Not assigned]
+2018-10-01 16:43:05,901 DEBUG Requesting2 row:27, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,902 DEBUG Value read: BD Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,903 DEBUG Cell value: BD Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,903 DEBUG Cell text is: BD Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,903 DEBUG AddedBD Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,904 DEBUG Requesting1 row:27, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,904 DEBUG [Not assigned]
+2018-10-01 16:43:05,904 DEBUG Requesting2 row:27, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,906 DEBUG Value read: GB93479028
+2018-10-01 16:43:05,906 DEBUG Cell value: GB93479028
+2018-10-01 16:43:05,906 DEBUG Cell text is: GB93479028
+2018-10-01 16:43:05,907 DEBUG AddedGB93479028
+2018-10-01 16:43:05,907 DEBUG Requesting1 row:28, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,907 DEBUG [Not assigned]
+2018-10-01 16:43:05,908 DEBUG Requesting2 row:28, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,910 DEBUG Value read: GB93479
+2018-10-01 16:43:05,910 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,911 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,911 DEBUG AddedGB93479
+2018-10-01 16:43:05,911 DEBUG Requesting1 row:28, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,912 DEBUG [Not assigned]
+2018-10-01 16:43:05,912 DEBUG Requesting2 row:28, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,914 DEBUG Value read: BD Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,914 DEBUG Cell value: BD Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,914 DEBUG Cell text is: BD Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,915 DEBUG AddedBD Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,915 DEBUG Requesting1 row:28, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,915 DEBUG [Not assigned]
+2018-10-01 16:43:05,916 DEBUG Requesting2 row:28, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,917 DEBUG Value read: GB93479029
+2018-10-01 16:43:05,918 DEBUG Cell value: GB93479029
+2018-10-01 16:43:05,918 DEBUG Cell text is: GB93479029
+2018-10-01 16:43:05,918 DEBUG AddedGB93479029
+2018-10-01 16:43:05,918 DEBUG Requesting1 row:29, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,919 DEBUG [Not assigned]
+2018-10-01 16:43:05,919 DEBUG Requesting2 row:29, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,921 DEBUG Value read: GB93479
+2018-10-01 16:43:05,921 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,921 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,922 DEBUG AddedGB93479
+2018-10-01 16:43:05,922 DEBUG Requesting1 row:29, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,922 DEBUG [Not assigned]
+2018-10-01 16:43:05,923 DEBUG Requesting2 row:29, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,924 DEBUG Value read: BD Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,925 DEBUG Cell value: BD Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,925 DEBUG Cell text is: BD Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,925 DEBUG AddedBD Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,926 DEBUG Requesting1 row:29, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,926 DEBUG [Not assigned]
+2018-10-01 16:43:05,927 DEBUG Requesting2 row:29, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,929 DEBUG Value read: GB93479030
+2018-10-01 16:43:05,929 DEBUG Cell value: GB93479030
+2018-10-01 16:43:05,929 DEBUG Cell text is: GB93479030
+2018-10-01 16:43:05,930 DEBUG AddedGB93479030
+2018-10-01 16:43:05,930 DEBUG Requesting1 row:30, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,931 DEBUG [Not assigned]
+2018-10-01 16:43:05,932 DEBUG Requesting2 row:30, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,933 DEBUG Value read: GB93479
+2018-10-01 16:43:05,934 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,934 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,934 DEBUG AddedGB93479
+2018-10-01 16:43:05,935 DEBUG Requesting1 row:30, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,935 DEBUG [Not assigned]
+2018-10-01 16:43:05,935 DEBUG Requesting2 row:30, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,937 DEBUG Value read: JP Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,937 DEBUG Cell value: JP Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,938 DEBUG Cell text is: JP Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,938 DEBUG AddedJP Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:05,938 DEBUG Requesting1 row:30, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,939 DEBUG [Not assigned]
+2018-10-01 16:43:05,939 DEBUG Requesting2 row:30, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,941 DEBUG Value read: GB93479031
+2018-10-01 16:43:05,941 DEBUG Cell value: GB93479031
+2018-10-01 16:43:05,941 DEBUG Cell text is: GB93479031
+2018-10-01 16:43:05,942 DEBUG AddedGB93479031
+2018-10-01 16:43:05,942 DEBUG Requesting1 row:31, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,942 DEBUG [Not assigned]
+2018-10-01 16:43:05,943 DEBUG Requesting2 row:31, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,944 DEBUG Value read: GB93479
+2018-10-01 16:43:05,945 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,945 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,945 DEBUG AddedGB93479
+2018-10-01 16:43:05,946 DEBUG Requesting1 row:31, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,946 DEBUG [Not assigned]
+2018-10-01 16:43:05,946 DEBUG Requesting2 row:31, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,948 DEBUG Value read: Korean 10Y Continuous Index
+2018-10-01 16:43:05,948 DEBUG Cell value: Korean 10Y Continuous Index
+2018-10-01 16:43:05,950 DEBUG Cell text is: Korean 10Y Continuous Index
+2018-10-01 16:43:05,950 DEBUG AddedKorean 10Y Continuous Index
+2018-10-01 16:43:05,950 DEBUG Requesting1 row:31, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,951 DEBUG [Not assigned]
+2018-10-01 16:43:05,951 DEBUG Requesting2 row:31, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,953 DEBUG Value read: GB93479032
+2018-10-01 16:43:05,953 DEBUG Cell value: GB93479032
+2018-10-01 16:43:05,953 DEBUG Cell text is: GB93479032
+2018-10-01 16:43:05,954 DEBUG AddedGB93479032
+2018-10-01 16:43:05,954 DEBUG Requesting1 row:32, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,954 DEBUG [Not assigned]
+2018-10-01 16:43:05,955 DEBUG Requesting2 row:32, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,956 DEBUG Value read: GB93479
+2018-10-01 16:43:05,957 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,957 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,957 DEBUG AddedGB93479
+2018-10-01 16:43:05,958 DEBUG Requesting1 row:32, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,958 DEBUG [Not assigned]
+2018-10-01 16:43:05,958 DEBUG Requesting2 row:32, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,960 DEBUG Value read: Korean 3Y Continuous Index
+2018-10-01 16:43:05,960 DEBUG Cell value: Korean 3Y Continuous Index
+2018-10-01 16:43:05,961 DEBUG Cell text is: Korean 3Y Continuous Index
+2018-10-01 16:43:05,961 DEBUG AddedKorean 3Y Continuous Index
+2018-10-01 16:43:05,962 DEBUG Requesting1 row:32, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,962 DEBUG [Not assigned]
+2018-10-01 16:43:05,962 DEBUG Requesting2 row:32, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,964 DEBUG Value read: GB93479033
+2018-10-01 16:43:05,965 DEBUG Cell value: GB93479033
+2018-10-01 16:43:05,965 DEBUG Cell text is: GB93479033
+2018-10-01 16:43:05,965 DEBUG AddedGB93479033
+2018-10-01 16:43:05,966 DEBUG Requesting1 row:33, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,966 DEBUG [Not assigned]
+2018-10-01 16:43:05,966 DEBUG Requesting2 row:33, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,968 DEBUG Value read: GB93479
+2018-10-01 16:43:05,969 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,969 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,969 DEBUG AddedGB93479
+2018-10-01 16:43:05,970 DEBUG Requesting1 row:33, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,970 DEBUG [Not assigned]
+2018-10-01 16:43:05,970 DEBUG Requesting2 row:33, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,972 DEBUG Value read: ASX 200
+2018-10-01 16:43:05,972 DEBUG Cell value: ASX 200
+2018-10-01 16:43:05,973 DEBUG Cell text is: ASX 200
+2018-10-01 16:43:05,973 DEBUG AddedASX 200
+2018-10-01 16:43:05,974 DEBUG Requesting1 row:33, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,974 DEBUG [Not assigned]
+2018-10-01 16:43:05,974 DEBUG Requesting2 row:33, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,976 DEBUG Value read: GB93479034
+2018-10-01 16:43:05,977 DEBUG Cell value: GB93479034
+2018-10-01 16:43:05,977 DEBUG Cell text is: GB93479034
+2018-10-01 16:43:05,977 DEBUG AddedGB93479034
+2018-10-01 16:43:05,978 DEBUG Requesting1 row:34, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,978 DEBUG [Not assigned]
+2018-10-01 16:43:05,978 DEBUG Requesting2 row:34, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,980 DEBUG Value read: GB93479
+2018-10-01 16:43:05,981 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,982 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,982 DEBUG AddedGB93479
+2018-10-01 16:43:05,982 DEBUG Requesting1 row:34, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,982 DEBUG [Not assigned]
+2018-10-01 16:43:05,983 DEBUG Requesting2 row:34, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,984 DEBUG Value read: IRS 10yr NOK
+2018-10-01 16:43:05,985 DEBUG Cell value: IRS 10yr NOK
+2018-10-01 16:43:05,985 DEBUG Cell text is: IRS 10yr NOK
+2018-10-01 16:43:05,985 DEBUG AddedIRS 10yr NOK
+2018-10-01 16:43:05,986 DEBUG Requesting1 row:34, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,986 DEBUG [Not assigned]
+2018-10-01 16:43:05,986 DEBUG Requesting2 row:34, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,988 DEBUG Value read: GB93479035
+2018-10-01 16:43:05,988 DEBUG Cell value: GB93479035
+2018-10-01 16:43:05,989 DEBUG Cell text is: GB93479035
+2018-10-01 16:43:05,989 DEBUG AddedGB93479035
+2018-10-01 16:43:05,989 DEBUG Requesting1 row:35, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:05,990 DEBUG [Not assigned]
+2018-10-01 16:43:05,990 DEBUG Requesting2 row:35, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,992 DEBUG Value read: GB93479
+2018-10-01 16:43:05,992 DEBUG Cell value: GB93479
+2018-10-01 16:43:05,992 DEBUG Cell text is: GB93479
+2018-10-01 16:43:05,992 DEBUG AddedGB93479
+2018-10-01 16:43:05,993 DEBUG Requesting1 row:35, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:05,993 DEBUG [Not assigned]
+2018-10-01 16:43:05,993 DEBUG Requesting2 row:35, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,995 DEBUG Value read: IRS 10yr PLN
+2018-10-01 16:43:05,996 DEBUG Cell value: IRS 10yr PLN
+2018-10-01 16:43:05,997 DEBUG Cell text is: IRS 10yr PLN
+2018-10-01 16:43:05,997 DEBUG AddedIRS 10yr PLN
+2018-10-01 16:43:05,997 DEBUG Requesting1 row:35, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:05,998 DEBUG [Not assigned]
+2018-10-01 16:43:05,998 DEBUG Requesting2 row:35, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:05,999 DEBUG Value read: GB93479036
+2018-10-01 16:43:06,000 DEBUG Cell value: GB93479036
+2018-10-01 16:43:06,000 DEBUG Cell text is: GB93479036
+2018-10-01 16:43:06,000 DEBUG AddedGB93479036
+2018-10-01 16:43:06,001 DEBUG Requesting1 row:36, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,001 DEBUG [Not assigned]
+2018-10-01 16:43:06,001 DEBUG Requesting2 row:36, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,003 DEBUG Value read: GB93479
+2018-10-01 16:43:06,004 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,004 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,004 DEBUG AddedGB93479
+2018-10-01 16:43:06,005 DEBUG Requesting1 row:36, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,005 DEBUG [Not assigned]
+2018-10-01 16:43:06,005 DEBUG Requesting2 row:36, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,007 DEBUG Value read: IRS 10yr NZD
+2018-10-01 16:43:06,007 DEBUG Cell value: IRS 10yr NZD
+2018-10-01 16:43:06,008 DEBUG Cell text is: IRS 10yr NZD
+2018-10-01 16:43:06,008 DEBUG AddedIRS 10yr NZD
+2018-10-01 16:43:06,008 DEBUG Requesting1 row:36, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,009 DEBUG [Not assigned]
+2018-10-01 16:43:06,009 DEBUG Requesting2 row:36, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,012 DEBUG Value read: GB93479037
+2018-10-01 16:43:06,012 DEBUG Cell value: GB93479037
+2018-10-01 16:43:06,013 DEBUG Cell text is: GB93479037
+2018-10-01 16:43:06,013 DEBUG AddedGB93479037
+2018-10-01 16:43:06,013 DEBUG Requesting1 row:37, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,014 DEBUG [Not assigned]
+2018-10-01 16:43:06,014 DEBUG Requesting2 row:37, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,017 DEBUG Value read: GB93479
+2018-10-01 16:43:06,017 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,018 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,018 DEBUG AddedGB93479
+2018-10-01 16:43:06,018 DEBUG Requesting1 row:37, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,019 DEBUG [Not assigned]
+2018-10-01 16:43:06,019 DEBUG Requesting2 row:37, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,021 DEBUG Value read: IRS 3yr ZAR
+2018-10-01 16:43:06,021 DEBUG Cell value: IRS 3yr ZAR
+2018-10-01 16:43:06,022 DEBUG Cell text is: IRS 3yr ZAR
+2018-10-01 16:43:06,022 DEBUG AddedIRS 3yr ZAR
+2018-10-01 16:43:06,022 DEBUG Requesting1 row:37, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,023 DEBUG [Not assigned]
+2018-10-01 16:43:06,023 DEBUG Requesting2 row:37, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,025 DEBUG Value read: GB93479038
+2018-10-01 16:43:06,025 DEBUG Cell value: GB93479038
+2018-10-01 16:43:06,025 DEBUG Cell text is: GB93479038
+2018-10-01 16:43:06,026 DEBUG AddedGB93479038
+2018-10-01 16:43:06,026 DEBUG Requesting1 row:38, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,026 DEBUG [Not assigned]
+2018-10-01 16:43:06,027 DEBUG Requesting2 row:38, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,028 DEBUG Value read: GB93479
+2018-10-01 16:43:06,029 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,029 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,029 DEBUG AddedGB93479
+2018-10-01 16:43:06,029 DEBUG Requesting1 row:38, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,030 DEBUG [Not assigned]
+2018-10-01 16:43:06,030 DEBUG Requesting2 row:38, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,032 DEBUG Value read: US 30Y Continuous Index (DS04)
+2018-10-01 16:43:06,033 DEBUG Cell value: US 30Y Continuous Index (DS04)
+2018-10-01 16:43:06,033 DEBUG Cell text is: US 30Y Continuous Index (DS04)
+2018-10-01 16:43:06,033 DEBUG AddedUS 30Y Continuous Index (DS04)
+2018-10-01 16:43:06,033 DEBUG Requesting1 row:38, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,033 DEBUG [Not assigned]
+2018-10-01 16:43:06,034 DEBUG Requesting2 row:38, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,035 DEBUG Value read: GB93479039
+2018-10-01 16:43:06,036 DEBUG Cell value: GB93479039
+2018-10-01 16:43:06,036 DEBUG Cell text is: GB93479039
+2018-10-01 16:43:06,036 DEBUG AddedGB93479039
+2018-10-01 16:43:06,037 DEBUG Requesting1 row:39, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,037 DEBUG [Not assigned]
+2018-10-01 16:43:06,037 DEBUG Requesting2 row:39, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,039 DEBUG Value read: GB93479
+2018-10-01 16:43:06,040 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,040 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,040 DEBUG AddedGB93479
+2018-10-01 16:43:06,041 DEBUG Requesting1 row:39, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,041 DEBUG [Not assigned]
+2018-10-01 16:43:06,041 DEBUG Requesting2 row:39, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,043 DEBUG Value read: Inflation Risk Premium
+2018-10-01 16:43:06,043 DEBUG Cell value: Inflation Risk Premium
+2018-10-01 16:43:06,043 DEBUG Cell text is: Inflation Risk Premium
+2018-10-01 16:43:06,044 DEBUG AddedInflation Risk Premium
+2018-10-01 16:43:06,044 DEBUG Requesting1 row:39, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,044 DEBUG [Not assigned]
+2018-10-01 16:43:06,045 DEBUG Requesting2 row:39, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,047 DEBUG Value read: GB93479040
+2018-10-01 16:43:06,047 DEBUG Cell value: GB93479040
+2018-10-01 16:43:06,047 DEBUG Cell text is: GB93479040
+2018-10-01 16:43:06,048 DEBUG AddedGB93479040
+2018-10-01 16:43:06,048 DEBUG Requesting1 row:40, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,048 DEBUG [Not assigned]
+2018-10-01 16:43:06,049 DEBUG Requesting2 row:40, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,050 DEBUG Value read: GB93479
+2018-10-01 16:43:06,052 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,052 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,052 DEBUG AddedGB93479
+2018-10-01 16:43:06,052 DEBUG Requesting1 row:40, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,052 DEBUG [Not assigned]
+2018-10-01 16:43:06,053 DEBUG Requesting2 row:40, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,055 DEBUG Value read: Gold 
+2018-10-01 16:43:06,055 DEBUG Cell value: Gold 
+2018-10-01 16:43:06,055 DEBUG Cell text is: Gold 
+2018-10-01 16:43:06,056 DEBUG AddedGold 
+2018-10-01 16:43:06,056 DEBUG Requesting1 row:40, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,056 DEBUG [Not assigned]
+2018-10-01 16:43:06,057 DEBUG Requesting2 row:40, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,059 DEBUG Value read: GB93479041
+2018-10-01 16:43:06,059 DEBUG Cell value: GB93479041
+2018-10-01 16:43:06,059 DEBUG Cell text is: GB93479041
+2018-10-01 16:43:06,060 DEBUG AddedGB93479041
+2018-10-01 16:43:06,060 DEBUG Requesting1 row:41, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,060 DEBUG [Not assigned]
+2018-10-01 16:43:06,061 DEBUG Requesting2 row:41, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,062 DEBUG Value read: GB93479
+2018-10-01 16:43:06,063 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,063 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,063 DEBUG AddedGB93479
+2018-10-01 16:43:06,064 DEBUG Requesting1 row:41, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,064 DEBUG [Not assigned]
+2018-10-01 16:43:06,064 DEBUG Requesting2 row:41, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,066 DEBUG Value read: BBG Agriculture TR
+2018-10-01 16:43:06,066 DEBUG Cell value: BBG Agriculture TR
+2018-10-01 16:43:06,067 DEBUG Cell text is: BBG Agriculture TR
+2018-10-01 16:43:06,067 DEBUG AddedBBG Agriculture TR
+2018-10-01 16:43:06,067 DEBUG Requesting1 row:41, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,068 DEBUG [Not assigned]
+2018-10-01 16:43:06,068 DEBUG Requesting2 row:41, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,070 DEBUG Value read: GB93479042
+2018-10-01 16:43:06,071 DEBUG Cell value: GB93479042
+2018-10-01 16:43:06,071 DEBUG Cell text is: GB93479042
+2018-10-01 16:43:06,071 DEBUG AddedGB93479042
+2018-10-01 16:43:06,071 DEBUG Requesting1 row:42, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,071 DEBUG [Not assigned]
+2018-10-01 16:43:06,073 DEBUG Requesting2 row:42, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,073 DEBUG Value read: GB93479
+2018-10-01 16:43:06,075 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,075 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,075 DEBUG AddedGB93479
+2018-10-01 16:43:06,075 DEBUG Requesting1 row:42, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,075 DEBUG [Not assigned]
+2018-10-01 16:43:06,075 DEBUG Requesting2 row:42, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,078 DEBUG Value read: BBG Ind Metal Commodities
+2018-10-01 16:43:06,078 DEBUG Cell value: BBG Ind Metal Commodities
+2018-10-01 16:43:06,079 DEBUG Cell text is: BBG Ind Metal Commodities
+2018-10-01 16:43:06,079 DEBUG AddedBBG Ind Metal Commodities
+2018-10-01 16:43:06,079 DEBUG Requesting1 row:42, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,079 DEBUG [Not assigned]
+2018-10-01 16:43:06,079 DEBUG Requesting2 row:42, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,089 DEBUG Value read: GB93479043
+2018-10-01 16:43:06,089 DEBUG Cell value: GB93479043
+2018-10-01 16:43:06,089 DEBUG Cell text is: GB93479043
+2018-10-01 16:43:06,090 DEBUG AddedGB93479043
+2018-10-01 16:43:06,090 DEBUG Requesting1 row:43, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,090 DEBUG [Not assigned]
+2018-10-01 16:43:06,091 DEBUG Requesting2 row:43, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,093 DEBUG Value read: GB93479
+2018-10-01 16:43:06,093 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,093 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,094 DEBUG AddedGB93479
+2018-10-01 16:43:06,094 DEBUG Requesting1 row:43, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,094 DEBUG [Not assigned]
+2018-10-01 16:43:06,095 DEBUG Requesting2 row:43, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,096 DEBUG Value read: Commodities (DJ UBS Crude Oil TR)
+2018-10-01 16:43:06,096 DEBUG Cell value: Commodities (DJ UBS Crude Oil TR)
+2018-10-01 16:43:06,096 DEBUG Cell text is: Commodities (DJ UBS Crude Oil TR)
+2018-10-01 16:43:06,098 DEBUG AddedCommodities (DJ UBS Crude Oil TR)
+2018-10-01 16:43:06,098 DEBUG Requesting1 row:43, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,098 DEBUG [Not assigned]
+2018-10-01 16:43:06,099 DEBUG Requesting2 row:43, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,100 DEBUG Value read: GB93479044
+2018-10-01 16:43:06,100 DEBUG Cell value: GB93479044
+2018-10-01 16:43:06,100 DEBUG Cell text is: GB93479044
+2018-10-01 16:43:06,100 DEBUG AddedGB93479044
+2018-10-01 16:43:06,102 DEBUG Requesting1 row:44, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,102 DEBUG [Not assigned]
+2018-10-01 16:43:06,102 DEBUG Requesting2 row:44, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,138 DEBUG Value read: GB93479
+2018-10-01 16:43:06,139 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,139 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,139 DEBUG AddedGB93479
+2018-10-01 16:43:06,140 DEBUG Requesting1 row:44, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,140 DEBUG [Not assigned]
+2018-10-01 16:43:06,140 DEBUG Requesting2 row:44, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,176 DEBUG Value read: ILS 10yr USD
+2018-10-01 16:43:06,177 DEBUG Cell value: ILS 10yr USD
+2018-10-01 16:43:06,177 DEBUG Cell text is: ILS 10yr USD
+2018-10-01 16:43:06,177 DEBUG AddedILS 10yr USD
+2018-10-01 16:43:06,178 DEBUG Requesting1 row:44, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,178 DEBUG [Not assigned]
+2018-10-01 16:43:06,178 DEBUG Requesting2 row:44, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,220 DEBUG Value read: GB93479045
+2018-10-01 16:43:06,221 DEBUG Cell value: GB93479045
+2018-10-01 16:43:06,221 DEBUG Cell text is: GB93479045
+2018-10-01 16:43:06,221 DEBUG AddedGB93479045
+2018-10-01 16:43:06,222 DEBUG Requesting1 row:45, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,222 DEBUG [Not assigned]
+2018-10-01 16:43:06,222 DEBUG Requesting2 row:45, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,258 DEBUG Value read: GB93479
+2018-10-01 16:43:06,258 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,258 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,259 DEBUG AddedGB93479
+2018-10-01 16:43:06,259 DEBUG Requesting1 row:45, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,260 DEBUG [Not assigned]
+2018-10-01 16:43:06,260 DEBUG Requesting2 row:45, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,296 DEBUG Value read: ILS - UK RPI
+2018-10-01 16:43:06,296 DEBUG Cell value: ILS - UK RPI
+2018-10-01 16:43:06,297 DEBUG Cell text is: ILS - UK RPI
+2018-10-01 16:43:06,297 DEBUG AddedILS - UK RPI
+2018-10-01 16:43:06,297 DEBUG Requesting1 row:45, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,298 DEBUG [Not assigned]
+2018-10-01 16:43:06,298 DEBUG Requesting2 row:45, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,339 DEBUG Value read: GB93479046
+2018-10-01 16:43:06,339 DEBUG Cell value: GB93479046
+2018-10-01 16:43:06,340 DEBUG Cell text is: GB93479046
+2018-10-01 16:43:06,340 DEBUG AddedGB93479046
+2018-10-01 16:43:06,340 DEBUG Requesting1 row:46, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,341 DEBUG [Not assigned]
+2018-10-01 16:43:06,341 DEBUG Requesting2 row:46, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,380 DEBUG Value read: GB93479
+2018-10-01 16:43:06,381 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,381 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,382 DEBUG AddedGB93479
+2018-10-01 16:43:06,382 DEBUG Requesting1 row:46, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,382 DEBUG [Not assigned]
+2018-10-01 16:43:06,383 DEBUG Requesting2 row:46, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,419 DEBUG Value read: ILS - EU HICP
+2018-10-01 16:43:06,420 DEBUG Cell value: ILS - EU HICP
+2018-10-01 16:43:06,420 DEBUG Cell text is: ILS - EU HICP
+2018-10-01 16:43:06,421 DEBUG AddedILS - EU HICP
+2018-10-01 16:43:06,421 DEBUG Requesting1 row:46, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,421 DEBUG [Not assigned]
+2018-10-01 16:43:06,422 DEBUG Requesting2 row:46, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,465 DEBUG Value read: GB93479047
+2018-10-01 16:43:06,465 DEBUG Cell value: GB93479047
+2018-10-01 16:43:06,466 DEBUG Cell text is: GB93479047
+2018-10-01 16:43:06,466 DEBUG AddedGB93479047
+2018-10-01 16:43:06,467 DEBUG Requesting1 row:47, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,467 DEBUG [Not assigned]
+2018-10-01 16:43:06,467 DEBUG Requesting2 row:47, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,505 DEBUG Value read: GB93479
+2018-10-01 16:43:06,505 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,505 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,506 DEBUG AddedGB93479
+2018-10-01 16:43:06,506 DEBUG Requesting1 row:47, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,506 DEBUG [Not assigned]
+2018-10-01 16:43:06,507 DEBUG Requesting2 row:47, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,543 DEBUG Value read: Enhanced Commodity Beta
+2018-10-01 16:43:06,544 DEBUG Cell value: Enhanced Commodity Beta
+2018-10-01 16:43:06,544 DEBUG Cell text is: Enhanced Commodity Beta
+2018-10-01 16:43:06,545 DEBUG AddedEnhanced Commodity Beta
+2018-10-01 16:43:06,545 DEBUG Requesting1 row:47, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,545 DEBUG [Not assigned]
+2018-10-01 16:43:06,546 DEBUG Requesting2 row:47, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,589 DEBUG Value read: GB93479048
+2018-10-01 16:43:06,589 DEBUG Cell value: GB93479048
+2018-10-01 16:43:06,590 DEBUG Cell text is: GB93479048
+2018-10-01 16:43:06,590 DEBUG AddedGB93479048
+2018-10-01 16:43:06,590 DEBUG Requesting1 row:48, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,591 DEBUG [Not assigned]
+2018-10-01 16:43:06,591 DEBUG Requesting2 row:48, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,627 DEBUG Value read: GB93479
+2018-10-01 16:43:06,628 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,628 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,628 DEBUG AddedGB93479
+2018-10-01 16:43:06,629 DEBUG Requesting1 row:48, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,629 DEBUG [Not assigned]
+2018-10-01 16:43:06,629 DEBUG Requesting2 row:48, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,673 DEBUG Value read: Euro BUXL (30Y) Continuous Index (DS04)
+2018-10-01 16:43:06,674 DEBUG Cell value: Euro BUXL (30Y) Continuous Index (DS04)
+2018-10-01 16:43:06,674 DEBUG Cell text is: Euro BUXL (30Y) Continuous Index (DS04)
+2018-10-01 16:43:06,674 DEBUG AddedEuro BUXL (30Y) Continuous Index (DS04)
+2018-10-01 16:43:06,675 DEBUG Requesting1 row:48, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,675 DEBUG [Not assigned]
+2018-10-01 16:43:06,675 DEBUG Requesting2 row:48, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,712 DEBUG Value read: GB93479050
+2018-10-01 16:43:06,713 DEBUG Cell value: GB93479050
+2018-10-01 16:43:06,713 DEBUG Cell text is: GB93479050
+2018-10-01 16:43:06,714 DEBUG AddedGB93479050
+2018-10-01 16:43:06,715 DEBUG Requesting1 row:49, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,715 DEBUG [Not assigned]
+2018-10-01 16:43:06,715 DEBUG Requesting2 row:49, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,753 DEBUG Value read: GB93479
+2018-10-01 16:43:06,754 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,754 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,754 DEBUG AddedGB93479
+2018-10-01 16:43:06,755 DEBUG Requesting1 row:49, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,755 DEBUG [Not assigned]
+2018-10-01 16:43:06,755 DEBUG Requesting2 row:49, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,799 DEBUG Value read: IRS 30yr GBP
+2018-10-01 16:43:06,800 DEBUG Cell value: IRS 30yr GBP
+2018-10-01 16:43:06,800 DEBUG Cell text is: IRS 30yr GBP
+2018-10-01 16:43:06,801 DEBUG AddedIRS 30yr GBP
+2018-10-01 16:43:06,801 DEBUG Requesting1 row:49, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,801 DEBUG [Not assigned]
+2018-10-01 16:43:06,802 DEBUG Requesting2 row:49, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,839 DEBUG Value read: GB93479051
+2018-10-01 16:43:06,840 DEBUG Cell value: GB93479051
+2018-10-01 16:43:06,840 DEBUG Cell text is: GB93479051
+2018-10-01 16:43:06,841 DEBUG AddedGB93479051
+2018-10-01 16:43:06,841 DEBUG Requesting1 row:50, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,841 DEBUG [Not assigned]
+2018-10-01 16:43:06,842 DEBUG Requesting2 row:50, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,881 DEBUG Value read: GB93479
+2018-10-01 16:43:06,881 DEBUG Cell value: GB93479
+2018-10-01 16:43:06,882 DEBUG Cell text is: GB93479
+2018-10-01 16:43:06,882 DEBUG AddedGB93479
+2018-10-01 16:43:06,882 DEBUG Requesting1 row:50, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:06,883 DEBUG [Not assigned]
+2018-10-01 16:43:06,883 DEBUG Requesting2 row:50, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,927 DEBUG Value read: IRS 10yr ZAR
+2018-10-01 16:43:06,928 DEBUG Cell value: IRS 10yr ZAR
+2018-10-01 16:43:06,928 DEBUG Cell text is: IRS 10yr ZAR
+2018-10-01 16:43:06,928 DEBUG AddedIRS 10yr ZAR
+2018-10-01 16:43:06,929 DEBUG Requesting1 row:50, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:06,929 DEBUG [Not assigned]
+2018-10-01 16:43:06,930 DEBUG Requesting2 row:50, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:06,966 DEBUG Value read: GB93479052
+2018-10-01 16:43:06,967 DEBUG Cell value: GB93479052
+2018-10-01 16:43:06,967 DEBUG Cell text is: GB93479052
+2018-10-01 16:43:06,967 DEBUG AddedGB93479052
+2018-10-01 16:43:06,968 DEBUG Requesting1 row:51, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:06,968 DEBUG [Not assigned]
+2018-10-01 16:43:06,968 DEBUG Requesting2 row:51, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,005 DEBUG Value read: GB93479
+2018-10-01 16:43:07,005 DEBUG Cell value: GB93479
+2018-10-01 16:43:07,005 DEBUG Cell text is: GB93479
+2018-10-01 16:43:07,006 DEBUG AddedGB93479
+2018-10-01 16:43:07,006 DEBUG Requesting1 row:51, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,007 DEBUG [Not assigned]
+2018-10-01 16:43:07,007 DEBUG Requesting2 row:51, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,055 DEBUG Value read: IRS 10yr MXN
+2018-10-01 16:43:07,056 DEBUG Cell value: IRS 10yr MXN
+2018-10-01 16:43:07,056 DEBUG Cell text is: IRS 10yr MXN
+2018-10-01 16:43:07,057 DEBUG AddedIRS 10yr MXN
+2018-10-01 16:43:07,057 DEBUG Requesting1 row:51, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,058 DEBUG [Not assigned]
+2018-10-01 16:43:07,058 DEBUG Requesting2 row:51, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:07,107 DEBUG Value read: GB93479053
+2018-10-01 16:43:07,108 DEBUG Cell value: GB93479053
+2018-10-01 16:43:07,108 DEBUG Cell text is: GB93479053
+2018-10-01 16:43:07,109 DEBUG AddedGB93479053
+2018-10-01 16:43:07,109 DEBUG Requesting1 row:52, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:07,109 DEBUG [Not assigned]
+2018-10-01 16:43:07,110 DEBUG Requesting2 row:52, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,154 DEBUG Value read: GB93479
+2018-10-01 16:43:07,155 DEBUG Cell value: GB93479
+2018-10-01 16:43:07,155 DEBUG Cell text is: GB93479
+2018-10-01 16:43:07,156 DEBUG AddedGB93479
+2018-10-01 16:43:07,156 DEBUG Requesting1 row:52, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,156 DEBUG [Not assigned]
+2018-10-01 16:43:07,157 DEBUG Requesting2 row:52, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,193 DEBUG Value read: Small Cap Premium
+2018-10-01 16:43:07,193 DEBUG Cell value: Small Cap Premium
+2018-10-01 16:43:07,193 DEBUG Cell text is: Small Cap Premium
+2018-10-01 16:43:07,194 DEBUG AddedSmall Cap Premium
+2018-10-01 16:43:07,194 DEBUG Requesting1 row:52, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,194 DEBUG [Not assigned]
+2018-10-01 16:43:07,195 DEBUG Requesting2 row:52, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:07,230 DEBUG Value read: GB93479060
+2018-10-01 16:43:07,230 DEBUG Cell value: GB93479060
+2018-10-01 16:43:07,231 DEBUG Cell text is: GB93479060
+2018-10-01 16:43:07,231 DEBUG AddedGB93479060
+2018-10-01 16:43:07,232 DEBUG Requesting1 row:53, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:07,232 DEBUG [Not assigned]
+2018-10-01 16:43:07,232 DEBUG Requesting2 row:53, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,274 DEBUG Value read: GB93479
+2018-10-01 16:43:07,275 DEBUG Cell value: GB93479
+2018-10-01 16:43:07,275 DEBUG Cell text is: GB93479
+2018-10-01 16:43:07,275 DEBUG AddedGB93479
+2018-10-01 16:43:07,276 DEBUG Requesting1 row:53, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,276 DEBUG [Not assigned]
+2018-10-01 16:43:07,276 DEBUG Requesting2 row:53, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,311 DEBUG Value read: UK Small Cap Premium
+2018-10-01 16:43:07,312 DEBUG Cell value: UK Small Cap Premium
+2018-10-01 16:43:07,312 DEBUG Cell text is: UK Small Cap Premium
+2018-10-01 16:43:07,313 DEBUG AddedUK Small Cap Premium
+2018-10-01 16:43:07,313 DEBUG Requesting1 row:53, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,313 DEBUG [Not assigned]
+2018-10-01 16:43:07,314 DEBUG Requesting2 row:53, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:07,349 DEBUG Value read: GB93479061
+2018-10-01 16:43:07,349 DEBUG Cell value: GB93479061
+2018-10-01 16:43:07,350 DEBUG Cell text is: GB93479061
+2018-10-01 16:43:07,350 DEBUG AddedGB93479061
+2018-10-01 16:43:07,350 DEBUG Requesting1 row:54, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:07,350 DEBUG [Not assigned]
+2018-10-01 16:43:07,351 DEBUG Requesting2 row:54, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,393 DEBUG Value read: GB93479
+2018-10-01 16:43:07,393 DEBUG Cell value: GB93479
+2018-10-01 16:43:07,393 DEBUG Cell text is: GB93479
+2018-10-01 16:43:07,394 DEBUG AddedGB93479
+2018-10-01 16:43:07,394 DEBUG Requesting1 row:54, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,394 DEBUG [Not assigned]
+2018-10-01 16:43:07,395 DEBUG Requesting2 row:54, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,429 DEBUG Value read: German Extra Small Cap Premium 
+2018-10-01 16:43:07,429 DEBUG Cell value: German Extra Small Cap Premium 
+2018-10-01 16:43:07,430 DEBUG Cell text is: German Extra Small Cap Premium 
+2018-10-01 16:43:07,430 DEBUG AddedGerman Extra Small Cap Premium 
+2018-10-01 16:43:07,431 DEBUG Requesting1 row:54, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,431 DEBUG [Not assigned]
+2018-10-01 16:43:07,431 DEBUG Requesting2 row:54, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:07,467 DEBUG Value read: GB93479062
+2018-10-01 16:43:07,468 DEBUG Cell value: GB93479062
+2018-10-01 16:43:07,468 DEBUG Cell text is: GB93479062
+2018-10-01 16:43:07,469 DEBUG AddedGB93479062
+2018-10-01 16:43:07,469 DEBUG Requesting1 row:55, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:07,469 DEBUG [Not assigned]
+2018-10-01 16:43:07,470 DEBUG Requesting2 row:55, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,511 DEBUG Value read: GB93479
+2018-10-01 16:43:07,511 DEBUG Cell value: GB93479
+2018-10-01 16:43:07,512 DEBUG Cell text is: GB93479
+2018-10-01 16:43:07,512 DEBUG AddedGB93479
+2018-10-01 16:43:07,512 DEBUG Requesting1 row:55, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,513 DEBUG [Not assigned]
+2018-10-01 16:43:07,513 DEBUG Requesting2 row:55, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,548 DEBUG Value read: None
+2018-10-01 16:43:07,549 DEBUG Cell value: 
+2018-10-01 16:43:07,550 DEBUG Cell text is: 
+2018-10-01 16:43:07,550 DEBUG Requesting1 row:55, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,551 DEBUG [Not assigned]
+2018-10-01 16:43:07,551 DEBUG Requesting2 row:55, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:07,589 DEBUG Value read: GB93479063
+2018-10-01 16:43:07,589 DEBUG Cell value: GB93479063
+2018-10-01 16:43:07,590 DEBUG Cell text is: GB93479063
+2018-10-01 16:43:07,590 DEBUG AddedGB93479063
+2018-10-01 16:43:07,591 DEBUG Requesting1 row:56, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:07,591 DEBUG [Not assigned]
+2018-10-01 16:43:07,592 DEBUG Requesting2 row:56, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,637 DEBUG Value read: GB93479
+2018-10-01 16:43:07,637 DEBUG Cell value: GB93479
+2018-10-01 16:43:07,638 DEBUG Cell text is: GB93479
+2018-10-01 16:43:07,639 DEBUG AddedGB93479
+2018-10-01 16:43:07,639 DEBUG Requesting1 row:56, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,640 DEBUG [Not assigned]
+2018-10-01 16:43:07,640 DEBUG Requesting2 row:56, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,676 DEBUG Value read: RF Carry Basket
+2018-10-01 16:43:07,677 DEBUG Cell value: RF Carry Basket
+2018-10-01 16:43:07,677 DEBUG Cell text is: RF Carry Basket
+2018-10-01 16:43:07,678 DEBUG AddedRF Carry Basket
+2018-10-01 16:43:07,678 DEBUG Requesting1 row:56, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,678 DEBUG [Not assigned]
+2018-10-01 16:43:07,679 DEBUG Requesting2 row:56, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:07,722 DEBUG Value read: GB93479064
+2018-10-01 16:43:07,723 DEBUG Cell value: GB93479064
+2018-10-01 16:43:07,723 DEBUG Cell text is: GB93479064
+2018-10-01 16:43:07,724 DEBUG AddedGB93479064
+2018-10-01 16:43:07,725 DEBUG Requesting1 row:57, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:07,725 DEBUG [Not assigned]
+2018-10-01 16:43:07,726 DEBUG Requesting2 row:57, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,763 DEBUG Value read: GB93479
+2018-10-01 16:43:07,764 DEBUG Cell value: GB93479
+2018-10-01 16:43:07,764 DEBUG Cell text is: GB93479
+2018-10-01 16:43:07,765 DEBUG AddedGB93479
+2018-10-01 16:43:07,765 DEBUG Requesting1 row:57, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,766 DEBUG [Not assigned]
+2018-10-01 16:43:07,766 DEBUG Requesting2 row:57, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,802 DEBUG Value read: Trend Index
+2018-10-01 16:43:07,803 DEBUG Cell value: Trend Index
+2018-10-01 16:43:07,803 DEBUG Cell text is: Trend Index
+2018-10-01 16:43:07,804 DEBUG AddedTrend Index
+2018-10-01 16:43:07,804 DEBUG Requesting1 row:57, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,804 DEBUG [Not assigned]
+2018-10-01 16:43:07,805 DEBUG Requesting2 row:57, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:07,848 DEBUG Value read: GB93479065
+2018-10-01 16:43:07,848 DEBUG Cell value: GB93479065
+2018-10-01 16:43:07,849 DEBUG Cell text is: GB93479065
+2018-10-01 16:43:07,849 DEBUG AddedGB93479065
+2018-10-01 16:43:07,849 DEBUG Requesting1 row:58, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:07,850 DEBUG [Not assigned]
+2018-10-01 16:43:07,850 DEBUG Requesting2 row:58, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,886 DEBUG Value read: GB93479
+2018-10-01 16:43:07,887 DEBUG Cell value: GB93479
+2018-10-01 16:43:07,888 DEBUG Cell text is: GB93479
+2018-10-01 16:43:07,888 DEBUG AddedGB93479
+2018-10-01 16:43:07,889 DEBUG Requesting1 row:58, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:07,889 DEBUG [Not assigned]
+2018-10-01 16:43:07,890 DEBUG Requesting2 row:58, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,925 DEBUG Value read: None
+2018-10-01 16:43:07,925 DEBUG Cell value: 
+2018-10-01 16:43:07,926 DEBUG Cell text is: 
+2018-10-01 16:43:07,926 DEBUG Requesting1 row:58, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:07,926 DEBUG [Not assigned]
+2018-10-01 16:43:07,927 DEBUG Requesting2 row:58, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:07,967 DEBUG Value read: GB93479066
+2018-10-01 16:43:07,968 DEBUG Cell value: GB93479066
+2018-10-01 16:43:07,968 DEBUG Cell text is: GB93479066
+2018-10-01 16:43:07,969 DEBUG AddedGB93479066
+2018-10-01 16:43:07,969 DEBUG Requesting1 row:59, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:07,970 DEBUG [Not assigned]
+2018-10-01 16:43:07,970 DEBUG Requesting2 row:59, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,015 DEBUG Value read: GB93479
+2018-10-01 16:43:08,015 DEBUG Cell value: GB93479
+2018-10-01 16:43:08,016 DEBUG Cell text is: GB93479
+2018-10-01 16:43:08,017 DEBUG AddedGB93479
+2018-10-01 16:43:08,018 DEBUG Requesting1 row:59, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,019 DEBUG [Not assigned]
+2018-10-01 16:43:08,020 DEBUG Requesting2 row:59, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,073 DEBUG Value read: RF EM Carry Basket
+2018-10-01 16:43:08,074 DEBUG Cell value: RF EM Carry Basket
+2018-10-01 16:43:08,075 DEBUG Cell text is: RF EM Carry Basket
+2018-10-01 16:43:08,075 DEBUG AddedRF EM Carry Basket
+2018-10-01 16:43:08,075 DEBUG Requesting1 row:59, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,076 DEBUG [Not assigned]
+2018-10-01 16:43:08,076 DEBUG Requesting2 row:59, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:08,144 DEBUG Value read: GB93479067
+2018-10-01 16:43:08,145 DEBUG Cell value: GB93479067
+2018-10-01 16:43:08,145 DEBUG Cell text is: GB93479067
+2018-10-01 16:43:08,145 DEBUG AddedGB93479067
+2018-10-01 16:43:08,146 DEBUG Requesting1 row:60, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:08,146 DEBUG [Not assigned]
+2018-10-01 16:43:08,146 DEBUG Requesting2 row:60, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,182 DEBUG Value read: GB93479
+2018-10-01 16:43:08,182 DEBUG Cell value: GB93479
+2018-10-01 16:43:08,183 DEBUG Cell text is: GB93479
+2018-10-01 16:43:08,183 DEBUG AddedGB93479
+2018-10-01 16:43:08,184 DEBUG Requesting1 row:60, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,184 DEBUG [Not assigned]
+2018-10-01 16:43:08,184 DEBUG Requesting2 row:60, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,220 DEBUG Value read: USD Hedge
+2018-10-01 16:43:08,221 DEBUG Cell value: USD Hedge
+2018-10-01 16:43:08,221 DEBUG Cell text is: USD Hedge
+2018-10-01 16:43:08,221 DEBUG AddedUSD Hedge
+2018-10-01 16:43:08,222 DEBUG Requesting1 row:60, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,222 DEBUG [Not assigned]
+2018-10-01 16:43:08,222 DEBUG Requesting2 row:60, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:08,263 DEBUG Value read: GB93479068
+2018-10-01 16:43:08,263 DEBUG Cell value: GB93479068
+2018-10-01 16:43:08,263 DEBUG Cell text is: GB93479068
+2018-10-01 16:43:08,264 DEBUG AddedGB93479068
+2018-10-01 16:43:08,264 DEBUG Requesting1 row:61, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:08,265 DEBUG [Not assigned]
+2018-10-01 16:43:08,265 DEBUG Requesting2 row:61, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,301 DEBUG Value read: GB93479
+2018-10-01 16:43:08,302 DEBUG Cell value: GB93479
+2018-10-01 16:43:08,302 DEBUG Cell text is: GB93479
+2018-10-01 16:43:08,303 DEBUG AddedGB93479
+2018-10-01 16:43:08,303 DEBUG Requesting1 row:61, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,304 DEBUG [Not assigned]
+2018-10-01 16:43:08,304 DEBUG Requesting2 row:61, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,348 DEBUG Value read: Stress Test
+2018-10-01 16:43:08,349 DEBUG Cell value: Stress Test
+2018-10-01 16:43:08,351 DEBUG Cell text is: Stress Test
+2018-10-01 16:43:08,354 DEBUG AddedStress Test
+2018-10-01 16:43:08,355 DEBUG Requesting1 row:61, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,355 DEBUG [Not assigned]
+2018-10-01 16:43:08,356 DEBUG Requesting2 row:61, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:08,395 DEBUG Value read: GB93479071
+2018-10-01 16:43:08,395 DEBUG Cell value: GB93479071
+2018-10-01 16:43:08,396 DEBUG Cell text is: GB93479071
+2018-10-01 16:43:08,397 DEBUG AddedGB93479071
+2018-10-01 16:43:08,397 DEBUG Requesting1 row:62, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:08,397 DEBUG [Not assigned]
+2018-10-01 16:43:08,398 DEBUG Requesting2 row:62, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,433 DEBUG Value read: GB93479
+2018-10-01 16:43:08,434 DEBUG Cell value: GB93479
+2018-10-01 16:43:08,434 DEBUG Cell text is: GB93479
+2018-10-01 16:43:08,435 DEBUG AddedGB93479
+2018-10-01 16:43:08,435 DEBUG Requesting1 row:62, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,436 DEBUG [Not assigned]
+2018-10-01 16:43:08,436 DEBUG Requesting2 row:62, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,477 DEBUG Value read: Internal Fixed Income RV
+2018-10-01 16:43:08,477 DEBUG Cell value: Internal Fixed Income RV
+2018-10-01 16:43:08,477 DEBUG Cell text is: Internal Fixed Income RV
+2018-10-01 16:43:08,478 DEBUG AddedInternal Fixed Income RV
+2018-10-01 16:43:08,478 DEBUG Requesting1 row:62, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,478 DEBUG [Not assigned]
+2018-10-01 16:43:08,479 DEBUG Requesting2 row:62, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:08,514 DEBUG Value read: GB93479072
+2018-10-01 16:43:08,515 DEBUG Cell value: GB93479072
+2018-10-01 16:43:08,515 DEBUG Cell text is: GB93479072
+2018-10-01 16:43:08,516 DEBUG AddedGB93479072
+2018-10-01 16:43:08,516 DEBUG Requesting1 row:63, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:08,517 DEBUG [Not assigned]
+2018-10-01 16:43:08,517 DEBUG Requesting2 row:63, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,554 DEBUG Value read: GB93479
+2018-10-01 16:43:08,555 DEBUG Cell value: GB93479
+2018-10-01 16:43:08,555 DEBUG Cell text is: GB93479
+2018-10-01 16:43:08,556 DEBUG AddedGB93479
+2018-10-01 16:43:08,556 DEBUG Requesting1 row:63, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,556 DEBUG [Not assigned]
+2018-10-01 16:43:08,557 DEBUG Requesting2 row:63, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,611 DEBUG Value read: FX Value
+2018-10-01 16:43:08,612 DEBUG Cell value: FX Value
+2018-10-01 16:43:08,612 DEBUG Cell text is: FX Value
+2018-10-01 16:43:08,613 DEBUG AddedFX Value
+2018-10-01 16:43:08,613 DEBUG Requesting1 row:63, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,613 DEBUG [Not assigned]
+2018-10-01 16:43:08,614 DEBUG Requesting2 row:63, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:08,661 DEBUG Value read: GB93479073
+2018-10-01 16:43:08,662 DEBUG Cell value: GB93479073
+2018-10-01 16:43:08,663 DEBUG Cell text is: GB93479073
+2018-10-01 16:43:08,663 DEBUG AddedGB93479073
+2018-10-01 16:43:08,664 DEBUG Requesting1 row:64, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:08,665 DEBUG [Not assigned]
+2018-10-01 16:43:08,666 DEBUG Requesting2 row:64, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,711 DEBUG Value read: GB93479
+2018-10-01 16:43:08,712 DEBUG Cell value: GB93479
+2018-10-01 16:43:08,713 DEBUG Cell text is: GB93479
+2018-10-01 16:43:08,713 DEBUG AddedGB93479
+2018-10-01 16:43:08,714 DEBUG Requesting1 row:64, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,715 DEBUG [Not assigned]
+2018-10-01 16:43:08,716 DEBUG Requesting2 row:64, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,761 DEBUG Value read: None
+2018-10-01 16:43:08,762 DEBUG Cell value: 
+2018-10-01 16:43:08,762 DEBUG Cell text is: 
+2018-10-01 16:43:08,763 DEBUG Requesting1 row:64, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,764 DEBUG [Not assigned]
+2018-10-01 16:43:08,764 DEBUG Requesting2 row:64, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:08,799 DEBUG Value read: GB93479074
+2018-10-01 16:43:08,801 DEBUG Cell value: GB93479074
+2018-10-01 16:43:08,802 DEBUG Cell text is: GB93479074
+2018-10-01 16:43:08,803 DEBUG AddedGB93479074
+2018-10-01 16:43:08,803 DEBUG Requesting1 row:65, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:08,804 DEBUG [Not assigned]
+2018-10-01 16:43:08,805 DEBUG Requesting2 row:65, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,841 DEBUG Value read: GB93479
+2018-10-01 16:43:08,841 DEBUG Cell value: GB93479
+2018-10-01 16:43:08,842 DEBUG Cell text is: GB93479
+2018-10-01 16:43:08,842 DEBUG AddedGB93479
+2018-10-01 16:43:08,843 DEBUG Requesting1 row:65, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,843 DEBUG [Not assigned]
+2018-10-01 16:43:08,844 DEBUG Requesting2 row:65, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,885 DEBUG Value read: FX Growth
+2018-10-01 16:43:08,886 DEBUG Cell value: FX Growth
+2018-10-01 16:43:08,886 DEBUG Cell text is: FX Growth
+2018-10-01 16:43:08,886 DEBUG AddedFX Growth
+2018-10-01 16:43:08,887 DEBUG Requesting1 row:65, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:08,887 DEBUG [Not assigned]
+2018-10-01 16:43:08,888 DEBUG Requesting2 row:65, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:08,922 DEBUG Value read: GB93479075
+2018-10-01 16:43:08,922 DEBUG Cell value: GB93479075
+2018-10-01 16:43:08,923 DEBUG Cell text is: GB93479075
+2018-10-01 16:43:08,923 DEBUG AddedGB93479075
+2018-10-01 16:43:08,924 DEBUG Requesting1 row:66, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:08,924 DEBUG [Not assigned]
+2018-10-01 16:43:08,925 DEBUG Requesting2 row:66, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,968 DEBUG Value read: GB93479
+2018-10-01 16:43:08,968 DEBUG Cell value: GB93479
+2018-10-01 16:43:08,969 DEBUG Cell text is: GB93479
+2018-10-01 16:43:08,969 DEBUG AddedGB93479
+2018-10-01 16:43:08,969 DEBUG Requesting1 row:66, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:08,970 DEBUG [Not assigned]
+2018-10-01 16:43:08,970 DEBUG Requesting2 row:66, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,008 DEBUG Value read: Collateral Out
+2018-10-01 16:43:09,008 DEBUG Cell value: Collateral Out
+2018-10-01 16:43:09,009 DEBUG Cell text is: Collateral Out
+2018-10-01 16:43:09,009 DEBUG AddedCollateral Out
+2018-10-01 16:43:09,010 DEBUG Requesting1 row:66, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,010 DEBUG [Not assigned]
+2018-10-01 16:43:09,010 DEBUG Requesting2 row:66, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:09,049 DEBUG Value read: GB93479080
+2018-10-01 16:43:09,049 DEBUG Cell value: GB93479080
+2018-10-01 16:43:09,050 DEBUG Cell text is: GB93479080
+2018-10-01 16:43:09,050 DEBUG AddedGB93479080
+2018-10-01 16:43:09,051 DEBUG Requesting1 row:67, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:09,051 DEBUG [Not assigned]
+2018-10-01 16:43:09,051 DEBUG Requesting2 row:67, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,099 DEBUG Value read: GB93479
+2018-10-01 16:43:09,099 DEBUG Cell value: GB93479
+2018-10-01 16:43:09,100 DEBUG Cell text is: GB93479
+2018-10-01 16:43:09,101 DEBUG AddedGB93479
+2018-10-01 16:43:09,102 DEBUG Requesting1 row:67, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,102 DEBUG [Not assigned]
+2018-10-01 16:43:09,103 DEBUG Requesting2 row:67, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,141 DEBUG Value read: Family Margining
+2018-10-01 16:43:09,141 DEBUG Cell value: Family Margining
+2018-10-01 16:43:09,142 DEBUG Cell text is: Family Margining
+2018-10-01 16:43:09,142 DEBUG AddedFamily Margining
+2018-10-01 16:43:09,142 DEBUG Requesting1 row:67, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,143 DEBUG [Not assigned]
+2018-10-01 16:43:09,143 DEBUG Requesting2 row:67, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:09,180 DEBUG Value read: GB93479081
+2018-10-01 16:43:09,180 DEBUG Cell value: GB93479081
+2018-10-01 16:43:09,181 DEBUG Cell text is: GB93479081
+2018-10-01 16:43:09,181 DEBUG AddedGB93479081
+2018-10-01 16:43:09,181 DEBUG Requesting1 row:68, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:09,182 DEBUG [Not assigned]
+2018-10-01 16:43:09,182 DEBUG Requesting2 row:68, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,228 DEBUG Value read: GB93479
+2018-10-01 16:43:09,229 DEBUG Cell value: GB93479
+2018-10-01 16:43:09,229 DEBUG Cell text is: GB93479
+2018-10-01 16:43:09,230 DEBUG AddedGB93479
+2018-10-01 16:43:09,230 DEBUG Requesting1 row:68, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,230 DEBUG [Not assigned]
+2018-10-01 16:43:09,231 DEBUG Requesting2 row:68, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,271 DEBUG Value read: OTC Family Margining
+2018-10-01 16:43:09,271 DEBUG Cell value: OTC Family Margining
+2018-10-01 16:43:09,272 DEBUG Cell text is: OTC Family Margining
+2018-10-01 16:43:09,272 DEBUG AddedOTC Family Margining
+2018-10-01 16:43:09,272 DEBUG Requesting1 row:68, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,273 DEBUG [Not assigned]
+2018-10-01 16:43:09,273 DEBUG Requesting2 row:68, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:09,310 DEBUG Value read: GB93479083
+2018-10-01 16:43:09,311 DEBUG Cell value: GB93479083
+2018-10-01 16:43:09,311 DEBUG Cell text is: GB93479083
+2018-10-01 16:43:09,312 DEBUG AddedGB93479083
+2018-10-01 16:43:09,312 DEBUG Requesting1 row:69, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:09,312 DEBUG [Not assigned]
+2018-10-01 16:43:09,313 DEBUG Requesting2 row:69, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,355 DEBUG Value read: GB93479
+2018-10-01 16:43:09,355 DEBUG Cell value: GB93479
+2018-10-01 16:43:09,356 DEBUG Cell text is: GB93479
+2018-10-01 16:43:09,356 DEBUG AddedGB93479
+2018-10-01 16:43:09,357 DEBUG Requesting1 row:69, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,357 DEBUG [Not assigned]
+2018-10-01 16:43:09,357 DEBUG Requesting2 row:69, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,395 DEBUG Value read: ACWI Value Basket
+2018-10-01 16:43:09,396 DEBUG Cell value: ACWI Value Basket
+2018-10-01 16:43:09,396 DEBUG Cell text is: ACWI Value Basket
+2018-10-01 16:43:09,396 DEBUG AddedACWI Value Basket
+2018-10-01 16:43:09,397 DEBUG Requesting1 row:69, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,398 DEBUG [Not assigned]
+2018-10-01 16:43:09,398 DEBUG Requesting2 row:69, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:09,442 DEBUG Value read: GB95289001
+2018-10-01 16:43:09,443 DEBUG Cell value: GB95289001
+2018-10-01 16:43:09,443 DEBUG Cell text is: GB95289001
+2018-10-01 16:43:09,443 DEBUG AddedGB95289001
+2018-10-01 16:43:09,444 DEBUG Requesting1 row:70, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:09,444 DEBUG [Not assigned]
+2018-10-01 16:43:09,444 DEBUG Requesting2 row:70, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,481 DEBUG Value read: GB93479
+2018-10-01 16:43:09,481 DEBUG Cell value: GB93479
+2018-10-01 16:43:09,482 DEBUG Cell text is: GB93479
+2018-10-01 16:43:09,482 DEBUG AddedGB93479
+2018-10-01 16:43:09,482 DEBUG Requesting1 row:70, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,483 DEBUG [Not assigned]
+2018-10-01 16:43:09,483 DEBUG Requesting2 row:70, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,521 DEBUG Value read: ACWI Quality Basket
+2018-10-01 16:43:09,521 DEBUG Cell value: ACWI Quality Basket
+2018-10-01 16:43:09,522 DEBUG Cell text is: ACWI Quality Basket
+2018-10-01 16:43:09,522 DEBUG AddedACWI Quality Basket
+2018-10-01 16:43:09,522 DEBUG Requesting1 row:70, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,523 DEBUG [Not assigned]
+2018-10-01 16:43:09,523 DEBUG Requesting2 row:70, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:09,567 DEBUG Value read: GB95289002
+2018-10-01 16:43:09,568 DEBUG Cell value: GB95289002
+2018-10-01 16:43:09,568 DEBUG Cell text is: GB95289002
+2018-10-01 16:43:09,569 DEBUG AddedGB95289002
+2018-10-01 16:43:09,569 DEBUG Requesting1 row:71, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:09,569 DEBUG [Not assigned]
+2018-10-01 16:43:09,570 DEBUG Requesting2 row:71, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,608 DEBUG Value read: GB93479
+2018-10-01 16:43:09,608 DEBUG Cell value: GB93479
+2018-10-01 16:43:09,609 DEBUG Cell text is: GB93479
+2018-10-01 16:43:09,609 DEBUG AddedGB93479
+2018-10-01 16:43:09,610 DEBUG Requesting1 row:71, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,610 DEBUG [Not assigned]
+2018-10-01 16:43:09,610 DEBUG Requesting2 row:71, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,647 DEBUG Value read: Global LS Equity MF
+2018-10-01 16:43:09,648 DEBUG Cell value: Global LS Equity MF
+2018-10-01 16:43:09,648 DEBUG Cell text is: Global LS Equity MF
+2018-10-01 16:43:09,648 DEBUG AddedGlobal LS Equity MF
+2018-10-01 16:43:09,649 DEBUG Requesting1 row:71, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,649 DEBUG [Not assigned]
+2018-10-01 16:43:09,649 DEBUG Requesting2 row:71, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:09,692 DEBUG Value read: GB93479069
+2018-10-01 16:43:09,693 DEBUG Cell value: GB93479069
+2018-10-01 16:43:09,693 DEBUG Cell text is: GB93479069
+2018-10-01 16:43:09,694 DEBUG AddedGB93479069
+2018-10-01 16:43:09,694 DEBUG Requesting1 row:72, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:09,695 DEBUG [Not assigned]
+2018-10-01 16:43:09,695 DEBUG Requesting2 row:72, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,732 DEBUG Value read: GB93479
+2018-10-01 16:43:09,732 DEBUG Cell value: GB93479
+2018-10-01 16:43:09,733 DEBUG Cell text is: GB93479
+2018-10-01 16:43:09,733 DEBUG AddedGB93479
+2018-10-01 16:43:09,733 DEBUG Requesting1 row:72, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,734 DEBUG [Not assigned]
+2018-10-01 16:43:09,734 DEBUG Requesting2 row:72, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,771 DEBUG Value read: Global LS Equity MF Cash
+2018-10-01 16:43:09,772 DEBUG Cell value: Global LS Equity MF Cash
+2018-10-01 16:43:09,772 DEBUG Cell text is: Global LS Equity MF Cash
+2018-10-01 16:43:09,772 DEBUG AddedGlobal LS Equity MF Cash
+2018-10-01 16:43:09,773 DEBUG Requesting1 row:72, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,773 DEBUG [Not assigned]
+2018-10-01 16:43:09,773 DEBUG Requesting2 row:72, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:09,818 DEBUG Value read: GB95289003
+2018-10-01 16:43:09,818 DEBUG Cell value: GB95289003
+2018-10-01 16:43:09,819 DEBUG Cell text is: GB95289003
+2018-10-01 16:43:09,819 DEBUG AddedGB95289003
+2018-10-01 16:43:09,820 DEBUG Requesting1 row:73, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:09,820 DEBUG [Not assigned]
+2018-10-01 16:43:09,820 DEBUG Requesting2 row:73, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,857 DEBUG Value read: GB93479
+2018-10-01 16:43:09,858 DEBUG Cell value: GB93479
+2018-10-01 16:43:09,858 DEBUG Cell text is: GB93479
+2018-10-01 16:43:09,859 DEBUG AddedGB93479
+2018-10-01 16:43:09,859 DEBUG Requesting1 row:73, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,860 DEBUG [Not assigned]
+2018-10-01 16:43:09,860 DEBUG Requesting2 row:73, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,897 DEBUG Value read: Global LS Equity MF Cash Offset
+2018-10-01 16:43:09,898 DEBUG Cell value: Global LS Equity MF Cash Offset
+2018-10-01 16:43:09,899 DEBUG Cell text is: Global LS Equity MF Cash Offset
+2018-10-01 16:43:09,899 DEBUG AddedGlobal LS Equity MF Cash Offset
+2018-10-01 16:43:09,900 DEBUG Requesting1 row:73, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:09,900 DEBUG [Not assigned]
+2018-10-01 16:43:09,900 DEBUG Requesting2 row:73, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:09,943 DEBUG Value read: GB93479070
+2018-10-01 16:43:09,944 DEBUG Cell value: GB93479070
+2018-10-01 16:43:09,944 DEBUG Cell text is: GB93479070
+2018-10-01 16:43:09,945 DEBUG AddedGB93479070
+2018-10-01 16:43:09,945 DEBUG Requesting1 row:74, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:09,946 DEBUG [Not assigned]
+2018-10-01 16:43:09,946 DEBUG Requesting2 row:74, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,983 DEBUG Value read: GB93479
+2018-10-01 16:43:09,984 DEBUG Cell value: GB93479
+2018-10-01 16:43:09,984 DEBUG Cell text is: GB93479
+2018-10-01 16:43:09,984 DEBUG AddedGB93479
+2018-10-01 16:43:09,985 DEBUG Requesting1 row:74, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:09,985 DEBUG [Not assigned]
+2018-10-01 16:43:09,985 DEBUG Requesting2 row:74, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,030 DEBUG Value read: CBOE Buy Write Target 4 Percent
+2018-10-01 16:43:10,031 DEBUG Cell value: CBOE Buy Write Target 4 Percent
+2018-10-01 16:43:10,031 DEBUG Cell text is: CBOE Buy Write Target 4 Percent
+2018-10-01 16:43:10,032 DEBUG AddedCBOE Buy Write Target 4 Percent
+2018-10-01 16:43:10,032 DEBUG Requesting1 row:74, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,032 DEBUG [Not assigned]
+2018-10-01 16:43:10,033 DEBUG Requesting2 row:74, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:10,070 DEBUG Value read: GB96016001
+2018-10-01 16:43:10,071 DEBUG Cell value: GB96016001
+2018-10-01 16:43:10,071 DEBUG Cell text is: GB96016001
+2018-10-01 16:43:10,072 DEBUG AddedGB96016001
+2018-10-01 16:43:10,072 DEBUG Requesting1 row:75, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:10,072 DEBUG [Not assigned]
+2018-10-01 16:43:10,073 DEBUG Requesting2 row:75, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,108 DEBUG Value read: GB94077
+2018-10-01 16:43:10,109 DEBUG Cell value: GB94077
+2018-10-01 16:43:10,109 DEBUG Cell text is: GB94077
+2018-10-01 16:43:10,110 DEBUG AddedGB94077
+2018-10-01 16:43:10,110 DEBUG Requesting1 row:75, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,110 DEBUG [Not assigned]
+2018-10-01 16:43:10,110 DEBUG Requesting2 row:75, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,154 DEBUG Value read: Main
+2018-10-01 16:43:10,155 DEBUG Cell value: Main
+2018-10-01 16:43:10,155 DEBUG Cell text is: Main
+2018-10-01 16:43:10,156 DEBUG AddedMain
+2018-10-01 16:43:10,156 DEBUG Requesting1 row:75, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,156 DEBUG [Not assigned]
+2018-10-01 16:43:10,157 DEBUG Requesting2 row:75, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:10,193 DEBUG Value read: GB94077001
+2018-10-01 16:43:10,193 DEBUG Cell value: GB94077001
+2018-10-01 16:43:10,194 DEBUG Cell text is: GB94077001
+2018-10-01 16:43:10,194 DEBUG AddedGB94077001
+2018-10-01 16:43:10,194 DEBUG Requesting1 row:76, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:10,195 DEBUG [Not assigned]
+2018-10-01 16:43:10,195 DEBUG Requesting2 row:76, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,231 DEBUG Value read: GB94077
+2018-10-01 16:43:10,231 DEBUG Cell value: GB94077
+2018-10-01 16:43:10,231 DEBUG Cell text is: GB94077
+2018-10-01 16:43:10,232 DEBUG AddedGB94077
+2018-10-01 16:43:10,232 DEBUG Requesting1 row:76, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,232 DEBUG [Not assigned]
+2018-10-01 16:43:10,233 DEBUG Requesting2 row:76, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,280 DEBUG Value read: US Credit Premium
+2018-10-01 16:43:10,281 DEBUG Cell value: US Credit Premium
+2018-10-01 16:43:10,282 DEBUG Cell text is: US Credit Premium
+2018-10-01 16:43:10,282 DEBUG AddedUS Credit Premium
+2018-10-01 16:43:10,282 DEBUG Requesting1 row:76, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,283 DEBUG [Not assigned]
+2018-10-01 16:43:10,284 DEBUG Requesting2 row:76, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:10,322 DEBUG Value read: GB94077002
+2018-10-01 16:43:10,323 DEBUG Cell value: GB94077002
+2018-10-01 16:43:10,323 DEBUG Cell text is: GB94077002
+2018-10-01 16:43:10,324 DEBUG AddedGB94077002
+2018-10-01 16:43:10,324 DEBUG Requesting1 row:77, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:10,324 DEBUG [Not assigned]
+2018-10-01 16:43:10,324 DEBUG Requesting2 row:77, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,363 DEBUG Value read: GB94077
+2018-10-01 16:43:10,363 DEBUG Cell value: GB94077
+2018-10-01 16:43:10,364 DEBUG Cell text is: GB94077
+2018-10-01 16:43:10,364 DEBUG AddedGB94077
+2018-10-01 16:43:10,364 DEBUG Requesting1 row:77, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,365 DEBUG [Not assigned]
+2018-10-01 16:43:10,365 DEBUG Requesting2 row:77, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,409 DEBUG Value read: EU Credit Premium
+2018-10-01 16:43:10,409 DEBUG Cell value: EU Credit Premium
+2018-10-01 16:43:10,409 DEBUG Cell text is: EU Credit Premium
+2018-10-01 16:43:10,410 DEBUG AddedEU Credit Premium
+2018-10-01 16:43:10,410 DEBUG Requesting1 row:77, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,410 DEBUG [Not assigned]
+2018-10-01 16:43:10,411 DEBUG Requesting2 row:77, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:10,446 DEBUG Value read: GB94077003
+2018-10-01 16:43:10,447 DEBUG Cell value: GB94077003
+2018-10-01 16:43:10,447 DEBUG Cell text is: GB94077003
+2018-10-01 16:43:10,448 DEBUG AddedGB94077003
+2018-10-01 16:43:10,448 DEBUG Requesting1 row:78, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:10,449 DEBUG [Not assigned]
+2018-10-01 16:43:10,449 DEBUG Requesting2 row:78, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,485 DEBUG Value read: GB94077
+2018-10-01 16:43:10,485 DEBUG Cell value: GB94077
+2018-10-01 16:43:10,486 DEBUG Cell text is: GB94077
+2018-10-01 16:43:10,486 DEBUG AddedGB94077
+2018-10-01 16:43:10,486 DEBUG Requesting1 row:78, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,487 DEBUG [Not assigned]
+2018-10-01 16:43:10,487 DEBUG Requesting2 row:78, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,528 DEBUG Value read: Eu High Yield Premium
+2018-10-01 16:43:10,528 DEBUG Cell value: Eu High Yield Premium
+2018-10-01 16:43:10,529 DEBUG Cell text is: Eu High Yield Premium
+2018-10-01 16:43:10,529 DEBUG AddedEu High Yield Premium
+2018-10-01 16:43:10,529 DEBUG Requesting1 row:78, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,530 DEBUG [Not assigned]
+2018-10-01 16:43:10,530 DEBUG Requesting2 row:78, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:10,565 DEBUG Value read: GB94077004
+2018-10-01 16:43:10,566 DEBUG Cell value: GB94077004
+2018-10-01 16:43:10,566 DEBUG Cell text is: GB94077004
+2018-10-01 16:43:10,567 DEBUG AddedGB94077004
+2018-10-01 16:43:10,567 DEBUG Requesting1 row:79, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:10,568 DEBUG [Not assigned]
+2018-10-01 16:43:10,568 DEBUG Requesting2 row:79, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,609 DEBUG Value read: GB94077
+2018-10-01 16:43:10,610 DEBUG Cell value: GB94077
+2018-10-01 16:43:10,610 DEBUG Cell text is: GB94077
+2018-10-01 16:43:10,611 DEBUG AddedGB94077
+2018-10-01 16:43:10,611 DEBUG Requesting1 row:79, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,611 DEBUG [Not assigned]
+2018-10-01 16:43:10,612 DEBUG Requesting2 row:79, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,647 DEBUG Value read: US High Yield Premium
+2018-10-01 16:43:10,647 DEBUG Cell value: US High Yield Premium
+2018-10-01 16:43:10,648 DEBUG Cell text is: US High Yield Premium
+2018-10-01 16:43:10,648 DEBUG AddedUS High Yield Premium
+2018-10-01 16:43:10,649 DEBUG Requesting1 row:79, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,649 DEBUG [Not assigned]
+2018-10-01 16:43:10,649 DEBUG Requesting2 row:79, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:10,685 DEBUG Value read: GB94077005
+2018-10-01 16:43:10,685 DEBUG Cell value: GB94077005
+2018-10-01 16:43:10,685 DEBUG Cell text is: GB94077005
+2018-10-01 16:43:10,686 DEBUG AddedGB94077005
+2018-10-01 16:43:10,686 DEBUG Requesting1 row:80, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:10,686 DEBUG [Not assigned]
+2018-10-01 16:43:10,687 DEBUG Requesting2 row:80, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,729 DEBUG Value read: GB94077
+2018-10-01 16:43:10,729 DEBUG Cell value: GB94077
+2018-10-01 16:43:10,730 DEBUG Cell text is: GB94077
+2018-10-01 16:43:10,730 DEBUG AddedGB94077
+2018-10-01 16:43:10,730 DEBUG Requesting1 row:80, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,730 DEBUG [Not assigned]
+2018-10-01 16:43:10,731 DEBUG Requesting2 row:80, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,766 DEBUG Value read: FTSE 100 Index
+2018-10-01 16:43:10,767 DEBUG Cell value: FTSE 100 Index
+2018-10-01 16:43:10,767 DEBUG Cell text is: FTSE 100 Index
+2018-10-01 16:43:10,767 DEBUG AddedFTSE 100 Index
+2018-10-01 16:43:10,768 DEBUG Requesting1 row:80, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,768 DEBUG [Not assigned]
+2018-10-01 16:43:10,768 DEBUG Requesting2 row:80, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:10,804 DEBUG Value read: GB94077006
+2018-10-01 16:43:10,805 DEBUG Cell value: GB94077006
+2018-10-01 16:43:10,805 DEBUG Cell text is: GB94077006
+2018-10-01 16:43:10,805 DEBUG AddedGB94077006
+2018-10-01 16:43:10,806 DEBUG Requesting1 row:81, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:10,806 DEBUG [Not assigned]
+2018-10-01 16:43:10,806 DEBUG Requesting2 row:81, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,847 DEBUG Value read: GB94077
+2018-10-01 16:43:10,848 DEBUG Cell value: GB94077
+2018-10-01 16:43:10,848 DEBUG Cell text is: GB94077
+2018-10-01 16:43:10,849 DEBUG AddedGB94077
+2018-10-01 16:43:10,849 DEBUG Requesting1 row:81, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,850 DEBUG [Not assigned]
+2018-10-01 16:43:10,850 DEBUG Requesting2 row:81, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,886 DEBUG Value read: S&P US 500 TR 
+2018-10-01 16:43:10,887 DEBUG Cell value: S&P US 500 TR 
+2018-10-01 16:43:10,888 DEBUG Cell text is: S&P US 500 TR 
+2018-10-01 16:43:10,888 DEBUG AddedS&P US 500 TR 
+2018-10-01 16:43:10,889 DEBUG Requesting1 row:81, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:10,889 DEBUG [Not assigned]
+2018-10-01 16:43:10,889 DEBUG Requesting2 row:81, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:10,925 DEBUG Value read: GB94077007
+2018-10-01 16:43:10,926 DEBUG Cell value: GB94077007
+2018-10-01 16:43:10,926 DEBUG Cell text is: GB94077007
+2018-10-01 16:43:10,927 DEBUG AddedGB94077007
+2018-10-01 16:43:10,927 DEBUG Requesting1 row:82, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:10,927 DEBUG [Not assigned]
+2018-10-01 16:43:10,928 DEBUG Requesting2 row:82, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,971 DEBUG Value read: GB94077
+2018-10-01 16:43:10,971 DEBUG Cell value: GB94077
+2018-10-01 16:43:10,971 DEBUG Cell text is: GB94077
+2018-10-01 16:43:10,972 DEBUG AddedGB94077
+2018-10-01 16:43:10,972 DEBUG Requesting1 row:82, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:10,973 DEBUG [Not assigned]
+2018-10-01 16:43:10,973 DEBUG Requesting2 row:82, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,008 DEBUG Value read: Eurostoxx 50 NRt (Local)
+2018-10-01 16:43:11,009 DEBUG Cell value: Eurostoxx 50 NRt (Local)
+2018-10-01 16:43:11,009 DEBUG Cell text is: Eurostoxx 50 NRt (Local)
+2018-10-01 16:43:11,010 DEBUG AddedEurostoxx 50 NRt (Local)
+2018-10-01 16:43:11,010 DEBUG Requesting1 row:82, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,010 DEBUG [Not assigned]
+2018-10-01 16:43:11,011 DEBUG Requesting2 row:82, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:11,056 DEBUG Value read: GB94077008
+2018-10-01 16:43:11,056 DEBUG Cell value: GB94077008
+2018-10-01 16:43:11,057 DEBUG Cell text is: GB94077008
+2018-10-01 16:43:11,057 DEBUG AddedGB94077008
+2018-10-01 16:43:11,058 DEBUG Requesting1 row:83, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:11,058 DEBUG [Not assigned]
+2018-10-01 16:43:11,059 DEBUG Requesting2 row:83, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,095 DEBUG Value read: GB94077
+2018-10-01 16:43:11,096 DEBUG Cell value: GB94077
+2018-10-01 16:43:11,096 DEBUG Cell text is: GB94077
+2018-10-01 16:43:11,097 DEBUG AddedGB94077
+2018-10-01 16:43:11,097 DEBUG Requesting1 row:83, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,097 DEBUG [Not assigned]
+2018-10-01 16:43:11,098 DEBUG Requesting2 row:83, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,135 DEBUG Value read: MSCI AC Asia Pacific ex Japan (Local)
+2018-10-01 16:43:11,135 DEBUG Cell value: MSCI AC Asia Pacific ex Japan (Local)
+2018-10-01 16:43:11,136 DEBUG Cell text is: MSCI AC Asia Pacific ex Japan (Local)
+2018-10-01 16:43:11,136 DEBUG AddedMSCI AC Asia Pacific ex Japan (Local)
+2018-10-01 16:43:11,136 DEBUG Requesting1 row:83, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,137 DEBUG [Not assigned]
+2018-10-01 16:43:11,137 DEBUG Requesting2 row:83, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:11,180 DEBUG Value read: GB94077009
+2018-10-01 16:43:11,181 DEBUG Cell value: GB94077009
+2018-10-01 16:43:11,181 DEBUG Cell text is: GB94077009
+2018-10-01 16:43:11,181 DEBUG AddedGB94077009
+2018-10-01 16:43:11,182 DEBUG Requesting1 row:84, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:11,182 DEBUG [Not assigned]
+2018-10-01 16:43:11,183 DEBUG Requesting2 row:84, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,221 DEBUG Value read: GB94077
+2018-10-01 16:43:11,222 DEBUG Cell value: GB94077
+2018-10-01 16:43:11,222 DEBUG Cell text is: GB94077
+2018-10-01 16:43:11,222 DEBUG AddedGB94077
+2018-10-01 16:43:11,223 DEBUG Requesting1 row:84, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,223 DEBUG [Not assigned]
+2018-10-01 16:43:11,223 DEBUG Requesting2 row:84, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,261 DEBUG Value read: MSCI Daily TR Net Emerging Markets USD Index
+2018-10-01 16:43:11,262 DEBUG Cell value: MSCI Daily TR Net Emerging Markets USD Index
+2018-10-01 16:43:11,262 DEBUG Cell text is: MSCI Daily TR Net Emerging Markets USD Index
+2018-10-01 16:43:11,263 DEBUG AddedMSCI Daily TR Net Emerging Markets USD Index
+2018-10-01 16:43:11,263 DEBUG Requesting1 row:84, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,263 DEBUG [Not assigned]
+2018-10-01 16:43:11,264 DEBUG Requesting2 row:84, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:11,310 DEBUG Value read: GB94077010
+2018-10-01 16:43:11,310 DEBUG Cell value: GB94077010
+2018-10-01 16:43:11,310 DEBUG Cell text is: GB94077010
+2018-10-01 16:43:11,311 DEBUG AddedGB94077010
+2018-10-01 16:43:11,311 DEBUG Requesting1 row:85, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:11,311 DEBUG [Not assigned]
+2018-10-01 16:43:11,312 DEBUG Requesting2 row:85, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,352 DEBUG Value read: GB94077
+2018-10-01 16:43:11,352 DEBUG Cell value: GB94077
+2018-10-01 16:43:11,353 DEBUG Cell text is: GB94077
+2018-10-01 16:43:11,353 DEBUG AddedGB94077
+2018-10-01 16:43:11,353 DEBUG Requesting1 row:85, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,354 DEBUG [Not assigned]
+2018-10-01 16:43:11,354 DEBUG Requesting2 row:85, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,392 DEBUG Value read: TOPIX TR Index 
+2018-10-01 16:43:11,393 DEBUG Cell value: TOPIX TR Index 
+2018-10-01 16:43:11,393 DEBUG Cell text is: TOPIX TR Index 
+2018-10-01 16:43:11,394 DEBUG AddedTOPIX TR Index 
+2018-10-01 16:43:11,394 DEBUG Requesting1 row:85, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,394 DEBUG [Not assigned]
+2018-10-01 16:43:11,395 DEBUG Requesting2 row:85, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:11,441 DEBUG Value read: GB94077011
+2018-10-01 16:43:11,441 DEBUG Cell value: GB94077011
+2018-10-01 16:43:11,442 DEBUG Cell text is: GB94077011
+2018-10-01 16:43:11,442 DEBUG AddedGB94077011
+2018-10-01 16:43:11,442 DEBUG Requesting1 row:86, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:11,443 DEBUG [Not assigned]
+2018-10-01 16:43:11,443 DEBUG Requesting2 row:86, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,482 DEBUG Value read: GB94077
+2018-10-01 16:43:11,482 DEBUG Cell value: GB94077
+2018-10-01 16:43:11,483 DEBUG Cell text is: GB94077
+2018-10-01 16:43:11,483 DEBUG AddedGB94077
+2018-10-01 16:43:11,483 DEBUG Requesting1 row:86, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,484 DEBUG [Not assigned]
+2018-10-01 16:43:11,484 DEBUG Requesting2 row:86, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,523 DEBUG Value read: FTSE China A50 Index
+2018-10-01 16:43:11,523 DEBUG Cell value: FTSE China A50 Index
+2018-10-01 16:43:11,524 DEBUG Cell text is: FTSE China A50 Index
+2018-10-01 16:43:11,524 DEBUG AddedFTSE China A50 Index
+2018-10-01 16:43:11,524 DEBUG Requesting1 row:86, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,525 DEBUG [Not assigned]
+2018-10-01 16:43:11,525 DEBUG Requesting2 row:86, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:11,571 DEBUG Value read: GB94077012
+2018-10-01 16:43:11,571 DEBUG Cell value: GB94077012
+2018-10-01 16:43:11,571 DEBUG Cell text is: GB94077012
+2018-10-01 16:43:11,572 DEBUG AddedGB94077012
+2018-10-01 16:43:11,572 DEBUG Requesting1 row:87, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:11,572 DEBUG [Not assigned]
+2018-10-01 16:43:11,573 DEBUG Requesting2 row:87, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,612 DEBUG Value read: GB94077
+2018-10-01 16:43:11,612 DEBUG Cell value: GB94077
+2018-10-01 16:43:11,613 DEBUG Cell text is: GB94077
+2018-10-01 16:43:11,613 DEBUG AddedGB94077
+2018-10-01 16:43:11,613 DEBUG Requesting1 row:87, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,614 DEBUG [Not assigned]
+2018-10-01 16:43:11,614 DEBUG Requesting2 row:87, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,661 DEBUG Value read: ASX 200
+2018-10-01 16:43:11,661 DEBUG Cell value: ASX 200
+2018-10-01 16:43:11,661 DEBUG Cell text is: ASX 200
+2018-10-01 16:43:11,662 DEBUG AddedASX 200
+2018-10-01 16:43:11,662 DEBUG Requesting1 row:87, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,662 DEBUG [Not assigned]
+2018-10-01 16:43:11,663 DEBUG Requesting2 row:87, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:11,700 DEBUG Value read: GB94077013
+2018-10-01 16:43:11,701 DEBUG Cell value: GB94077013
+2018-10-01 16:43:11,701 DEBUG Cell text is: GB94077013
+2018-10-01 16:43:11,701 DEBUG AddedGB94077013
+2018-10-01 16:43:11,702 DEBUG Requesting1 row:88, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:11,702 DEBUG [Not assigned]
+2018-10-01 16:43:11,702 DEBUG Requesting2 row:88, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,741 DEBUG Value read: GB94077
+2018-10-01 16:43:11,741 DEBUG Cell value: GB94077
+2018-10-01 16:43:11,742 DEBUG Cell text is: GB94077
+2018-10-01 16:43:11,742 DEBUG AddedGB94077
+2018-10-01 16:43:11,743 DEBUG Requesting1 row:88, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,743 DEBUG [Not assigned]
+2018-10-01 16:43:11,743 DEBUG Requesting2 row:88, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,788 DEBUG Value read: EMD Spread
+2018-10-01 16:43:11,789 DEBUG Cell value: EMD Spread
+2018-10-01 16:43:11,789 DEBUG Cell text is: EMD Spread
+2018-10-01 16:43:11,790 DEBUG AddedEMD Spread
+2018-10-01 16:43:11,790 DEBUG Requesting1 row:88, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,790 DEBUG [Not assigned]
+2018-10-01 16:43:11,791 DEBUG Requesting2 row:88, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:11,828 DEBUG Value read: GB94077014
+2018-10-01 16:43:11,828 DEBUG Cell value: GB94077014
+2018-10-01 16:43:11,829 DEBUG Cell text is: GB94077014
+2018-10-01 16:43:11,830 DEBUG AddedGB94077014
+2018-10-01 16:43:11,830 DEBUG Requesting1 row:89, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:11,830 DEBUG [Not assigned]
+2018-10-01 16:43:11,831 DEBUG Requesting2 row:89, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,867 DEBUG Value read: GB94077
+2018-10-01 16:43:11,868 DEBUG Cell value: GB94077
+2018-10-01 16:43:11,868 DEBUG Cell text is: GB94077
+2018-10-01 16:43:11,869 DEBUG AddedGB94077
+2018-10-01 16:43:11,869 DEBUG Requesting1 row:89, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,870 DEBUG [Not assigned]
+2018-10-01 16:43:11,870 DEBUG Requesting2 row:89, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,913 DEBUG Value read: Hang Seng Futures
+2018-10-01 16:43:11,914 DEBUG Cell value: Hang Seng Futures
+2018-10-01 16:43:11,914 DEBUG Cell text is: Hang Seng Futures
+2018-10-01 16:43:11,915 DEBUG AddedHang Seng Futures
+2018-10-01 16:43:11,915 DEBUG Requesting1 row:89, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:11,915 DEBUG [Not assigned]
+2018-10-01 16:43:11,916 DEBUG Requesting2 row:89, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:11,953 DEBUG Value read: GB94077015
+2018-10-01 16:43:11,954 DEBUG Cell value: GB94077015
+2018-10-01 16:43:11,954 DEBUG Cell text is: GB94077015
+2018-10-01 16:43:11,954 DEBUG AddedGB94077015
+2018-10-01 16:43:11,955 DEBUG Requesting1 row:90, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:11,955 DEBUG [Not assigned]
+2018-10-01 16:43:11,955 DEBUG Requesting2 row:90, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,992 DEBUG Value read: GB94077
+2018-10-01 16:43:11,993 DEBUG Cell value: GB94077
+2018-10-01 16:43:11,993 DEBUG Cell text is: GB94077
+2018-10-01 16:43:11,994 DEBUG AddedGB94077
+2018-10-01 16:43:11,994 DEBUG Requesting1 row:90, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:11,995 DEBUG [Not assigned]
+2018-10-01 16:43:11,995 DEBUG Requesting2 row:90, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,039 DEBUG Value read: Brazilian Futures Account
+2018-10-01 16:43:12,040 DEBUG Cell value: Brazilian Futures Account
+2018-10-01 16:43:12,040 DEBUG Cell text is: Brazilian Futures Account
+2018-10-01 16:43:12,041 DEBUG AddedBrazilian Futures Account
+2018-10-01 16:43:12,041 DEBUG Requesting1 row:90, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,041 DEBUG [Not assigned]
+2018-10-01 16:43:12,042 DEBUG Requesting2 row:90, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:12,079 DEBUG Value read: GB94077016
+2018-10-01 16:43:12,079 DEBUG Cell value: GB94077016
+2018-10-01 16:43:12,080 DEBUG Cell text is: GB94077016
+2018-10-01 16:43:12,080 DEBUG AddedGB94077016
+2018-10-01 16:43:12,080 DEBUG Requesting1 row:91, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:12,081 DEBUG [Not assigned]
+2018-10-01 16:43:12,081 DEBUG Requesting2 row:91, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,118 DEBUG Value read: GB94077
+2018-10-01 16:43:12,119 DEBUG Cell value: GB94077
+2018-10-01 16:43:12,119 DEBUG Cell text is: GB94077
+2018-10-01 16:43:12,120 DEBUG AddedGB94077
+2018-10-01 16:43:12,120 DEBUG Requesting1 row:91, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,120 DEBUG [Not assigned]
+2018-10-01 16:43:12,121 DEBUG Requesting2 row:91, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,163 DEBUG Value read: ML UK Gilt 1-3Y
+2018-10-01 16:43:12,164 DEBUG Cell value: ML UK Gilt 1-3Y
+2018-10-01 16:43:12,164 DEBUG Cell text is: ML UK Gilt 1-3Y
+2018-10-01 16:43:12,164 DEBUG AddedML UK Gilt 1-3Y
+2018-10-01 16:43:12,165 DEBUG Requesting1 row:91, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,165 DEBUG [Not assigned]
+2018-10-01 16:43:12,166 DEBUG Requesting2 row:91, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:12,201 DEBUG Value read: =A91&"018"
+2018-10-01 16:43:12,202 DEBUG Cell value: =A91&"018"
+2018-10-01 16:43:12,202 DEBUG Cell text is: =A91&"018"
+2018-10-01 16:43:12,202 DEBUG Added=A91&"018"
+2018-10-01 16:43:12,203 DEBUG Requesting1 row:92, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:12,203 DEBUG [Not assigned]
+2018-10-01 16:43:12,203 DEBUG Requesting2 row:92, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,245 DEBUG Value read: GB94077
+2018-10-01 16:43:12,246 DEBUG Cell value: GB94077
+2018-10-01 16:43:12,246 DEBUG Cell text is: GB94077
+2018-10-01 16:43:12,247 DEBUG AddedGB94077
+2018-10-01 16:43:12,247 DEBUG Requesting1 row:92, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,247 DEBUG [Not assigned]
+2018-10-01 16:43:12,248 DEBUG Requesting2 row:92, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,284 DEBUG Value read: AU Benchmark 3 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,284 DEBUG Cell value: AU Benchmark 3 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,285 DEBUG Cell text is: AU Benchmark 3 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,285 DEBUG AddedAU Benchmark 3 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,285 DEBUG Requesting1 row:92, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,286 DEBUG [Not assigned]
+2018-10-01 16:43:12,286 DEBUG Requesting2 row:92, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:12,321 DEBUG Value read: GB94077020
+2018-10-01 16:43:12,321 DEBUG Cell value: GB94077020
+2018-10-01 16:43:12,322 DEBUG Cell text is: GB94077020
+2018-10-01 16:43:12,322 DEBUG AddedGB94077020
+2018-10-01 16:43:12,323 DEBUG Requesting1 row:93, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:12,323 DEBUG [Not assigned]
+2018-10-01 16:43:12,323 DEBUG Requesting2 row:93, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,364 DEBUG Value read: GB94077
+2018-10-01 16:43:12,364 DEBUG Cell value: GB94077
+2018-10-01 16:43:12,364 DEBUG Cell text is: GB94077
+2018-10-01 16:43:12,365 DEBUG AddedGB94077
+2018-10-01 16:43:12,365 DEBUG Requesting1 row:93, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,365 DEBUG [Not assigned]
+2018-10-01 16:43:12,366 DEBUG Requesting2 row:93, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,401 DEBUG Value read: Aus 10 Yr Duration
+2018-10-01 16:43:12,401 DEBUG Cell value: Aus 10 Yr Duration
+2018-10-01 16:43:12,401 DEBUG Cell text is: Aus 10 Yr Duration
+2018-10-01 16:43:12,402 DEBUG AddedAus 10 Yr Duration
+2018-10-01 16:43:12,402 DEBUG Requesting1 row:93, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,403 DEBUG [Not assigned]
+2018-10-01 16:43:12,403 DEBUG Requesting2 row:93, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:12,437 DEBUG Value read: GB94077021
+2018-10-01 16:43:12,438 DEBUG Cell value: GB94077021
+2018-10-01 16:43:12,438 DEBUG Cell text is: GB94077021
+2018-10-01 16:43:12,439 DEBUG AddedGB94077021
+2018-10-01 16:43:12,439 DEBUG Requesting1 row:94, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:12,439 DEBUG [Not assigned]
+2018-10-01 16:43:12,440 DEBUG Requesting2 row:94, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,481 DEBUG Value read: GB94077
+2018-10-01 16:43:12,481 DEBUG Cell value: GB94077
+2018-10-01 16:43:12,482 DEBUG Cell text is: GB94077
+2018-10-01 16:43:12,482 DEBUG AddedGB94077
+2018-10-01 16:43:12,482 DEBUG Requesting1 row:94, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,483 DEBUG [Not assigned]
+2018-10-01 16:43:12,483 DEBUG Requesting2 row:94, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,519 DEBUG Value read: Can 10 Yr Duration
+2018-10-01 16:43:12,520 DEBUG Cell value: Can 10 Yr Duration
+2018-10-01 16:43:12,520 DEBUG Cell text is: Can 10 Yr Duration
+2018-10-01 16:43:12,520 DEBUG AddedCan 10 Yr Duration
+2018-10-01 16:43:12,521 DEBUG Requesting1 row:94, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,521 DEBUG [Not assigned]
+2018-10-01 16:43:12,522 DEBUG Requesting2 row:94, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:12,557 DEBUG Value read: GB94077022
+2018-10-01 16:43:12,558 DEBUG Cell value: GB94077022
+2018-10-01 16:43:12,558 DEBUG Cell text is: GB94077022
+2018-10-01 16:43:12,558 DEBUG AddedGB94077022
+2018-10-01 16:43:12,559 DEBUG Requesting1 row:95, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:12,559 DEBUG [Not assigned]
+2018-10-01 16:43:12,559 DEBUG Requesting2 row:95, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,600 DEBUG Value read: GB94077
+2018-10-01 16:43:12,601 DEBUG Cell value: GB94077
+2018-10-01 16:43:12,601 DEBUG Cell text is: GB94077
+2018-10-01 16:43:12,602 DEBUG AddedGB94077
+2018-10-01 16:43:12,602 DEBUG Requesting1 row:95, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,602 DEBUG [Not assigned]
+2018-10-01 16:43:12,603 DEBUG Requesting2 row:95, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,637 DEBUG Value read: IRS 10yr SEK
+2018-10-01 16:43:12,638 DEBUG Cell value: IRS 10yr SEK
+2018-10-01 16:43:12,638 DEBUG Cell text is: IRS 10yr SEK
+2018-10-01 16:43:12,639 DEBUG AddedIRS 10yr SEK
+2018-10-01 16:43:12,639 DEBUG Requesting1 row:95, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,640 DEBUG [Not assigned]
+2018-10-01 16:43:12,640 DEBUG Requesting2 row:95, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:12,675 DEBUG Value read: GB94077023
+2018-10-01 16:43:12,676 DEBUG Cell value: GB94077023
+2018-10-01 16:43:12,676 DEBUG Cell text is: GB94077023
+2018-10-01 16:43:12,677 DEBUG AddedGB94077023
+2018-10-01 16:43:12,677 DEBUG Requesting1 row:96, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:12,677 DEBUG [Not assigned]
+2018-10-01 16:43:12,678 DEBUG Requesting2 row:96, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,718 DEBUG Value read: GB94077
+2018-10-01 16:43:12,718 DEBUG Cell value: GB94077
+2018-10-01 16:43:12,719 DEBUG Cell text is: GB94077
+2018-10-01 16:43:12,719 DEBUG AddedGB94077
+2018-10-01 16:43:12,719 DEBUG Requesting1 row:96, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,720 DEBUG [Not assigned]
+2018-10-01 16:43:12,720 DEBUG Requesting2 row:96, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,756 DEBUG Value read: JPM EMBI+ Composite
+2018-10-01 16:43:12,756 DEBUG Cell value: JPM EMBI+ Composite
+2018-10-01 16:43:12,756 DEBUG Cell text is: JPM EMBI+ Composite
+2018-10-01 16:43:12,757 DEBUG AddedJPM EMBI+ Composite
+2018-10-01 16:43:12,757 DEBUG Requesting1 row:96, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,758 DEBUG [Not assigned]
+2018-10-01 16:43:12,758 DEBUG Requesting2 row:96, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:12,799 DEBUG Value read: GB94077023
+2018-10-01 16:43:12,800 DEBUG Cell value: GB94077023
+2018-10-01 16:43:12,800 DEBUG Cell text is: GB94077023
+2018-10-01 16:43:12,800 DEBUG AddedGB94077023
+2018-10-01 16:43:12,801 DEBUG Requesting1 row:97, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:12,801 DEBUG [Not assigned]
+2018-10-01 16:43:12,801 DEBUG Requesting2 row:97, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,836 DEBUG Value read: GB94077
+2018-10-01 16:43:12,836 DEBUG Cell value: GB94077
+2018-10-01 16:43:12,837 DEBUG Cell text is: GB94077
+2018-10-01 16:43:12,837 DEBUG AddedGB94077
+2018-10-01 16:43:12,838 DEBUG Requesting1 row:97, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,838 DEBUG [Not assigned]
+2018-10-01 16:43:12,838 DEBUG Requesting2 row:97, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,874 DEBUG Value read: UK Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,874 DEBUG Cell value: UK Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,875 DEBUG Cell text is: UK Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,875 DEBUG AddedUK Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,875 DEBUG Requesting1 row:97, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,876 DEBUG [Not assigned]
+2018-10-01 16:43:12,876 DEBUG Requesting2 row:97, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:12,917 DEBUG Value read: GB94077024
+2018-10-01 16:43:12,917 DEBUG Cell value: GB94077024
+2018-10-01 16:43:12,918 DEBUG Cell text is: GB94077024
+2018-10-01 16:43:12,918 DEBUG AddedGB94077024
+2018-10-01 16:43:12,918 DEBUG Requesting1 row:98, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:12,919 DEBUG [Not assigned]
+2018-10-01 16:43:12,919 DEBUG Requesting2 row:98, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,954 DEBUG Value read: GB94077
+2018-10-01 16:43:12,954 DEBUG Cell value: GB94077
+2018-10-01 16:43:12,954 DEBUG Cell text is: GB94077
+2018-10-01 16:43:12,955 DEBUG AddedGB94077
+2018-10-01 16:43:12,955 DEBUG Requesting1 row:98, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:12,955 DEBUG [Not assigned]
+2018-10-01 16:43:12,956 DEBUG Requesting2 row:98, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,991 DEBUG Value read: US Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,991 DEBUG Cell value: US Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,992 DEBUG Cell text is: US Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,992 DEBUG AddedUS Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:12,992 DEBUG Requesting1 row:98, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:12,993 DEBUG [Not assigned]
+2018-10-01 16:43:12,993 DEBUG Requesting2 row:98, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:13,034 DEBUG Value read: GB94077025
+2018-10-01 16:43:13,035 DEBUG Cell value: GB94077025
+2018-10-01 16:43:13,035 DEBUG Cell text is: GB94077025
+2018-10-01 16:43:13,036 DEBUG AddedGB94077025
+2018-10-01 16:43:13,036 DEBUG Requesting1 row:99, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:13,036 DEBUG [Not assigned]
+2018-10-01 16:43:13,037 DEBUG Requesting2 row:99, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,072 DEBUG Value read: GB94077
+2018-10-01 16:43:13,072 DEBUG Cell value: GB94077
+2018-10-01 16:43:13,072 DEBUG Cell text is: GB94077
+2018-10-01 16:43:13,073 DEBUG AddedGB94077
+2018-10-01 16:43:13,073 DEBUG Requesting1 row:99, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,073 DEBUG [Not assigned]
+2018-10-01 16:43:13,074 DEBUG Requesting2 row:99, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,109 DEBUG Value read: US Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,110 DEBUG Cell value: US Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,110 DEBUG Cell text is: US Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,110 DEBUG AddedUS Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,111 DEBUG Requesting1 row:99, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,111 DEBUG [Not assigned]
+2018-10-01 16:43:13,111 DEBUG Requesting2 row:99, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:13,152 DEBUG Value read: GB94077026
+2018-10-01 16:43:13,153 DEBUG Cell value: GB94077026
+2018-10-01 16:43:13,153 DEBUG Cell text is: GB94077026
+2018-10-01 16:43:13,153 DEBUG AddedGB94077026
+2018-10-01 16:43:13,154 DEBUG Requesting1 row:100, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:13,154 DEBUG [Not assigned]
+2018-10-01 16:43:13,154 DEBUG Requesting2 row:100, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,190 DEBUG Value read: GB94077
+2018-10-01 16:43:13,191 DEBUG Cell value: GB94077
+2018-10-01 16:43:13,191 DEBUG Cell text is: GB94077
+2018-10-01 16:43:13,191 DEBUG AddedGB94077
+2018-10-01 16:43:13,192 DEBUG Requesting1 row:100, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,192 DEBUG [Not assigned]
+2018-10-01 16:43:13,192 DEBUG Requesting2 row:100, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,228 DEBUG Value read: US Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,228 DEBUG Cell value: US Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,229 DEBUG Cell text is: US Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,229 DEBUG AddedUS Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,229 DEBUG Requesting1 row:100, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,230 DEBUG [Not assigned]
+2018-10-01 16:43:13,230 DEBUG Requesting2 row:100, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:13,270 DEBUG Value read: GB94077027
+2018-10-01 16:43:13,270 DEBUG Cell value: GB94077027
+2018-10-01 16:43:13,271 DEBUG Cell text is: GB94077027
+2018-10-01 16:43:13,271 DEBUG AddedGB94077027
+2018-10-01 16:43:13,271 DEBUG Requesting1 row:101, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:13,272 DEBUG [Not assigned]
+2018-10-01 16:43:13,272 DEBUG Requesting2 row:101, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,306 DEBUG Value read: GB94077
+2018-10-01 16:43:13,307 DEBUG Cell value: GB94077
+2018-10-01 16:43:13,307 DEBUG Cell text is: GB94077
+2018-10-01 16:43:13,307 DEBUG AddedGB94077
+2018-10-01 16:43:13,308 DEBUG Requesting1 row:101, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,308 DEBUG [Not assigned]
+2018-10-01 16:43:13,308 DEBUG Requesting2 row:101, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,348 DEBUG Value read: BD Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,349 DEBUG Cell value: BD Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,349 DEBUG Cell text is: BD Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,349 DEBUG AddedBD Benchmark 2 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,350 DEBUG Requesting1 row:101, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,350 DEBUG [Not assigned]
+2018-10-01 16:43:13,350 DEBUG Requesting2 row:101, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:13,385 DEBUG Value read: GB94077028
+2018-10-01 16:43:13,386 DEBUG Cell value: GB94077028
+2018-10-01 16:43:13,386 DEBUG Cell text is: GB94077028
+2018-10-01 16:43:13,386 DEBUG AddedGB94077028
+2018-10-01 16:43:13,387 DEBUG Requesting1 row:102, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:13,387 DEBUG [Not assigned]
+2018-10-01 16:43:13,387 DEBUG Requesting2 row:102, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,422 DEBUG Value read: GB94077
+2018-10-01 16:43:13,423 DEBUG Cell value: GB94077
+2018-10-01 16:43:13,423 DEBUG Cell text is: GB94077
+2018-10-01 16:43:13,423 DEBUG AddedGB94077
+2018-10-01 16:43:13,424 DEBUG Requesting1 row:102, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,424 DEBUG [Not assigned]
+2018-10-01 16:43:13,424 DEBUG Requesting2 row:102, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,464 DEBUG Value read: BD Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,464 DEBUG Cell value: BD Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,464 DEBUG Cell text is: BD Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,465 DEBUG AddedBD Benchmark 5 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,465 DEBUG Requesting1 row:102, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,465 DEBUG [Not assigned]
+2018-10-01 16:43:13,466 DEBUG Requesting2 row:102, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:13,500 DEBUG Value read: GB94077029
+2018-10-01 16:43:13,501 DEBUG Cell value: GB94077029
+2018-10-01 16:43:13,501 DEBUG Cell text is: GB94077029
+2018-10-01 16:43:13,501 DEBUG AddedGB94077029
+2018-10-01 16:43:13,502 DEBUG Requesting1 row:103, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:13,502 DEBUG [Not assigned]
+2018-10-01 16:43:13,502 DEBUG Requesting2 row:103, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,537 DEBUG Value read: GB94077
+2018-10-01 16:43:13,537 DEBUG Cell value: GB94077
+2018-10-01 16:43:13,537 DEBUG Cell text is: GB94077
+2018-10-01 16:43:13,538 DEBUG AddedGB94077
+2018-10-01 16:43:13,538 DEBUG Requesting1 row:103, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,538 DEBUG [Not assigned]
+2018-10-01 16:43:13,539 DEBUG Requesting2 row:103, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,581 DEBUG Value read: BD Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,581 DEBUG Cell value: BD Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,582 DEBUG Cell text is: BD Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,582 DEBUG AddedBD Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,582 DEBUG Requesting1 row:103, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,583 DEBUG [Not assigned]
+2018-10-01 16:43:13,583 DEBUG Requesting2 row:103, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:13,618 DEBUG Value read: GB94077030
+2018-10-01 16:43:13,618 DEBUG Cell value: GB94077030
+2018-10-01 16:43:13,619 DEBUG Cell text is: GB94077030
+2018-10-01 16:43:13,619 DEBUG AddedGB94077030
+2018-10-01 16:43:13,619 DEBUG Requesting1 row:104, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:13,620 DEBUG [Not assigned]
+2018-10-01 16:43:13,620 DEBUG Requesting2 row:104, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,656 DEBUG Value read: GB94077
+2018-10-01 16:43:13,656 DEBUG Cell value: GB94077
+2018-10-01 16:43:13,657 DEBUG Cell text is: GB94077
+2018-10-01 16:43:13,657 DEBUG AddedGB94077
+2018-10-01 16:43:13,658 DEBUG Requesting1 row:104, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,658 DEBUG [Not assigned]
+2018-10-01 16:43:13,658 DEBUG Requesting2 row:104, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,698 DEBUG Value read: JP Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,699 DEBUG Cell value: JP Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,699 DEBUG Cell text is: JP Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,699 DEBUG AddedJP Benchmark 10 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:43:13,700 DEBUG Requesting1 row:104, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,700 DEBUG [Not assigned]
+2018-10-01 16:43:13,700 DEBUG Requesting2 row:104, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:13,735 DEBUG Value read: GB94077031
+2018-10-01 16:43:13,736 DEBUG Cell value: GB94077031
+2018-10-01 16:43:13,736 DEBUG Cell text is: GB94077031
+2018-10-01 16:43:13,737 DEBUG AddedGB94077031
+2018-10-01 16:43:13,737 DEBUG Requesting1 row:105, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:13,737 DEBUG [Not assigned]
+2018-10-01 16:43:13,737 DEBUG Requesting2 row:105, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,780 DEBUG Value read: GB94077
+2018-10-01 16:43:13,780 DEBUG Cell value: GB94077
+2018-10-01 16:43:13,780 DEBUG Cell text is: GB94077
+2018-10-01 16:43:13,781 DEBUG AddedGB94077
+2018-10-01 16:43:13,781 DEBUG Requesting1 row:105, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,781 DEBUG [Not assigned]
+2018-10-01 16:43:13,782 DEBUG Requesting2 row:105, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,816 DEBUG Value read: Korean 10Y Continuous Index
+2018-10-01 16:43:13,817 DEBUG Cell value: Korean 10Y Continuous Index
+2018-10-01 16:43:13,817 DEBUG Cell text is: Korean 10Y Continuous Index
+2018-10-01 16:43:13,817 DEBUG AddedKorean 10Y Continuous Index
+2018-10-01 16:43:13,818 DEBUG Requesting1 row:105, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,818 DEBUG [Not assigned]
+2018-10-01 16:43:13,818 DEBUG Requesting2 row:105, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:13,853 DEBUG Value read: GB94077032
+2018-10-01 16:43:13,853 DEBUG Cell value: GB94077032
+2018-10-01 16:43:13,854 DEBUG Cell text is: GB94077032
+2018-10-01 16:43:13,854 DEBUG AddedGB94077032
+2018-10-01 16:43:13,854 DEBUG Requesting1 row:106, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:13,855 DEBUG [Not assigned]
+2018-10-01 16:43:13,855 DEBUG Requesting2 row:106, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,897 DEBUG Value read: GB94077
+2018-10-01 16:43:13,898 DEBUG Cell value: GB94077
+2018-10-01 16:43:13,898 DEBUG Cell text is: GB94077
+2018-10-01 16:43:13,899 DEBUG AddedGB94077
+2018-10-01 16:43:13,899 DEBUG Requesting1 row:106, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:13,900 DEBUG [Not assigned]
+2018-10-01 16:43:13,900 DEBUG Requesting2 row:106, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,934 DEBUG Value read: Korean 3Y Continuous Index
+2018-10-01 16:43:13,935 DEBUG Cell value: Korean 3Y Continuous Index
+2018-10-01 16:43:13,935 DEBUG Cell text is: Korean 3Y Continuous Index
+2018-10-01 16:43:13,936 DEBUG AddedKorean 3Y Continuous Index
+2018-10-01 16:43:13,936 DEBUG Requesting1 row:106, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:13,936 DEBUG [Not assigned]
+2018-10-01 16:43:13,937 DEBUG Requesting2 row:106, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:13,971 DEBUG Value read: GB94077032
+2018-10-01 16:43:13,971 DEBUG Cell value: GB94077032
+2018-10-01 16:43:13,972 DEBUG Cell text is: GB94077032
+2018-10-01 16:43:13,972 DEBUG AddedGB94077032
+2018-10-01 16:43:13,972 DEBUG Requesting1 row:107, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:13,973 DEBUG [Not assigned]
+2018-10-01 16:43:13,973 DEBUG Requesting2 row:107, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,015 DEBUG Value read: GB94077
+2018-10-01 16:43:14,016 DEBUG Cell value: GB94077
+2018-10-01 16:43:14,016 DEBUG Cell text is: GB94077
+2018-10-01 16:43:14,016 DEBUG AddedGB94077
+2018-10-01 16:43:14,017 DEBUG Requesting1 row:107, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,017 DEBUG [Not assigned]
+2018-10-01 16:43:14,017 DEBUG Requesting2 row:107, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,052 DEBUG Value read: IRS 10yr NOK
+2018-10-01 16:43:14,052 DEBUG Cell value: IRS 10yr NOK
+2018-10-01 16:43:14,052 DEBUG Cell text is: IRS 10yr NOK
+2018-10-01 16:43:14,053 DEBUG AddedIRS 10yr NOK
+2018-10-01 16:43:14,053 DEBUG Requesting1 row:107, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,054 DEBUG [Not assigned]
+2018-10-01 16:43:14,054 DEBUG Requesting2 row:107, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:14,089 DEBUG Value read: GB94077035
+2018-10-01 16:43:14,090 DEBUG Cell value: GB94077035
+2018-10-01 16:43:14,090 DEBUG Cell text is: GB94077035
+2018-10-01 16:43:14,090 DEBUG AddedGB94077035
+2018-10-01 16:43:14,091 DEBUG Requesting1 row:108, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:14,091 DEBUG [Not assigned]
+2018-10-01 16:43:14,091 DEBUG Requesting2 row:108, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,133 DEBUG Value read: GB94077
+2018-10-01 16:43:14,133 DEBUG Cell value: GB94077
+2018-10-01 16:43:14,133 DEBUG Cell text is: GB94077
+2018-10-01 16:43:14,134 DEBUG AddedGB94077
+2018-10-01 16:43:14,134 DEBUG Requesting1 row:108, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,134 DEBUG [Not assigned]
+2018-10-01 16:43:14,135 DEBUG Requesting2 row:108, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,170 DEBUG Value read: IRS 10yr PLN
+2018-10-01 16:43:14,171 DEBUG Cell value: IRS 10yr PLN
+2018-10-01 16:43:14,171 DEBUG Cell text is: IRS 10yr PLN
+2018-10-01 16:43:14,172 DEBUG AddedIRS 10yr PLN
+2018-10-01 16:43:14,172 DEBUG Requesting1 row:108, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,172 DEBUG [Not assigned]
+2018-10-01 16:43:14,172 DEBUG Requesting2 row:108, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:14,208 DEBUG Value read: GB94077036
+2018-10-01 16:43:14,208 DEBUG Cell value: GB94077036
+2018-10-01 16:43:14,209 DEBUG Cell text is: GB94077036
+2018-10-01 16:43:14,209 DEBUG AddedGB94077036
+2018-10-01 16:43:14,209 DEBUG Requesting1 row:109, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:14,210 DEBUG [Not assigned]
+2018-10-01 16:43:14,210 DEBUG Requesting2 row:109, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,251 DEBUG Value read: GB94077
+2018-10-01 16:43:14,252 DEBUG Cell value: GB94077
+2018-10-01 16:43:14,252 DEBUG Cell text is: GB94077
+2018-10-01 16:43:14,252 DEBUG AddedGB94077
+2018-10-01 16:43:14,253 DEBUG Requesting1 row:109, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,253 DEBUG [Not assigned]
+2018-10-01 16:43:14,253 DEBUG Requesting2 row:109, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,288 DEBUG Value read: IRS 10yr NZD
+2018-10-01 16:43:14,289 DEBUG Cell value: IRS 10yr NZD
+2018-10-01 16:43:14,289 DEBUG Cell text is: IRS 10yr NZD
+2018-10-01 16:43:14,290 DEBUG AddedIRS 10yr NZD
+2018-10-01 16:43:14,290 DEBUG Requesting1 row:109, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,290 DEBUG [Not assigned]
+2018-10-01 16:43:14,291 DEBUG Requesting2 row:109, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:14,333 DEBUG Value read: GB94077037
+2018-10-01 16:43:14,334 DEBUG Cell value: GB94077037
+2018-10-01 16:43:14,334 DEBUG Cell text is: GB94077037
+2018-10-01 16:43:14,334 DEBUG AddedGB94077037
+2018-10-01 16:43:14,335 DEBUG Requesting1 row:110, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:14,335 DEBUG [Not assigned]
+2018-10-01 16:43:14,335 DEBUG Requesting2 row:110, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,370 DEBUG Value read: GB94077
+2018-10-01 16:43:14,371 DEBUG Cell value: GB94077
+2018-10-01 16:43:14,371 DEBUG Cell text is: GB94077
+2018-10-01 16:43:14,372 DEBUG AddedGB94077
+2018-10-01 16:43:14,372 DEBUG Requesting1 row:110, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,372 DEBUG [Not assigned]
+2018-10-01 16:43:14,372 DEBUG Requesting2 row:110, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,407 DEBUG Value read: IRS 3yr ZAR
+2018-10-01 16:43:14,408 DEBUG Cell value: IRS 3yr ZAR
+2018-10-01 16:43:14,408 DEBUG Cell text is: IRS 3yr ZAR
+2018-10-01 16:43:14,408 DEBUG AddedIRS 3yr ZAR
+2018-10-01 16:43:14,409 DEBUG Requesting1 row:110, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,409 DEBUG [Not assigned]
+2018-10-01 16:43:14,410 DEBUG Requesting2 row:110, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:14,450 DEBUG Value read: GB94077038
+2018-10-01 16:43:14,451 DEBUG Cell value: GB94077038
+2018-10-01 16:43:14,451 DEBUG Cell text is: GB94077038
+2018-10-01 16:43:14,451 DEBUG AddedGB94077038
+2018-10-01 16:43:14,452 DEBUG Requesting1 row:111, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:14,452 DEBUG [Not assigned]
+2018-10-01 16:43:14,452 DEBUG Requesting2 row:111, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,488 DEBUG Value read: GB94077
+2018-10-01 16:43:14,488 DEBUG Cell value: GB94077
+2018-10-01 16:43:14,489 DEBUG Cell text is: GB94077
+2018-10-01 16:43:14,489 DEBUG AddedGB94077
+2018-10-01 16:43:14,489 DEBUG Requesting1 row:111, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,490 DEBUG [Not assigned]
+2018-10-01 16:43:14,490 DEBUG Requesting2 row:111, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,528 DEBUG Value read: US 30Y Continuous Index (DS04)
+2018-10-01 16:43:14,529 DEBUG Cell value: US 30Y Continuous Index (DS04)
+2018-10-01 16:43:14,529 DEBUG Cell text is: US 30Y Continuous Index (DS04)
+2018-10-01 16:43:14,530 DEBUG AddedUS 30Y Continuous Index (DS04)
+2018-10-01 16:43:14,530 DEBUG Requesting1 row:111, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,530 DEBUG [Not assigned]
+2018-10-01 16:43:14,530 DEBUG Requesting2 row:111, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:14,571 DEBUG Value read: GB94077039
+2018-10-01 16:43:14,571 DEBUG Cell value: GB94077039
+2018-10-01 16:43:14,572 DEBUG Cell text is: GB94077039
+2018-10-01 16:43:14,572 DEBUG AddedGB94077039
+2018-10-01 16:43:14,572 DEBUG Requesting1 row:112, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:14,573 DEBUG [Not assigned]
+2018-10-01 16:43:14,573 DEBUG Requesting2 row:112, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,609 DEBUG Value read: GB94077
+2018-10-01 16:43:14,609 DEBUG Cell value: GB94077
+2018-10-01 16:43:14,609 DEBUG Cell text is: GB94077
+2018-10-01 16:43:14,610 DEBUG AddedGB94077
+2018-10-01 16:43:14,610 DEBUG Requesting1 row:112, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,610 DEBUG [Not assigned]
+2018-10-01 16:43:14,611 DEBUG Requesting2 row:112, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,648 DEBUG Value read: Inflation Risk Premium
+2018-10-01 16:43:14,649 DEBUG Cell value: Inflation Risk Premium
+2018-10-01 16:43:14,649 DEBUG Cell text is: Inflation Risk Premium
+2018-10-01 16:43:14,649 DEBUG AddedInflation Risk Premium
+2018-10-01 16:43:14,649 DEBUG Requesting1 row:112, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,650 DEBUG [Not assigned]
+2018-10-01 16:43:14,650 DEBUG Requesting2 row:112, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:14,692 DEBUG Value read: GB94077040
+2018-10-01 16:43:14,693 DEBUG Cell value: GB94077040
+2018-10-01 16:43:14,693 DEBUG Cell text is: GB94077040
+2018-10-01 16:43:14,693 DEBUG AddedGB94077040
+2018-10-01 16:43:14,694 DEBUG Requesting1 row:113, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:14,694 DEBUG [Not assigned]
+2018-10-01 16:43:14,694 DEBUG Requesting2 row:113, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,729 DEBUG Value read: GB94077
+2018-10-01 16:43:14,730 DEBUG Cell value: GB94077
+2018-10-01 16:43:14,730 DEBUG Cell text is: GB94077
+2018-10-01 16:43:14,730 DEBUG AddedGB94077
+2018-10-01 16:43:14,731 DEBUG Requesting1 row:113, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,731 DEBUG [Not assigned]
+2018-10-01 16:43:14,731 DEBUG Requesting2 row:113, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,767 DEBUG Value read: Gold 
+2018-10-01 16:43:14,767 DEBUG Cell value: Gold 
+2018-10-01 16:43:14,768 DEBUG Cell text is: Gold 
+2018-10-01 16:43:14,768 DEBUG AddedGold 
+2018-10-01 16:43:14,768 DEBUG Requesting1 row:113, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,768 DEBUG [Not assigned]
+2018-10-01 16:43:14,769 DEBUG Requesting2 row:113, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:14,811 DEBUG Value read: GB94077041
+2018-10-01 16:43:14,811 DEBUG Cell value: GB94077041
+2018-10-01 16:43:14,811 DEBUG Cell text is: GB94077041
+2018-10-01 16:43:14,812 DEBUG AddedGB94077041
+2018-10-01 16:43:14,812 DEBUG Requesting1 row:114, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:14,812 DEBUG [Not assigned]
+2018-10-01 16:43:14,813 DEBUG Requesting2 row:114, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,848 DEBUG Value read: GB94077
+2018-10-01 16:43:14,854 DEBUG Cell value: GB94077
+2018-10-01 16:43:14,854 DEBUG Cell text is: GB94077
+2018-10-01 16:43:14,855 DEBUG AddedGB94077
+2018-10-01 16:43:14,855 DEBUG Requesting1 row:114, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,855 DEBUG [Not assigned]
+2018-10-01 16:43:14,856 DEBUG Requesting2 row:114, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,900 DEBUG Value read: BBG Agriculture TR
+2018-10-01 16:43:14,901 DEBUG Cell value: BBG Agriculture TR
+2018-10-01 16:43:14,901 DEBUG Cell text is: BBG Agriculture TR
+2018-10-01 16:43:14,901 DEBUG AddedBBG Agriculture TR
+2018-10-01 16:43:14,902 DEBUG Requesting1 row:114, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:14,902 DEBUG [Not assigned]
+2018-10-01 16:43:14,902 DEBUG Requesting2 row:114, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:14,938 DEBUG Value read: GB94077042
+2018-10-01 16:43:14,939 DEBUG Cell value: GB94077042
+2018-10-01 16:43:14,939 DEBUG Cell text is: GB94077042
+2018-10-01 16:43:14,939 DEBUG AddedGB94077042
+2018-10-01 16:43:14,940 DEBUG Requesting1 row:115, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:14,940 DEBUG [Not assigned]
+2018-10-01 16:43:14,940 DEBUG Requesting2 row:115, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,975 DEBUG Value read: GB94077
+2018-10-01 16:43:14,976 DEBUG Cell value: GB94077
+2018-10-01 16:43:14,976 DEBUG Cell text is: GB94077
+2018-10-01 16:43:14,976 DEBUG AddedGB94077
+2018-10-01 16:43:14,977 DEBUG Requesting1 row:115, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:14,977 DEBUG [Not assigned]
+2018-10-01 16:43:14,977 DEBUG Requesting2 row:115, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:15,018 DEBUG Value read: BBG Ind Metal Commodities
+2018-10-01 16:43:15,019 DEBUG Cell value: BBG Ind Metal Commodities
+2018-10-01 16:43:15,019 DEBUG Cell text is: BBG Ind Metal Commodities
+2018-10-01 16:43:15,019 DEBUG AddedBBG Ind Metal Commodities
+2018-10-01 16:43:15,020 DEBUG Requesting1 row:115, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:15,020 DEBUG [Not assigned]
+2018-10-01 16:43:15,020 DEBUG Requesting2 row:115, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:15,055 DEBUG Value read: GB94077043
+2018-10-01 16:43:15,055 DEBUG Cell value: GB94077043
+2018-10-01 16:43:15,056 DEBUG Cell text is: GB94077043
+2018-10-01 16:43:15,056 DEBUG AddedGB94077043
+2018-10-01 16:43:15,056 DEBUG Requesting1 row:116, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:15,057 DEBUG [Not assigned]
+2018-10-01 16:43:15,057 DEBUG Requesting2 row:116, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:15,092 DEBUG Value read: GB94077
+2018-10-01 16:43:15,093 DEBUG Cell value: GB94077
+2018-10-01 16:43:15,093 DEBUG Cell text is: GB94077
+2018-10-01 16:43:15,093 DEBUG AddedGB94077
+2018-10-01 16:43:15,094 DEBUG Requesting1 row:116, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:15,094 DEBUG [Not assigned]
+2018-10-01 16:43:15,094 DEBUG Requesting2 row:116, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:15,136 DEBUG Value read: Commodities (DJ UBS Crude Oil TR)
+2018-10-01 16:43:15,137 DEBUG Cell value: Commodities (DJ UBS Crude Oil TR)
+2018-10-01 16:43:15,137 DEBUG Cell text is: Commodities (DJ UBS Crude Oil TR)
+2018-10-01 16:43:15,137 DEBUG AddedCommodities (DJ UBS Crude Oil TR)
+2018-10-01 16:43:15,138 DEBUG Requesting1 row:116, column:2, max_row:412, max_column:16384
+2018-10-01 16:43:15,138 DEBUG [Not assigned]
+2018-10-01 16:43:15,139 DEBUG Requesting2 row:116, column:3, max_row:412, max_column:16384
+2018-10-01 16:43:15,175 DEBUG Value read: GB94077044
+2018-10-01 16:43:15,176 DEBUG Cell value: GB94077044
+2018-10-01 16:43:15,176 DEBUG Cell text is: GB94077044
+2018-10-01 16:43:15,176 DEBUG AddedGB94077044
+2018-10-01 16:43:15,177 DEBUG Requesting1 row:117, column:0, max_row:412, max_column:16384
+2018-10-01 16:43:15,177 DEBUG [Not assigned]
+2018-10-01 16:43:15,177 DEBUG Requesting2 row:117, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:15,212 DEBUG Value read: GB94077
+2018-10-01 16:43:15,213 DEBUG Cell value: GB94077
+2018-10-01 16:43:15,213 DEBUG Cell text is: GB94077
+2018-10-01 16:43:15,214 DEBUG AddedGB94077
+2018-10-01 16:43:15,214 DEBUG Requesting1 row:117, column:1, max_row:412, max_column:16384
+2018-10-01 16:43:15,214 DEBUG [Not assigned]
+2018-10-01 16:43:15,215 DEBUG Requesting2 row:117, column:2, max_row:412, max_column:16384

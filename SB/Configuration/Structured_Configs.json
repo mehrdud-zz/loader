@@ -1,0 +1,823 @@
+[
+  {
+    "File": "Trading Methods",
+    "Headers": [
+      {
+        "header": "Ticker",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Method",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "TRS Maturity Months",
+        "index": 3,
+        "type": {
+          "Type": "<class 'int'>"
+        }
+      },
+      {
+        "header": "IndexOrCommodity",
+        "index": 4,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_TYPE_PAY",
+        "index": 5,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_NOTIONAL_TYPE_REC",
+        "index": 6,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_NOTIONAL_RESET",
+        "index": 7,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_QUOTE_TYPE_REC",
+        "index": 8,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_EARLY_TERM",
+        "index": 9,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_RESET_CALENDAR_REC",
+        "index": 10,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_RESET_FREQ_REC",
+        "index": 11,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_RESET_DELAY_REC",
+        "index": 12,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_RESET_ADJUST_METH_REC",
+        "index": 13,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_ACCRUAL_PERIOD_CONV_REC",
+        "index": 14,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_CALENDAR_REC",
+        "index": 15,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_FREQ_REC",
+        "index": 16
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_DELAY_1_REC",
+        "index": 17,
+        "type": {
+          "Type": "<class 'int'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_DELAY_1_N_REC",
+        "index": 18,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_ADJUST_METH_REC",
+        "index": 19,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_INCOME_PMT_TYPE_REC",
+        "index": 20,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_RESET_FREQ_PAY",
+        "index": 21,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_RESET_DELAY_PAY",
+        "index": 22,
+        "type": {
+          "Type": "<class 'int'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_RESET_DELAY_CONV_PAY",
+        "index": 23,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_RESET_CALENDAR_PAY",
+        "index": 24,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_RESET_ADJUST_METH_PAY",
+        "index": 25,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_RESET_LOOKBACK_PAY",
+        "index": 26,
+        "type": {
+          "Type": "<class 'int'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_RESET_LOOKBACK_ADJ_PAY",
+        "index": 27,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_ACCRUAL_PERIOD_CONV_PAY",
+        "index": 28,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_CALENDAR_PAY",
+        "index": 29,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_FREQ_PAY",
+        "index": 30
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_DELAY_1_PAY",
+        "index": 31,
+        "type": {
+          "Type": "<class 'int'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_DELAY_1_N_PAY",
+        "index": 32,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_ADJUST_METH_PAY",
+        "index": 33,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_ACCRUAL_BASIS_PAY",
+        "index": 34,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY_SMARTCUT_PMT_END_ADJUST_PAY",
+        "index": 35,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "SECURITY.SMARTCUT.UNDERLYING_CUSIP",
+        "index": 36,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 0,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\trading_methods.xlsx"
+  },
+  {
+    "File": "Special Instructions",
+    "Headers": [
+      {
+        "header": "Subportfolio Code",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Special Instruction",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 1,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\special_instructions.xlsx"
+  },
+  {
+    "File": "Mergeability",
+    "Headers": [
+      {
+        "header": "Portfolio Name",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Mergeable?",
+        "index": 2
+      }
+    ],
+    "Index": 2,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\mergeability.xlsx"
+  },
+  {
+    "File": "Contingent Trades",
+    "Headers": [
+      {
+        "header": "Portfolio Group",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Strategy",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Asset (Optional)",
+        "index": 3
+      },
+      {
+        "header": "Instruction",
+        "index": 4,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 3,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\contingent_trades.xlsx"
+  },
+  {
+    "File": "Groups",
+    "Headers": [
+      {
+        "header": "Group",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Strategy",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 4,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\groups.xlsx"
+  },
+  {
+    "File": "Included Subportfolios",
+    "Headers": [
+      {
+        "header": "Portfolio Name",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Included SubPortfolio",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 5,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\IncludedSubPortfolios.xlsx"
+  },
+  {
+    "File": "IRS Ticker Prefixes",
+    "Headers": [
+      {
+        "header": "CURRENCY",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "IRS TICKER PREFIX",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 6,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\IRS_ticker_prefixes.xlsx"
+  },
+  {
+    "File": "ILS Ticker Prefixes",
+    "Headers": [
+      {
+        "header": "INFLATION INDEX",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "ILS TICKER PREFIX",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 7,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\ILS_ticker_prefixes.xlsx"
+  },
+  {
+    "File": "Matching",
+    "Headers": [
+      {
+        "header": "Portfolio Name",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Matching?",
+        "index": 2
+      }
+    ],
+    "Index": 8,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\matching.xlsx"
+  },
+  {
+    "File": "CFWD Maturities",
+    "Headers": [
+      {
+        "header": "Portfolio Name",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "CFWD Maturity",
+        "index": 2,
+        "type": {
+          "Type": "<class 'int'>"
+        }
+      }
+    ],
+    "Index": 9,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\CFWD_maturities.xlsx"
+  },
+  {
+    "File": "Risk Models",
+    "Headers": [
+      {
+        "header": "Portfolio Name",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Risk Model",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 10,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\risk_models.xlsx"
+  },
+  {
+    "File": "Ticker Overrides",
+    "Headers": [
+      {
+        "header": "Ticker",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Security Name AAS",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Pace ID",
+        "index": 3,
+        "type": {
+          "Type": "<class 'int'>"
+        }
+      }
+    ],
+    "Index": 11,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\ticker_overrides.xlsx"
+  },
+  {
+    "File": "Portfolio Strategy Freezes",
+    "Headers": [
+      {
+        "header": "Portfolio Name",
+        "index": 1
+      },
+      {
+        "header": "Strategy",
+        "index": 2
+      },
+      {
+        "header": "Freeze Current Weights?",
+        "index": 3
+      },
+      {
+        "header": "Desired Level of Physical Cash",
+        "index": 4
+      }
+    ],
+    "Index": 12,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\portfolio_strategy_freezes.xlsx"
+  },
+  {
+    "File": "assets_20180802.xlsx",
+    "Headers": [
+      {
+        "header": "Asset ID",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Portfolio Group Code",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Ticker",
+        "index": 3,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Weight",
+        "index": 4,
+        "type": {
+          "Type": "<class 'int'>"
+        }
+      },
+      {
+        "header": "Ticker",
+        "index": 5
+      },
+      {
+        "header": "Weight",
+        "index": 6
+      },
+      {
+        "header": "Ticker",
+        "index": 7
+      },
+      {
+        "header": "Weight",
+        "index": 8
+      },
+      {
+        "header": "Ticker",
+        "index": 9
+      },
+      {
+        "header": "Weight",
+        "index": 10
+      },
+      {
+        "header": "Ticker",
+        "index": 11
+      },
+      {
+        "header": "Weight",
+        "index": 12
+      }
+    ],
+    "Index": 13,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Asset Mappings\\assets_20180802.xlsx"
+  },
+  {
+    "File": "cfd_settle_currency_override.xlsx",
+    "Headers": [
+      {
+        "header": "Underlying Currency",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Override Currency",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 14,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Strategy Files\\cfd_settle_currency_override.xlsx"
+  },
+  {
+    "File": "subportfolios_20180720.xlsx",
+    "Headers": [
+      {
+        "header": "Portfolio",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Strategy",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Subportfolio Code",
+        "index": 3,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 15,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Subportfolios Files\\subportfolios_20180720.xlsx"
+  },
+  {
+    "File": "Delegated Subportfolios_20180807.xlsx",
+    "Headers": [
+      {
+        "header": "Delegated Subportfolio Code",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Main Subportfolio Code",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Instruction Currency",
+        "index": 3,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Delegated Desk Name",
+        "index": 4,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Settlement Days",
+        "index": 5
+      },
+      {
+        "header": "Delegated Manager Email Address",
+        "index": 6,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "CC Email Address",
+        "index": 7,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Email Body",
+        "index": 8,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "ITAP BRCUSIP",
+        "index": 9,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 16,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Delegated Subportfolios Files\\Delegated Subportfolios_20180807.xlsx"
+  },
+  {
+    "File": "Portfolio Constraints_20170720.xlsx",
+    "Headers": [
+      {
+        "header": "[Not assigned]",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Net Leverage Lower Bound",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Net Leverage Upper Bound",
+        "index": 3,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Gross Leverage Lower Bound",
+        "index": 4,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Gross Leverage Upper Bound",
+        "index": 5,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 17,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Portfolio Constraints Files\\Portfolio Constraints_20170720.xlsx"
+  },
+  {
+    "File": "Borrow Availability and Costs_20180706.xlsx",
+    "Headers": [
+      {
+        "header": "Prime Broker",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Asset",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Cost",
+        "index": 3,
+        "type": {
+          "Type": "<class 'float'>"
+        }
+      },
+      {
+        "header": "Availability",
+        "index": 4,
+        "type": {
+          "Type": "<class 'int'>"
+        }
+      }
+    ],
+    "Index": 18,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Borrow Availability and Cost Files\\Borrow Availability and Costs_20180706.xlsx"
+  },
+  {
+    "File": "Target Prime Broker Ratio_20170929.xlsx",
+    "Headers": [
+      {
+        "header": "Prime Broker",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Target Ratio",
+        "index": 2,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      }
+    ],
+    "Index": 19,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Target Prime Broker Ratio Files\\Target Prime Broker Ratio_20170929.xlsx"
+  },
+  {
+    "File": "trade_decision_maker_20180622.xlsx",
+    "Headers": [
+      {
+        "header": "Strategy",
+        "index": 1,
+        "type": {
+          "Type": "<class 'str'>"
+        }
+      },
+      {
+        "header": "Algo ID/Investment Decision Maker",
+        "index": 2,
+        "type": {
+          "Type": "<class 'int'>"
+        }
+      }
+    ],
+    "Index": 20,
+    "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB\\Trade Decision Maker\\trade_decision_maker_20180622.xlsx"
+  }
+]

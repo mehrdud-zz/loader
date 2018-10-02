@@ -1,0 +1,269 @@
+2018-10-01 16:42:23,533 DEBUG Max number of rows: 20
+2018-10-01 16:42:23,534 DEBUG Total number of rows: 20
+2018-10-01 16:42:23,534 DEBUG Total number of columns: 2
+2018-10-01 16:42:23,535 DEBUG Requesting1 row:2, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,535 DEBUG [Not assigned]
+2018-10-01 16:42:23,536 DEBUG Requesting2 row:2, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,537 DEBUG Value read: EUR
+2018-10-01 16:42:23,537 DEBUG Cell value: EUR
+2018-10-01 16:42:23,538 DEBUG Cell text is: EUR
+2018-10-01 16:42:23,538 DEBUG AddedEUR
+2018-10-01 16:42:23,538 DEBUG Requesting1 row:2, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,539 DEBUG [Not assigned]
+2018-10-01 16:42:23,539 DEBUG Requesting2 row:2, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,540 DEBUG Value read: EUSA
+2018-10-01 16:42:23,540 DEBUG Cell value: EUSA
+2018-10-01 16:42:23,541 DEBUG Cell text is: EUSA
+2018-10-01 16:42:23,541 DEBUG AddedEUSA
+2018-10-01 16:42:23,542 DEBUG Requesting1 row:3, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,542 DEBUG [Not assigned]
+2018-10-01 16:42:23,543 DEBUG Requesting2 row:3, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,544 DEBUG Value read: USD
+2018-10-01 16:42:23,544 DEBUG Cell value: USD
+2018-10-01 16:42:23,545 DEBUG Cell text is: USD
+2018-10-01 16:42:23,545 DEBUG AddedUSD
+2018-10-01 16:42:23,546 DEBUG Requesting1 row:3, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,546 DEBUG [Not assigned]
+2018-10-01 16:42:23,547 DEBUG Requesting2 row:3, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,548 DEBUG Value read: USSW
+2018-10-01 16:42:23,548 DEBUG Cell value: USSW
+2018-10-01 16:42:23,549 DEBUG Cell text is: USSW
+2018-10-01 16:42:23,549 DEBUG AddedUSSW
+2018-10-01 16:42:23,549 DEBUG Requesting1 row:4, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,550 DEBUG [Not assigned]
+2018-10-01 16:42:23,550 DEBUG Requesting2 row:4, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,552 DEBUG Value read: JPY
+2018-10-01 16:42:23,552 DEBUG Cell value: JPY
+2018-10-01 16:42:23,552 DEBUG Cell text is: JPY
+2018-10-01 16:42:23,553 DEBUG AddedJPY
+2018-10-01 16:42:23,553 DEBUG Requesting1 row:4, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,554 DEBUG [Not assigned]
+2018-10-01 16:42:23,554 DEBUG Requesting2 row:4, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,555 DEBUG Value read: JYSW
+2018-10-01 16:42:23,555 DEBUG Cell value: JYSW
+2018-10-01 16:42:23,556 DEBUG Cell text is: JYSW
+2018-10-01 16:42:23,556 DEBUG AddedJYSW
+2018-10-01 16:42:23,556 DEBUG Requesting1 row:5, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,557 DEBUG [Not assigned]
+2018-10-01 16:42:23,557 DEBUG Requesting2 row:5, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,558 DEBUG Value read: GBP
+2018-10-01 16:42:23,558 DEBUG Cell value: GBP
+2018-10-01 16:42:23,559 DEBUG Cell text is: GBP
+2018-10-01 16:42:23,559 DEBUG AddedGBP
+2018-10-01 16:42:23,560 DEBUG Requesting1 row:5, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,560 DEBUG [Not assigned]
+2018-10-01 16:42:23,561 DEBUG Requesting2 row:5, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,561 DEBUG Value read: BPSW
+2018-10-01 16:42:23,562 DEBUG Cell value: BPSW
+2018-10-01 16:42:23,562 DEBUG Cell text is: BPSW
+2018-10-01 16:42:23,563 DEBUG AddedBPSW
+2018-10-01 16:42:23,563 DEBUG Requesting1 row:6, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,564 DEBUG [Not assigned]
+2018-10-01 16:42:23,564 DEBUG Requesting2 row:6, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,565 DEBUG Value read: AUD
+2018-10-01 16:42:23,565 DEBUG Cell value: AUD
+2018-10-01 16:42:23,566 DEBUG Cell text is: AUD
+2018-10-01 16:42:23,566 DEBUG AddedAUD
+2018-10-01 16:42:23,567 DEBUG Requesting1 row:6, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,567 DEBUG [Not assigned]
+2018-10-01 16:42:23,568 DEBUG Requesting2 row:6, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,569 DEBUG Value read: ADSWAP
+2018-10-01 16:42:23,569 DEBUG Cell value: ADSWAP
+2018-10-01 16:42:23,570 DEBUG Cell text is: ADSWAP
+2018-10-01 16:42:23,570 DEBUG AddedADSWAP
+2018-10-01 16:42:23,571 DEBUG Requesting1 row:7, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,571 DEBUG [Not assigned]
+2018-10-01 16:42:23,572 DEBUG Requesting2 row:7, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,573 DEBUG Value read: CAD
+2018-10-01 16:42:23,573 DEBUG Cell value: CAD
+2018-10-01 16:42:23,574 DEBUG Cell text is: CAD
+2018-10-01 16:42:23,574 DEBUG AddedCAD
+2018-10-01 16:42:23,575 DEBUG Requesting1 row:7, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,575 DEBUG [Not assigned]
+2018-10-01 16:42:23,575 DEBUG Requesting2 row:7, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,576 DEBUG Value read: CDSW
+2018-10-01 16:42:23,577 DEBUG Cell value: CDSW
+2018-10-01 16:42:23,577 DEBUG Cell text is: CDSW
+2018-10-01 16:42:23,577 DEBUG AddedCDSW
+2018-10-01 16:42:23,578 DEBUG Requesting1 row:8, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,578 DEBUG [Not assigned]
+2018-10-01 16:42:23,579 DEBUG Requesting2 row:8, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,580 DEBUG Value read: CHF
+2018-10-01 16:42:23,580 DEBUG Cell value: CHF
+2018-10-01 16:42:23,580 DEBUG Cell text is: CHF
+2018-10-01 16:42:23,581 DEBUG AddedCHF
+2018-10-01 16:42:23,581 DEBUG Requesting1 row:8, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,582 DEBUG [Not assigned]
+2018-10-01 16:42:23,582 DEBUG Requesting2 row:8, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,583 DEBUG Value read: SFSW
+2018-10-01 16:42:23,583 DEBUG Cell value: SFSW
+2018-10-01 16:42:23,584 DEBUG Cell text is: SFSW
+2018-10-01 16:42:23,584 DEBUG AddedSFSW
+2018-10-01 16:42:23,585 DEBUG Requesting1 row:9, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,585 DEBUG [Not assigned]
+2018-10-01 16:42:23,586 DEBUG Requesting2 row:9, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,586 DEBUG Value read: SEK
+2018-10-01 16:42:23,587 DEBUG Cell value: SEK
+2018-10-01 16:42:23,587 DEBUG Cell text is: SEK
+2018-10-01 16:42:23,588 DEBUG AddedSEK
+2018-10-01 16:42:23,588 DEBUG Requesting1 row:9, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,589 DEBUG [Not assigned]
+2018-10-01 16:42:23,589 DEBUG Requesting2 row:9, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,590 DEBUG Value read: SKSW
+2018-10-01 16:42:23,590 DEBUG Cell value: SKSW
+2018-10-01 16:42:23,591 DEBUG Cell text is: SKSW
+2018-10-01 16:42:23,591 DEBUG AddedSKSW
+2018-10-01 16:42:23,592 DEBUG Requesting1 row:10, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,592 DEBUG [Not assigned]
+2018-10-01 16:42:23,592 DEBUG Requesting2 row:10, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,593 DEBUG Value read: NOK
+2018-10-01 16:42:23,595 DEBUG Cell value: NOK
+2018-10-01 16:42:23,595 DEBUG Cell text is: NOK
+2018-10-01 16:42:23,595 DEBUG AddedNOK
+2018-10-01 16:42:23,596 DEBUG Requesting1 row:10, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,596 DEBUG [Not assigned]
+2018-10-01 16:42:23,597 DEBUG Requesting2 row:10, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,598 DEBUG Value read: NKSW
+2018-10-01 16:42:23,598 DEBUG Cell value: NKSW
+2018-10-01 16:42:23,598 DEBUG Cell text is: NKSW
+2018-10-01 16:42:23,599 DEBUG AddedNKSW
+2018-10-01 16:42:23,599 DEBUG Requesting1 row:11, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,600 DEBUG [Not assigned]
+2018-10-01 16:42:23,600 DEBUG Requesting2 row:11, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,601 DEBUG Value read: PLN
+2018-10-01 16:42:23,601 DEBUG Cell value: PLN
+2018-10-01 16:42:23,602 DEBUG Cell text is: PLN
+2018-10-01 16:42:23,602 DEBUG AddedPLN
+2018-10-01 16:42:23,603 DEBUG Requesting1 row:11, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,603 DEBUG [Not assigned]
+2018-10-01 16:42:23,604 DEBUG Requesting2 row:11, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,605 DEBUG Value read: PZSW
+2018-10-01 16:42:23,605 DEBUG Cell value: PZSW
+2018-10-01 16:42:23,606 DEBUG Cell text is: PZSW
+2018-10-01 16:42:23,606 DEBUG AddedPZSW
+2018-10-01 16:42:23,606 DEBUG Requesting1 row:12, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,607 DEBUG [Not assigned]
+2018-10-01 16:42:23,607 DEBUG Requesting2 row:12, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,608 DEBUG Value read: ZAR
+2018-10-01 16:42:23,608 DEBUG Cell value: ZAR
+2018-10-01 16:42:23,609 DEBUG Cell text is: ZAR
+2018-10-01 16:42:23,609 DEBUG AddedZAR
+2018-10-01 16:42:23,610 DEBUG Requesting1 row:12, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,610 DEBUG [Not assigned]
+2018-10-01 16:42:23,611 DEBUG Requesting2 row:12, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,611 DEBUG Value read: SASW
+2018-10-01 16:42:23,612 DEBUG Cell value: SASW
+2018-10-01 16:42:23,612 DEBUG Cell text is: SASW
+2018-10-01 16:42:23,613 DEBUG AddedSASW
+2018-10-01 16:42:23,613 DEBUG Requesting1 row:13, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,614 DEBUG [Not assigned]
+2018-10-01 16:42:23,614 DEBUG Requesting2 row:13, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,615 DEBUG Value read: KRW
+2018-10-01 16:42:23,616 DEBUG Cell value: KRW
+2018-10-01 16:42:23,616 DEBUG Cell text is: KRW
+2018-10-01 16:42:23,617 DEBUG AddedKRW
+2018-10-01 16:42:23,617 DEBUG Requesting1 row:13, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,617 DEBUG [Not assigned]
+2018-10-01 16:42:23,618 DEBUG Requesting2 row:13, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,618 DEBUG Value read: KWSWNI
+2018-10-01 16:42:23,619 DEBUG Cell value: KWSWNI
+2018-10-01 16:42:23,619 DEBUG Cell text is: KWSWNI
+2018-10-01 16:42:23,620 DEBUG AddedKWSWNI
+2018-10-01 16:42:23,620 DEBUG Requesting1 row:14, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,620 DEBUG [Not assigned]
+2018-10-01 16:42:23,621 DEBUG Requesting2 row:14, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,622 DEBUG Value read: MYR
+2018-10-01 16:42:23,622 DEBUG Cell value: MYR
+2018-10-01 16:42:23,622 DEBUG Cell text is: MYR
+2018-10-01 16:42:23,623 DEBUG AddedMYR
+2018-10-01 16:42:23,623 DEBUG Requesting1 row:14, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,623 DEBUG [Not assigned]
+2018-10-01 16:42:23,623 DEBUG Requesting2 row:14, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,624 DEBUG Value read: MRSWNI
+2018-10-01 16:42:23,625 DEBUG Cell value: MRSWNI
+2018-10-01 16:42:23,625 DEBUG Cell text is: MRSWNI
+2018-10-01 16:42:23,625 DEBUG AddedMRSWNI
+2018-10-01 16:42:23,626 DEBUG Requesting1 row:15, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,626 DEBUG [Not assigned]
+2018-10-01 16:42:23,627 DEBUG Requesting2 row:15, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,628 DEBUG Value read: CZK
+2018-10-01 16:42:23,628 DEBUG Cell value: CZK
+2018-10-01 16:42:23,629 DEBUG Cell text is: CZK
+2018-10-01 16:42:23,629 DEBUG AddedCZK
+2018-10-01 16:42:23,630 DEBUG Requesting1 row:15, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,631 DEBUG [Not assigned]
+2018-10-01 16:42:23,631 DEBUG Requesting2 row:15, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,632 DEBUG Value read: CKSW
+2018-10-01 16:42:23,632 DEBUG Cell value: CKSW
+2018-10-01 16:42:23,633 DEBUG Cell text is: CKSW
+2018-10-01 16:42:23,633 DEBUG AddedCKSW
+2018-10-01 16:42:23,634 DEBUG Requesting1 row:16, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,634 DEBUG [Not assigned]
+2018-10-01 16:42:23,635 DEBUG Requesting2 row:16, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,636 DEBUG Value read: HKD
+2018-10-01 16:42:23,637 DEBUG Cell value: HKD
+2018-10-01 16:42:23,637 DEBUG Cell text is: HKD
+2018-10-01 16:42:23,638 DEBUG AddedHKD
+2018-10-01 16:42:23,639 DEBUG Requesting1 row:16, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,639 DEBUG [Not assigned]
+2018-10-01 16:42:23,640 DEBUG Requesting2 row:16, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,641 DEBUG Value read: HDSW
+2018-10-01 16:42:23,641 DEBUG Cell value: HDSW
+2018-10-01 16:42:23,642 DEBUG Cell text is: HDSW
+2018-10-01 16:42:23,642 DEBUG AddedHDSW
+2018-10-01 16:42:23,643 DEBUG Requesting1 row:17, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,643 DEBUG [Not assigned]
+2018-10-01 16:42:23,644 DEBUG Requesting2 row:17, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,645 DEBUG Value read: NZD
+2018-10-01 16:42:23,646 DEBUG Cell value: NZD
+2018-10-01 16:42:23,646 DEBUG Cell text is: NZD
+2018-10-01 16:42:23,646 DEBUG AddedNZD
+2018-10-01 16:42:23,647 DEBUG Requesting1 row:17, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,647 DEBUG [Not assigned]
+2018-10-01 16:42:23,648 DEBUG Requesting2 row:17, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,649 DEBUG Value read: NDSWAP
+2018-10-01 16:42:23,649 DEBUG Cell value: NDSWAP
+2018-10-01 16:42:23,650 DEBUG Cell text is: NDSWAP
+2018-10-01 16:42:23,650 DEBUG AddedNDSWAP
+2018-10-01 16:42:23,650 DEBUG Requesting1 row:18, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,651 DEBUG [Not assigned]
+2018-10-01 16:42:23,651 DEBUG Requesting2 row:18, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,652 DEBUG Value read: SGD
+2018-10-01 16:42:23,653 DEBUG Cell value: SGD
+2018-10-01 16:42:23,653 DEBUG Cell text is: SGD
+2018-10-01 16:42:23,653 DEBUG AddedSGD
+2018-10-01 16:42:23,654 DEBUG Requesting1 row:18, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,654 DEBUG [Not assigned]
+2018-10-01 16:42:23,654 DEBUG Requesting2 row:18, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,655 DEBUG Value read: SDSW
+2018-10-01 16:42:23,656 DEBUG Cell value: SDSW
+2018-10-01 16:42:23,656 DEBUG Cell text is: SDSW
+2018-10-01 16:42:23,656 DEBUG AddedSDSW
+2018-10-01 16:42:23,656 DEBUG Requesting1 row:19, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,657 DEBUG [Not assigned]
+2018-10-01 16:42:23,658 DEBUG Requesting2 row:19, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,659 DEBUG Value read: ILS
+2018-10-01 16:42:23,659 DEBUG Cell value: ILS
+2018-10-01 16:42:23,659 DEBUG Cell text is: ILS
+2018-10-01 16:42:23,660 DEBUG AddedILS
+2018-10-01 16:42:23,660 DEBUG Requesting1 row:19, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,661 DEBUG [Not assigned]
+2018-10-01 16:42:23,661 DEBUG Requesting2 row:19, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,662 DEBUG Value read: ISSW
+2018-10-01 16:42:23,662 DEBUG Cell value: ISSW
+2018-10-01 16:42:23,662 DEBUG Cell text is: ISSW
+2018-10-01 16:42:23,663 DEBUG AddedISSW
+2018-10-01 16:42:23,663 DEBUG Requesting1 row:20, column:0, max_row:20, max_column:2
+2018-10-01 16:42:23,663 DEBUG [Not assigned]
+2018-10-01 16:42:23,664 DEBUG Requesting2 row:20, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,664 DEBUG Cell out of bounds20
+2018-10-01 16:42:23,664 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:23,665 DEBUG Cell text is: [Not assigned]
+2018-10-01 16:42:23,665 DEBUG Added[Not assigned]
+2018-10-01 16:42:23,665 DEBUG Requesting1 row:20, column:1, max_row:20, max_column:2
+2018-10-01 16:42:23,666 DEBUG [Not assigned]
+2018-10-01 16:42:23,666 DEBUG Requesting2 row:20, column:2, max_row:20, max_column:2
+2018-10-01 16:42:23,666 DEBUG Cell out of bounds20
+2018-10-01 16:42:23,667 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:23,667 DEBUG Cell text is: [Not assigned]
+2018-10-01 16:42:23,668 DEBUG Added[Not assigned]

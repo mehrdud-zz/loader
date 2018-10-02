@@ -1,0 +1,45 @@
+2018-10-01 16:42:23,688 DEBUG Max number of rows: 4
+2018-10-01 16:42:23,688 DEBUG Total number of rows: 4
+2018-10-01 16:42:23,689 DEBUG Total number of columns: 2
+2018-10-01 16:42:23,689 DEBUG Requesting1 row:2, column:0, max_row:4, max_column:2
+2018-10-01 16:42:23,690 DEBUG [Not assigned]
+2018-10-01 16:42:23,690 DEBUG Requesting2 row:2, column:1, max_row:4, max_column:2
+2018-10-01 16:42:23,691 DEBUG Value read: UK RPI ALL ITEMS NSA
+2018-10-01 16:42:23,691 DEBUG Cell value: UK RPI ALL ITEMS NSA
+2018-10-01 16:42:23,691 DEBUG Cell text is: UK RPI ALL ITEMS NSA
+2018-10-01 16:42:23,692 DEBUG AddedUK RPI ALL ITEMS NSA
+2018-10-01 16:42:23,692 DEBUG Requesting1 row:2, column:1, max_row:4, max_column:2
+2018-10-01 16:42:23,692 DEBUG [Not assigned]
+2018-10-01 16:42:23,693 DEBUG Requesting2 row:2, column:2, max_row:4, max_column:2
+2018-10-01 16:42:23,693 DEBUG Value read: BPSWIT
+2018-10-01 16:42:23,694 DEBUG Cell value: BPSWIT
+2018-10-01 16:42:23,694 DEBUG Cell text is: BPSWIT
+2018-10-01 16:42:23,695 DEBUG AddedBPSWIT
+2018-10-01 16:42:23,695 DEBUG Requesting1 row:3, column:0, max_row:4, max_column:2
+2018-10-01 16:42:23,695 DEBUG [Not assigned]
+2018-10-01 16:42:23,696 DEBUG Requesting2 row:3, column:1, max_row:4, max_column:2
+2018-10-01 16:42:23,696 DEBUG Value read: US CPI URBAN CONSUMERS NSA
+2018-10-01 16:42:23,696 DEBUG Cell value: US CPI URBAN CONSUMERS NSA
+2018-10-01 16:42:23,696 DEBUG Cell text is: US CPI URBAN CONSUMERS NSA
+2018-10-01 16:42:23,697 DEBUG AddedUS CPI URBAN CONSUMERS NSA
+2018-10-01 16:42:23,697 DEBUG Requesting1 row:3, column:1, max_row:4, max_column:2
+2018-10-01 16:42:23,697 DEBUG [Not assigned]
+2018-10-01 16:42:23,698 DEBUG Requesting2 row:3, column:2, max_row:4, max_column:2
+2018-10-01 16:42:23,698 DEBUG Value read: USSWIT
+2018-10-01 16:42:23,699 DEBUG Cell value: USSWIT
+2018-10-01 16:42:23,699 DEBUG Cell text is: USSWIT
+2018-10-01 16:42:23,699 DEBUG AddedUSSWIT
+2018-10-01 16:42:23,700 DEBUG Requesting1 row:4, column:0, max_row:4, max_column:2
+2018-10-01 16:42:23,700 DEBUG [Not assigned]
+2018-10-01 16:42:23,700 DEBUG Requesting2 row:4, column:1, max_row:4, max_column:2
+2018-10-01 16:42:23,701 DEBUG Cell out of bounds4
+2018-10-01 16:42:23,701 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:23,701 DEBUG Cell text is: [Not assigned]
+2018-10-01 16:42:23,702 DEBUG Added[Not assigned]
+2018-10-01 16:42:23,702 DEBUG Requesting1 row:4, column:1, max_row:4, max_column:2
+2018-10-01 16:42:23,703 DEBUG [Not assigned]
+2018-10-01 16:42:23,703 DEBUG Requesting2 row:4, column:2, max_row:4, max_column:2
+2018-10-01 16:42:23,703 DEBUG Cell out of bounds4
+2018-10-01 16:42:23,704 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:23,704 DEBUG Cell text is: [Not assigned]
+2018-10-01 16:42:23,704 DEBUG Added[Not assigned]

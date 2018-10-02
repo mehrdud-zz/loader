@@ -1,0 +1,55 @@
+2018-10-01 16:42:24,119 DEBUG Max number of rows: 3
+2018-10-01 16:42:24,119 DEBUG Total number of rows: 3
+2018-10-01 16:42:24,120 DEBUG Total number of columns: 4
+2018-10-01 16:42:24,120 DEBUG Requesting1 row:2, column:0, max_row:3, max_column:4
+2018-10-01 16:42:24,121 DEBUG [Not assigned]
+2018-10-01 16:42:24,121 DEBUG Requesting2 row:2, column:1, max_row:3, max_column:4
+2018-10-01 16:42:24,122 DEBUG Value read: None
+2018-10-01 16:42:24,122 DEBUG Cell value: 
+2018-10-01 16:42:24,122 DEBUG Cell text is: 
+2018-10-01 16:42:24,123 DEBUG Requesting1 row:2, column:1, max_row:3, max_column:4
+2018-10-01 16:42:24,123 DEBUG [Not assigned]
+2018-10-01 16:42:24,123 DEBUG Requesting2 row:2, column:2, max_row:3, max_column:4
+2018-10-01 16:42:24,124 DEBUG Value read: None
+2018-10-01 16:42:24,124 DEBUG Cell value: 
+2018-10-01 16:42:24,125 DEBUG Cell text is: 
+2018-10-01 16:42:24,125 DEBUG Requesting1 row:2, column:2, max_row:3, max_column:4
+2018-10-01 16:42:24,126 DEBUG [Not assigned]
+2018-10-01 16:42:24,126 DEBUG Requesting2 row:2, column:3, max_row:3, max_column:4
+2018-10-01 16:42:24,127 DEBUG Value read: None
+2018-10-01 16:42:24,127 DEBUG Cell value: 
+2018-10-01 16:42:24,127 DEBUG Cell text is: 
+2018-10-01 16:42:24,128 DEBUG Requesting1 row:2, column:3, max_row:3, max_column:4
+2018-10-01 16:42:24,128 DEBUG [Not assigned]
+2018-10-01 16:42:24,129 DEBUG Requesting2 row:2, column:4, max_row:3, max_column:4
+2018-10-01 16:42:24,129 DEBUG Value read: None
+2018-10-01 16:42:24,129 DEBUG Cell value: 
+2018-10-01 16:42:24,130 DEBUG Cell text is: 
+2018-10-01 16:42:24,130 DEBUG Requesting1 row:3, column:0, max_row:3, max_column:4
+2018-10-01 16:42:24,130 DEBUG [Not assigned]
+2018-10-01 16:42:24,131 DEBUG Requesting2 row:3, column:1, max_row:3, max_column:4
+2018-10-01 16:42:24,131 DEBUG Cell out of bounds3
+2018-10-01 16:42:24,132 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:24,133 DEBUG Cell text is: [Not assigned]
+2018-10-01 16:42:24,133 DEBUG Added[Not assigned]
+2018-10-01 16:42:24,133 DEBUG Requesting1 row:3, column:1, max_row:3, max_column:4
+2018-10-01 16:42:24,133 DEBUG [Not assigned]
+2018-10-01 16:42:24,134 DEBUG Requesting2 row:3, column:2, max_row:3, max_column:4
+2018-10-01 16:42:24,134 DEBUG Cell out of bounds3
+2018-10-01 16:42:24,134 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:24,135 DEBUG Cell text is: [Not assigned]
+2018-10-01 16:42:24,135 DEBUG Added[Not assigned]
+2018-10-01 16:42:24,135 DEBUG Requesting1 row:3, column:2, max_row:3, max_column:4
+2018-10-01 16:42:24,136 DEBUG [Not assigned]
+2018-10-01 16:42:24,136 DEBUG Requesting2 row:3, column:3, max_row:3, max_column:4
+2018-10-01 16:42:24,137 DEBUG Cell out of bounds3
+2018-10-01 16:42:24,137 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:24,137 DEBUG Cell text is: [Not assigned]
+2018-10-01 16:42:24,138 DEBUG Added[Not assigned]
+2018-10-01 16:42:24,138 DEBUG Requesting1 row:3, column:3, max_row:3, max_column:4
+2018-10-01 16:42:24,138 DEBUG [Not assigned]
+2018-10-01 16:42:24,139 DEBUG Requesting2 row:3, column:4, max_row:3, max_column:4
+2018-10-01 16:42:24,139 DEBUG Cell out of bounds3
+2018-10-01 16:42:24,139 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:24,140 DEBUG Cell text is: [Not assigned]
+2018-10-01 16:42:24,140 DEBUG Added[Not assigned]

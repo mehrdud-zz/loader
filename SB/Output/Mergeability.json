@@ -1,0 +1,67 @@
+[
+  {
+    "RowNumber": 2,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Name",
+        "value": "GTAA"
+      }
+    ]
+  },
+  {
+    "RowNumber": 3,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Name",
+        "value": "DGF"
+      }
+    ]
+  },
+  {
+    "RowNumber": 4,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Name",
+        "value": "DMAF"
+      }
+    ]
+  },
+  {
+    "RowNumber": 5,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Name",
+        "value": "Global DGF"
+      }
+    ]
+  },
+  {
+    "RowNumber": 6,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Name",
+        "value": "US DGF"
+      }
+    ]
+  },
+  {
+    "RowNumber": 7,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Portfolio Name",
+        "value": "[Not assigned]"
+      },
+      {
+        "column_index": 2,
+        "header": "Mergeable?",
+        "value": "[Not assigned]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "RowNumber": 2,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "INFLATION INDEX",
+        "value": "UK RPI ALL ITEMS NSA"
+      },
+      {
+        "column_index": 2,
+        "header": "ILS TICKER PREFIX",
+        "value": "BPSWIT"
+      }
+    ]
+  },
+  {
+    "RowNumber": 3,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "INFLATION INDEX",
+        "value": "US CPI URBAN CONSUMERS NSA"
+      },
+      {
+        "column_index": 2,
+        "header": "ILS TICKER PREFIX",
+        "value": "USSWIT"
+      }
+    ]
+  },
+  {
+    "RowNumber": 4,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "INFLATION INDEX",
+        "value": "[Not assigned]"
+      },
+      {
+        "column_index": 2,
+        "header": "ILS TICKER PREFIX",
+        "value": "[Not assigned]"
+      }
+    ]
+  }
+]

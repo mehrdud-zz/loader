@@ -1,0 +1,101 @@
+2018-10-01 16:42:23,882 DEBUG Max number of rows: 8
+2018-10-01 16:42:23,883 DEBUG Total number of rows: 8
+2018-10-01 16:42:23,883 DEBUG Total number of columns: 2
+2018-10-01 16:42:23,884 DEBUG Requesting1 row:2, column:0, max_row:8, max_column:2
+2018-10-01 16:42:23,884 DEBUG [Not assigned]
+2018-10-01 16:42:23,885 DEBUG Requesting2 row:2, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,886 DEBUG Value read: SISF SB 10
+2018-10-01 16:42:23,886 DEBUG Cell value: SISF SB 10
+2018-10-01 16:42:23,886 DEBUG Cell text is: SISF SB 10
+2018-10-01 16:42:23,887 DEBUG AddedSISF SB 10
+2018-10-01 16:42:23,887 DEBUG Requesting1 row:2, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,887 DEBUG [Not assigned]
+2018-10-01 16:42:23,888 DEBUG Requesting2 row:2, column:2, max_row:8, max_column:2
+2018-10-01 16:42:23,889 DEBUG Value read: Strategic Beta Full Matrix
+2018-10-01 16:42:23,889 DEBUG Cell value: Strategic Beta Full Matrix
+2018-10-01 16:42:23,889 DEBUG Cell text is: Strategic Beta Full Matrix
+2018-10-01 16:42:23,890 DEBUG AddedStrategic Beta Full Matrix
+2018-10-01 16:42:23,890 DEBUG Requesting1 row:3, column:0, max_row:8, max_column:2
+2018-10-01 16:42:23,890 DEBUG [Not assigned]
+2018-10-01 16:42:23,891 DEBUG Requesting2 row:3, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,891 DEBUG Value read: Strategic Beta LP
+2018-10-01 16:42:23,892 DEBUG Cell value: Strategic Beta LP
+2018-10-01 16:42:23,892 DEBUG Cell text is: Strategic Beta LP
+2018-10-01 16:42:23,893 DEBUG AddedStrategic Beta LP
+2018-10-01 16:42:23,893 DEBUG Requesting1 row:3, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,893 DEBUG [Not assigned]
+2018-10-01 16:42:23,894 DEBUG Requesting2 row:3, column:2, max_row:8, max_column:2
+2018-10-01 16:42:23,894 DEBUG Value read: Strategic Beta Full Matrix
+2018-10-01 16:42:23,895 DEBUG Cell value: Strategic Beta Full Matrix
+2018-10-01 16:42:23,895 DEBUG Cell text is: Strategic Beta Full Matrix
+2018-10-01 16:42:23,896 DEBUG AddedStrategic Beta Full Matrix
+2018-10-01 16:42:23,896 DEBUG Requesting1 row:4, column:0, max_row:8, max_column:2
+2018-10-01 16:42:23,896 DEBUG [Not assigned]
+2018-10-01 16:42:23,897 DEBUG Requesting2 row:4, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,897 DEBUG Value read: SRBS Strategic Beta
+2018-10-01 16:42:23,898 DEBUG Cell value: SRBS Strategic Beta
+2018-10-01 16:42:23,898 DEBUG Cell text is: SRBS Strategic Beta
+2018-10-01 16:42:23,898 DEBUG AddedSRBS Strategic Beta
+2018-10-01 16:42:23,898 DEBUG Requesting1 row:4, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,899 DEBUG [Not assigned]
+2018-10-01 16:42:23,899 DEBUG Requesting2 row:4, column:2, max_row:8, max_column:2
+2018-10-01 16:42:23,900 DEBUG Value read: Strategic Beta Full Matrix
+2018-10-01 16:42:23,900 DEBUG Cell value: Strategic Beta Full Matrix
+2018-10-01 16:42:23,901 DEBUG Cell text is: Strategic Beta Full Matrix
+2018-10-01 16:42:23,901 DEBUG AddedStrategic Beta Full Matrix
+2018-10-01 16:42:23,901 DEBUG Requesting1 row:5, column:0, max_row:8, max_column:2
+2018-10-01 16:42:23,901 DEBUG [Not assigned]
+2018-10-01 16:42:23,902 DEBUG Requesting2 row:5, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,902 DEBUG Value read: DCF Liq Alts
+2018-10-01 16:42:23,903 DEBUG Cell value: DCF Liq Alts
+2018-10-01 16:42:23,903 DEBUG Cell text is: DCF Liq Alts
+2018-10-01 16:42:23,903 DEBUG AddedDCF Liq Alts
+2018-10-01 16:42:23,904 DEBUG Requesting1 row:5, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,904 DEBUG [Not assigned]
+2018-10-01 16:42:23,904 DEBUG Requesting2 row:5, column:2, max_row:8, max_column:2
+2018-10-01 16:42:23,905 DEBUG Value read: Strategic Beta Full Matrix
+2018-10-01 16:42:23,905 DEBUG Cell value: Strategic Beta Full Matrix
+2018-10-01 16:42:23,905 DEBUG Cell text is: Strategic Beta Full Matrix
+2018-10-01 16:42:23,906 DEBUG AddedStrategic Beta Full Matrix
+2018-10-01 16:42:23,906 DEBUG Requesting1 row:6, column:0, max_row:8, max_column:2
+2018-10-01 16:42:23,906 DEBUG [Not assigned]
+2018-10-01 16:42:23,907 DEBUG Requesting2 row:6, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,907 DEBUG Value read: UK FRF
+2018-10-01 16:42:23,908 DEBUG Cell value: UK FRF
+2018-10-01 16:42:23,908 DEBUG Cell text is: UK FRF
+2018-10-01 16:42:23,908 DEBUG AddedUK FRF
+2018-10-01 16:42:23,909 DEBUG Requesting1 row:6, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,909 DEBUG [Not assigned]
+2018-10-01 16:42:23,909 DEBUG Requesting2 row:6, column:2, max_row:8, max_column:2
+2018-10-01 16:42:23,910 DEBUG Value read: Strategic Beta Full Matrix
+2018-10-01 16:42:23,911 DEBUG Cell value: Strategic Beta Full Matrix
+2018-10-01 16:42:23,911 DEBUG Cell text is: Strategic Beta Full Matrix
+2018-10-01 16:42:23,911 DEBUG AddedStrategic Beta Full Matrix
+2018-10-01 16:42:23,912 DEBUG Requesting1 row:7, column:0, max_row:8, max_column:2
+2018-10-01 16:42:23,912 DEBUG [Not assigned]
+2018-10-01 16:42:23,912 DEBUG Requesting2 row:7, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,913 DEBUG Value read: Euro FRF
+2018-10-01 16:42:23,913 DEBUG Cell value: Euro FRF
+2018-10-01 16:42:23,914 DEBUG Cell text is: Euro FRF
+2018-10-01 16:42:23,915 DEBUG AddedEuro FRF
+2018-10-01 16:42:23,915 DEBUG Requesting1 row:7, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,915 DEBUG [Not assigned]
+2018-10-01 16:42:23,915 DEBUG Requesting2 row:7, column:2, max_row:8, max_column:2
+2018-10-01 16:42:23,916 DEBUG Value read: Strategic Beta Full Matrix
+2018-10-01 16:42:23,916 DEBUG Cell value: Strategic Beta Full Matrix
+2018-10-01 16:42:23,917 DEBUG Cell text is: Strategic Beta Full Matrix
+2018-10-01 16:42:23,917 DEBUG AddedStrategic Beta Full Matrix
+2018-10-01 16:42:23,918 DEBUG Requesting1 row:8, column:0, max_row:8, max_column:2
+2018-10-01 16:42:23,918 DEBUG [Not assigned]
+2018-10-01 16:42:23,918 DEBUG Requesting2 row:8, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,919 DEBUG Cell out of bounds8
+2018-10-01 16:42:23,919 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:23,919 DEBUG Cell text is: [Not assigned]
+2018-10-01 16:42:23,920 DEBUG Added[Not assigned]
+2018-10-01 16:42:23,920 DEBUG Requesting1 row:8, column:1, max_row:8, max_column:2
+2018-10-01 16:42:23,921 DEBUG [Not assigned]
+2018-10-01 16:42:23,921 DEBUG Requesting2 row:8, column:2, max_row:8, max_column:2
+2018-10-01 16:42:23,921 DEBUG Cell out of bounds8
+2018-10-01 16:42:23,921 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:23,922 DEBUG Cell text is: [Not assigned]
+2018-10-01 16:42:23,922 DEBUG Added[Not assigned]

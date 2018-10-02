@@ -1,0 +1,1279 @@
+2018-10-01 16:42:07,421 DEBUG 
+2018-10-01 16:42:07,421 DEBUG 
+2018-10-01 16:42:07,422 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,422 DEBUG [Not assigned]
+2018-10-01 16:42:07,423 DEBUG Requesting2 row:1, column:1, max_row:22, max_column:38
+2018-10-01 16:42:07,424 DEBUG Value read: Ticker
+2018-10-01 16:42:07,424 DEBUG Cell value: Ticker
+2018-10-01 16:42:07,425 DEBUG Got first header
+2018-10-01 16:42:07,425 DEBUG First header: Ticker
+2018-10-01 16:42:07,426 DEBUG Processing header: Ticker
+2018-10-01 16:42:07,426 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,426 DEBUG Number of rows: 22
+2018-10-01 16:42:07,426 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,427 DEBUG [Not assigned]
+2018-10-01 16:42:07,427 DEBUG Requesting2 row:2, column:1, max_row:22, max_column:38
+2018-10-01 16:42:07,429 DEBUG Value read: TRSSG3MENP Index
+2018-10-01 16:42:07,429 DEBUG Cell value: TRSSG3MENP Index
+2018-10-01 16:42:07,429 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,430 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,430 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,432 DEBUG Processing header: Method
+2018-10-01 16:42:07,432 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,433 DEBUG Number of rows: 22
+2018-10-01 16:42:07,433 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,433 DEBUG [Not assigned]
+2018-10-01 16:42:07,434 DEBUG Requesting2 row:2, column:2, max_row:22, max_column:38
+2018-10-01 16:42:07,435 DEBUG Value read: TRS_UNITS
+2018-10-01 16:42:07,436 DEBUG Cell value: TRS_UNITS
+2018-10-01 16:42:07,436 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,436 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,436 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,438 DEBUG Processing header: TRS Maturity Months
+2018-10-01 16:42:07,438 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,439 DEBUG Number of rows: 22
+2018-10-01 16:42:07,439 DEBUG Going to read row 2, column 3
+2018-10-01 16:42:07,439 DEBUG [Not assigned]
+2018-10-01 16:42:07,440 DEBUG Requesting2 row:2, column:3, max_row:22, max_column:38
+2018-10-01 16:42:07,441 DEBUG Value read: 3
+2018-10-01 16:42:07,442 DEBUG Cell value: 3
+2018-10-01 16:42:07,443 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,443 DEBUG Column type is: <class 'int'>
+2018-10-01 16:42:07,443 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,444 DEBUG Processing header: IndexOrCommodity
+2018-10-01 16:42:07,445 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,445 DEBUG Number of rows: 22
+2018-10-01 16:42:07,446 DEBUG Going to read row 2, column 4
+2018-10-01 16:42:07,446 DEBUG [Not assigned]
+2018-10-01 16:42:07,446 DEBUG Requesting2 row:2, column:4, max_row:22, max_column:38
+2018-10-01 16:42:07,448 DEBUG Value read: COMMODITY
+2018-10-01 16:42:07,449 DEBUG Cell value: COMMODITY
+2018-10-01 16:42:07,449 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,450 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,450 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,452 DEBUG Processing header: SECURITY_SMARTCUT_TYPE_PAY
+2018-10-01 16:42:07,452 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,453 DEBUG Number of rows: 22
+2018-10-01 16:42:07,453 DEBUG Going to read row 2, column 5
+2018-10-01 16:42:07,453 DEBUG [Not assigned]
+2018-10-01 16:42:07,454 DEBUG Requesting2 row:2, column:5, max_row:22, max_column:38
+2018-10-01 16:42:07,455 DEBUG Value read: FIXED
+2018-10-01 16:42:07,456 DEBUG Cell value: FIXED
+2018-10-01 16:42:07,456 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,456 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,457 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,458 DEBUG Processing header: SECURITY_SMARTCUT_NOTIONAL_TYPE_REC
+2018-10-01 16:42:07,459 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,459 DEBUG Number of rows: 22
+2018-10-01 16:42:07,459 DEBUG Going to read row 2, column 6
+2018-10-01 16:42:07,460 DEBUG [Not assigned]
+2018-10-01 16:42:07,460 DEBUG Requesting2 row:2, column:6, max_row:22, max_column:38
+2018-10-01 16:42:07,462 DEBUG Value read: V
+2018-10-01 16:42:07,462 DEBUG Cell value: V
+2018-10-01 16:42:07,462 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,463 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,463 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,465 DEBUG Processing header: SECURITY_SMARTCUT_NOTIONAL_RESET
+2018-10-01 16:42:07,465 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,465 DEBUG Number of rows: 22
+2018-10-01 16:42:07,466 DEBUG Going to read row 2, column 7
+2018-10-01 16:42:07,466 DEBUG [Not assigned]
+2018-10-01 16:42:07,467 DEBUG Requesting2 row:2, column:7, max_row:22, max_column:38
+2018-10-01 16:42:07,469 DEBUG Value read: F
+2018-10-01 16:42:07,469 DEBUG Cell value: F
+2018-10-01 16:42:07,469 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,469 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,470 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,471 DEBUG Processing header: SECURITY_SMARTCUT_QUOTE_TYPE_REC
+2018-10-01 16:42:07,472 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,472 DEBUG Number of rows: 22
+2018-10-01 16:42:07,473 DEBUG Going to read row 2, column 8
+2018-10-01 16:42:07,473 DEBUG [Not assigned]
+2018-10-01 16:42:07,473 DEBUG Requesting2 row:2, column:8, max_row:22, max_column:38
+2018-10-01 16:42:07,475 DEBUG Value read: P
+2018-10-01 16:42:07,475 DEBUG Cell value: P
+2018-10-01 16:42:07,476 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,476 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,476 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,478 DEBUG Processing header: SECURITY_SMARTCUT_EARLY_TERM
+2018-10-01 16:42:07,478 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,479 DEBUG Number of rows: 22
+2018-10-01 16:42:07,479 DEBUG Going to read row 2, column 9
+2018-10-01 16:42:07,479 DEBUG [Not assigned]
+2018-10-01 16:42:07,480 DEBUG Requesting2 row:2, column:9, max_row:22, max_column:38
+2018-10-01 16:42:07,481 DEBUG Value read: Y
+2018-10-01 16:42:07,482 DEBUG Cell value: Y
+2018-10-01 16:42:07,482 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,482 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,483 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,484 DEBUG Processing header: SECURITY_SMARTCUT_RESET_CALENDAR_REC
+2018-10-01 16:42:07,484 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,486 DEBUG Number of rows: 22
+2018-10-01 16:42:07,486 DEBUG Going to read row 2, column 10
+2018-10-01 16:42:07,486 DEBUG [Not assigned]
+2018-10-01 16:42:07,486 DEBUG Requesting2 row:2, column:10, max_row:22, max_column:38
+2018-10-01 16:42:07,488 DEBUG Value read: NY_Bank|LN
+2018-10-01 16:42:07,488 DEBUG Cell value: NY_Bank|LN
+2018-10-01 16:42:07,488 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,489 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,489 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,490 DEBUG Processing header: SECURITY_SMARTCUT_RESET_FREQ_REC
+2018-10-01 16:42:07,491 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,491 DEBUG Number of rows: 22
+2018-10-01 16:42:07,491 DEBUG Going to read row 2, column 11
+2018-10-01 16:42:07,492 DEBUG [Not assigned]
+2018-10-01 16:42:07,492 DEBUG Requesting2 row:2, column:11, max_row:22, max_column:38
+2018-10-01 16:42:07,494 DEBUG Value read: z      
+2018-10-01 16:42:07,494 DEBUG Cell value: z      
+2018-10-01 16:42:07,494 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,495 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,495 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,496 DEBUG Processing header: SECURITY_SMARTCUT_RESET_DELAY_REC
+2018-10-01 16:42:07,497 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,497 DEBUG Number of rows: 22
+2018-10-01 16:42:07,497 DEBUG Going to read row 2, column 12
+2018-10-01 16:42:07,498 DEBUG [Not assigned]
+2018-10-01 16:42:07,498 DEBUG Requesting2 row:2, column:12, max_row:22, max_column:38
+2018-10-01 16:42:07,500 DEBUG Value read:  
+2018-10-01 16:42:07,500 DEBUG Cell value:  
+2018-10-01 16:42:07,500 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,501 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,501 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,503 DEBUG Processing header: SECURITY_SMARTCUT_RESET_ADJUST_METH_REC
+2018-10-01 16:42:07,503 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,504 DEBUG Number of rows: 22
+2018-10-01 16:42:07,504 DEBUG Going to read row 2, column 13
+2018-10-01 16:42:07,504 DEBUG [Not assigned]
+2018-10-01 16:42:07,505 DEBUG Requesting2 row:2, column:13, max_row:22, max_column:38
+2018-10-01 16:42:07,506 DEBUG Value read: m
+2018-10-01 16:42:07,507 DEBUG Cell value: m
+2018-10-01 16:42:07,507 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,507 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,508 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,510 DEBUG Processing header: SECURITY_SMARTCUT_PMT_ACCRUAL_PERIOD_CONV_REC
+2018-10-01 16:42:07,510 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,511 DEBUG Number of rows: 22
+2018-10-01 16:42:07,511 DEBUG Going to read row 2, column 14
+2018-10-01 16:42:07,511 DEBUG [Not assigned]
+2018-10-01 16:42:07,512 DEBUG Requesting2 row:2, column:14, max_row:22, max_column:38
+2018-10-01 16:42:07,513 DEBUG Value read: A
+2018-10-01 16:42:07,514 DEBUG Cell value: A
+2018-10-01 16:42:07,514 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,514 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,515 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,516 DEBUG Processing header: SECURITY_SMARTCUT_PMT_CALENDAR_REC
+2018-10-01 16:42:07,517 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,517 DEBUG Number of rows: 22
+2018-10-01 16:42:07,517 DEBUG Going to read row 2, column 15
+2018-10-01 16:42:07,517 DEBUG [Not assigned]
+2018-10-01 16:42:07,518 DEBUG Requesting2 row:2, column:15, max_row:22, max_column:38
+2018-10-01 16:42:07,519 DEBUG Value read: NY_Bank|LN
+2018-10-01 16:42:07,520 DEBUG Cell value: NY_Bank|LN
+2018-10-01 16:42:07,520 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,520 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,521 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,522 DEBUG Processing header: SECURITY_SMARTCUT_PMT_FREQ_REC
+2018-10-01 16:42:07,523 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,523 DEBUG Number of rows: 22
+2018-10-01 16:42:07,523 DEBUG Going to read row 2, column 16
+2018-10-01 16:42:07,523 DEBUG [Not assigned]
+2018-10-01 16:42:07,523 DEBUG Requesting2 row:2, column:16, max_row:22, max_column:38
+2018-10-01 16:42:07,525 DEBUG Value read: 0
+2018-10-01 16:42:07,525 DEBUG Cell value: 
+2018-10-01 16:42:07,527 DEBUG Processing header: SECURITY_SMARTCUT_PMT_DELAY_1_REC
+2018-10-01 16:42:07,527 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,528 DEBUG Number of rows: 22
+2018-10-01 16:42:07,528 DEBUG Going to read row 2, column 17
+2018-10-01 16:42:07,528 DEBUG [Not assigned]
+2018-10-01 16:42:07,528 DEBUG Requesting2 row:2, column:17, max_row:22, max_column:38
+2018-10-01 16:42:07,530 DEBUG Value read: 3
+2018-10-01 16:42:07,530 DEBUG Cell value: 3
+2018-10-01 16:42:07,531 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,531 DEBUG Column type is: <class 'int'>
+2018-10-01 16:42:07,531 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,533 DEBUG Processing header: SECURITY_SMARTCUT_PMT_DELAY_1_N_REC
+2018-10-01 16:42:07,533 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,533 DEBUG Number of rows: 22
+2018-10-01 16:42:07,534 DEBUG Going to read row 2, column 18
+2018-10-01 16:42:07,534 DEBUG [Not assigned]
+2018-10-01 16:42:07,534 DEBUG Requesting2 row:2, column:18, max_row:22, max_column:38
+2018-10-01 16:42:07,536 DEBUG Value read: B
+2018-10-01 16:42:07,536 DEBUG Cell value: B
+2018-10-01 16:42:07,537 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,537 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,537 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,539 DEBUG Processing header: SECURITY_SMARTCUT_PMT_ADJUST_METH_REC
+2018-10-01 16:42:07,540 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,540 DEBUG Number of rows: 22
+2018-10-01 16:42:07,540 DEBUG Going to read row 2, column 19
+2018-10-01 16:42:07,541 DEBUG [Not assigned]
+2018-10-01 16:42:07,541 DEBUG Requesting2 row:2, column:19, max_row:22, max_column:38
+2018-10-01 16:42:07,542 DEBUG Value read: m
+2018-10-01 16:42:07,543 DEBUG Cell value: m
+2018-10-01 16:42:07,543 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,544 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,544 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,549 DEBUG Processing header: SECURITY_SMARTCUT_INCOME_PMT_TYPE_REC
+2018-10-01 16:42:07,549 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,550 DEBUG Number of rows: 22
+2018-10-01 16:42:07,550 DEBUG Going to read row 2, column 20
+2018-10-01 16:42:07,550 DEBUG [Not assigned]
+2018-10-01 16:42:07,550 DEBUG Requesting2 row:2, column:20, max_row:22, max_column:38
+2018-10-01 16:42:07,552 DEBUG Value read:  
+2018-10-01 16:42:07,553 DEBUG Cell value:  
+2018-10-01 16:42:07,553 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,553 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,554 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,555 DEBUG Processing header: SECURITY_SMARTCUT_RESET_FREQ_PAY
+2018-10-01 16:42:07,556 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,556 DEBUG Number of rows: 22
+2018-10-01 16:42:07,557 DEBUG Going to read row 2, column 21
+2018-10-01 16:42:07,557 DEBUG [Not assigned]
+2018-10-01 16:42:07,557 DEBUG Requesting2 row:2, column:21, max_row:22, max_column:38
+2018-10-01 16:42:07,559 DEBUG Value read: z      
+2018-10-01 16:42:07,560 DEBUG Cell value: z      
+2018-10-01 16:42:07,560 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,560 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,560 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,562 DEBUG Processing header: SECURITY_SMARTCUT_RESET_DELAY_PAY
+2018-10-01 16:42:07,563 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,563 DEBUG Number of rows: 22
+2018-10-01 16:42:07,563 DEBUG Going to read row 2, column 22
+2018-10-01 16:42:07,564 DEBUG [Not assigned]
+2018-10-01 16:42:07,564 DEBUG Requesting2 row:2, column:22, max_row:22, max_column:38
+2018-10-01 16:42:07,565 DEBUG Value read: 3
+2018-10-01 16:42:07,566 DEBUG Cell value: 3
+2018-10-01 16:42:07,566 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,566 DEBUG Column type is: <class 'int'>
+2018-10-01 16:42:07,567 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,568 DEBUG Processing header: SECURITY_SMARTCUT_RESET_DELAY_CONV_PAY
+2018-10-01 16:42:07,569 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,569 DEBUG Number of rows: 22
+2018-10-01 16:42:07,569 DEBUG Going to read row 2, column 23
+2018-10-01 16:42:07,570 DEBUG [Not assigned]
+2018-10-01 16:42:07,570 DEBUG Requesting2 row:2, column:23, max_row:22, max_column:38
+2018-10-01 16:42:07,572 DEBUG Value read: B
+2018-10-01 16:42:07,572 DEBUG Cell value: B
+2018-10-01 16:42:07,572 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,573 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,573 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,574 DEBUG Processing header: SECURITY_SMARTCUT_RESET_CALENDAR_PAY
+2018-10-01 16:42:07,574 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,575 DEBUG Number of rows: 22
+2018-10-01 16:42:07,575 DEBUG Going to read row 2, column 24
+2018-10-01 16:42:07,575 DEBUG [Not assigned]
+2018-10-01 16:42:07,576 DEBUG Requesting2 row:2, column:24, max_row:22, max_column:38
+2018-10-01 16:42:07,577 DEBUG Value read: NY_Bank|LN
+2018-10-01 16:42:07,578 DEBUG Cell value: NY_Bank|LN
+2018-10-01 16:42:07,578 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,578 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,579 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,580 DEBUG Processing header: SECURITY_SMARTCUT_RESET_ADJUST_METH_PAY
+2018-10-01 16:42:07,580 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,581 DEBUG Number of rows: 22
+2018-10-01 16:42:07,581 DEBUG Going to read row 2, column 25
+2018-10-01 16:42:07,581 DEBUG [Not assigned]
+2018-10-01 16:42:07,582 DEBUG Requesting2 row:2, column:25, max_row:22, max_column:38
+2018-10-01 16:42:07,583 DEBUG Value read: m
+2018-10-01 16:42:07,584 DEBUG Cell value: m
+2018-10-01 16:42:07,584 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,584 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,585 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,586 DEBUG Processing header: SECURITY_SMARTCUT_RESET_LOOKBACK_PAY
+2018-10-01 16:42:07,587 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,587 DEBUG Number of rows: 22
+2018-10-01 16:42:07,587 DEBUG Going to read row 2, column 26
+2018-10-01 16:42:07,588 DEBUG [Not assigned]
+2018-10-01 16:42:07,588 DEBUG Requesting2 row:2, column:26, max_row:22, max_column:38
+2018-10-01 16:42:07,590 DEBUG Value read: 2
+2018-10-01 16:42:07,591 DEBUG Cell value: 2
+2018-10-01 16:42:07,591 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,591 DEBUG Column type is: <class 'int'>
+2018-10-01 16:42:07,591 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,593 DEBUG Processing header: SECURITY_SMARTCUT_RESET_LOOKBACK_ADJ_PAY
+2018-10-01 16:42:07,593 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,594 DEBUG Number of rows: 22
+2018-10-01 16:42:07,594 DEBUG Going to read row 2, column 27
+2018-10-01 16:42:07,595 DEBUG [Not assigned]
+2018-10-01 16:42:07,595 DEBUG Requesting2 row:2, column:27, max_row:22, max_column:38
+2018-10-01 16:42:07,597 DEBUG Value read: m
+2018-10-01 16:42:07,597 DEBUG Cell value: m
+2018-10-01 16:42:07,598 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,598 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,599 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,600 DEBUG Processing header: SECURITY_SMARTCUT_PMT_ACCRUAL_PERIOD_CONV_PAY
+2018-10-01 16:42:07,600 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,601 DEBUG Number of rows: 22
+2018-10-01 16:42:07,601 DEBUG Going to read row 2, column 28
+2018-10-01 16:42:07,602 DEBUG [Not assigned]
+2018-10-01 16:42:07,602 DEBUG Requesting2 row:2, column:28, max_row:22, max_column:38
+2018-10-01 16:42:07,603 DEBUG Value read: B
+2018-10-01 16:42:07,604 DEBUG Cell value: B
+2018-10-01 16:42:07,604 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,604 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,605 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,606 DEBUG Processing header: SECURITY_SMARTCUT_PMT_CALENDAR_PAY
+2018-10-01 16:42:07,607 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,608 DEBUG Number of rows: 22
+2018-10-01 16:42:07,608 DEBUG Going to read row 2, column 29
+2018-10-01 16:42:07,608 DEBUG [Not assigned]
+2018-10-01 16:42:07,608 DEBUG Requesting2 row:2, column:29, max_row:22, max_column:38
+2018-10-01 16:42:07,610 DEBUG Value read: NY_Bank|LN
+2018-10-01 16:42:07,610 DEBUG Cell value: NY_Bank|LN
+2018-10-01 16:42:07,611 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,611 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,611 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,613 DEBUG Processing header: SECURITY_SMARTCUT_PMT_FREQ_PAY
+2018-10-01 16:42:07,613 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,614 DEBUG Number of rows: 22
+2018-10-01 16:42:07,614 DEBUG Going to read row 2, column 30
+2018-10-01 16:42:07,614 DEBUG [Not assigned]
+2018-10-01 16:42:07,614 DEBUG Requesting2 row:2, column:30, max_row:22, max_column:38
+2018-10-01 16:42:07,616 DEBUG Value read: 0
+2018-10-01 16:42:07,616 DEBUG Cell value: 
+2018-10-01 16:42:07,618 DEBUG Processing header: SECURITY_SMARTCUT_PMT_DELAY_1_PAY
+2018-10-01 16:42:07,618 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,619 DEBUG Number of rows: 22
+2018-10-01 16:42:07,619 DEBUG Going to read row 2, column 31
+2018-10-01 16:42:07,619 DEBUG [Not assigned]
+2018-10-01 16:42:07,620 DEBUG Requesting2 row:2, column:31, max_row:22, max_column:38
+2018-10-01 16:42:07,622 DEBUG Value read: 3
+2018-10-01 16:42:07,622 DEBUG Cell value: 3
+2018-10-01 16:42:07,623 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,623 DEBUG Column type is: <class 'int'>
+2018-10-01 16:42:07,623 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,625 DEBUG Processing header: SECURITY_SMARTCUT_PMT_DELAY_1_N_PAY
+2018-10-01 16:42:07,625 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,626 DEBUG Number of rows: 22
+2018-10-01 16:42:07,626 DEBUG Going to read row 2, column 32
+2018-10-01 16:42:07,626 DEBUG [Not assigned]
+2018-10-01 16:42:07,627 DEBUG Requesting2 row:2, column:32, max_row:22, max_column:38
+2018-10-01 16:42:07,629 DEBUG Value read: B
+2018-10-01 16:42:07,629 DEBUG Cell value: B
+2018-10-01 16:42:07,630 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,630 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,630 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,632 DEBUG Processing header: SECURITY_SMARTCUT_PMT_ADJUST_METH_PAY
+2018-10-01 16:42:07,633 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,633 DEBUG Number of rows: 22
+2018-10-01 16:42:07,634 DEBUG Going to read row 2, column 33
+2018-10-01 16:42:07,634 DEBUG [Not assigned]
+2018-10-01 16:42:07,634 DEBUG Requesting2 row:2, column:33, max_row:22, max_column:38
+2018-10-01 16:42:07,636 DEBUG Value read: m
+2018-10-01 16:42:07,637 DEBUG Cell value: m
+2018-10-01 16:42:07,637 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,637 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,638 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,639 DEBUG Processing header: SECURITY_SMARTCUT_PMT_ACCRUAL_BASIS_PAY
+2018-10-01 16:42:07,639 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,640 DEBUG Number of rows: 22
+2018-10-01 16:42:07,640 DEBUG Going to read row 2, column 34
+2018-10-01 16:42:07,641 DEBUG [Not assigned]
+2018-10-01 16:42:07,641 DEBUG Requesting2 row:2, column:34, max_row:22, max_column:38
+2018-10-01 16:42:07,643 DEBUG Value read: ACT365
+2018-10-01 16:42:07,643 DEBUG Cell value: ACT365
+2018-10-01 16:42:07,643 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,644 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,644 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,646 DEBUG Processing header: SECURITY_SMARTCUT_PMT_END_ADJUST_PAY
+2018-10-01 16:42:07,646 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,646 DEBUG Number of rows: 22
+2018-10-01 16:42:07,647 DEBUG Going to read row 2, column 35
+2018-10-01 16:42:07,647 DEBUG [Not assigned]
+2018-10-01 16:42:07,647 DEBUG Requesting2 row:2, column:35, max_row:22, max_column:38
+2018-10-01 16:42:07,649 DEBUG Value read: Y
+2018-10-01 16:42:07,649 DEBUG Cell value: Y
+2018-10-01 16:42:07,650 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,650 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,650 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,651 DEBUG Processing header: SECURITY.SMARTCUT.UNDERLYING_CUSIP
+2018-10-01 16:42:07,652 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,652 DEBUG Number of rows: 22
+2018-10-01 16:42:07,652 DEBUG Going to read row 2, column 36
+2018-10-01 16:42:07,653 DEBUG [Not assigned]
+2018-10-01 16:42:07,653 DEBUG Requesting2 row:2, column:36, max_row:22, max_column:38
+2018-10-01 16:42:07,655 DEBUG Value read: BRTACL0D9
+2018-10-01 16:42:07,655 DEBUG Cell value: BRTACL0D9
+2018-10-01 16:42:07,655 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,656 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,656 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\trading_methods.xlsx
+2018-10-01 16:42:07,690 DEBUG 
+2018-10-01 16:42:07,691 DEBUG 
+2018-10-01 16:42:07,691 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\special_instructions.xlsx
+2018-10-01 16:42:07,691 DEBUG [Not assigned]
+2018-10-01 16:42:07,692 DEBUG Requesting2 row:1, column:1, max_row:534, max_column:2
+2018-10-01 16:42:07,693 DEBUG Value read: Subportfolio Code
+2018-10-01 16:42:07,693 DEBUG Cell value: Subportfolio Code
+2018-10-01 16:42:07,693 DEBUG Got first header
+2018-10-01 16:42:07,694 DEBUG First header: Subportfolio Code
+2018-10-01 16:42:07,694 DEBUG Processing header: Subportfolio Code
+2018-10-01 16:42:07,694 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,695 DEBUG Number of rows: 534
+2018-10-01 16:42:07,695 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,695 DEBUG [Not assigned]
+2018-10-01 16:42:07,696 DEBUG Requesting2 row:2, column:1, max_row:534, max_column:2
+2018-10-01 16:42:07,697 DEBUG Value read: GB93479001
+2018-10-01 16:42:07,697 DEBUG Cell value: GB93479001
+2018-10-01 16:42:07,698 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,698 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,698 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\special_instructions.xlsx
+2018-10-01 16:42:07,699 DEBUG Processing header: Special Instruction
+2018-10-01 16:42:07,700 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,700 DEBUG Number of rows: 534
+2018-10-01 16:42:07,700 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,701 DEBUG [Not assigned]
+2018-10-01 16:42:07,701 DEBUG Requesting2 row:2, column:2, max_row:534, max_column:2
+2018-10-01 16:42:07,702 DEBUG Value read: UBS A/C No: 002-96460
+2018-10-01 16:42:07,703 DEBUG Cell value: UBS A/C No: 002-96460
+2018-10-01 16:42:07,703 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,703 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,703 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\special_instructions.xlsx
+2018-10-01 16:42:07,718 DEBUG 
+2018-10-01 16:42:07,720 DEBUG 
+2018-10-01 16:42:07,720 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\mergeability.xlsx
+2018-10-01 16:42:07,720 DEBUG [Not assigned]
+2018-10-01 16:42:07,720 DEBUG Requesting2 row:1, column:1, max_row:7, max_column:2
+2018-10-01 16:42:07,720 DEBUG Value read: Portfolio Name
+2018-10-01 16:42:07,721 DEBUG Cell value: Portfolio Name
+2018-10-01 16:42:07,721 DEBUG Got first header
+2018-10-01 16:42:07,721 DEBUG First header: Portfolio Name
+2018-10-01 16:42:07,722 DEBUG Processing header: Portfolio Name
+2018-10-01 16:42:07,722 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,722 DEBUG Number of rows: 7
+2018-10-01 16:42:07,723 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,723 DEBUG [Not assigned]
+2018-10-01 16:42:07,723 DEBUG Requesting2 row:2, column:1, max_row:7, max_column:2
+2018-10-01 16:42:07,724 DEBUG Value read: GTAA
+2018-10-01 16:42:07,724 DEBUG Cell value: GTAA
+2018-10-01 16:42:07,724 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,725 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,725 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\mergeability.xlsx
+2018-10-01 16:42:07,726 DEBUG Processing header: Mergeable?
+2018-10-01 16:42:07,726 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,726 DEBUG Number of rows: 7
+2018-10-01 16:42:07,727 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,727 DEBUG [Not assigned]
+2018-10-01 16:42:07,727 DEBUG Requesting2 row:2, column:2, max_row:7, max_column:2
+2018-10-01 16:42:07,728 DEBUG Value read: False
+2018-10-01 16:42:07,728 DEBUG Cell value: 
+2018-10-01 16:42:07,747 DEBUG 
+2018-10-01 16:42:07,748 DEBUG 
+2018-10-01 16:42:07,749 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\contingent_trades.xlsx
+2018-10-01 16:42:07,749 DEBUG [Not assigned]
+2018-10-01 16:42:07,749 DEBUG Requesting2 row:1, column:1, max_row:129, max_column:14
+2018-10-01 16:42:07,751 DEBUG Value read: Portfolio Group
+2018-10-01 16:42:07,751 DEBUG Cell value: Portfolio Group
+2018-10-01 16:42:07,751 DEBUG Got first header
+2018-10-01 16:42:07,752 DEBUG First header: Portfolio Group
+2018-10-01 16:42:07,752 DEBUG Processing header: Portfolio Group
+2018-10-01 16:42:07,752 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,753 DEBUG Number of rows: 129
+2018-10-01 16:42:07,753 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,753 DEBUG [Not assigned]
+2018-10-01 16:42:07,754 DEBUG Requesting2 row:2, column:1, max_row:129, max_column:14
+2018-10-01 16:42:07,755 DEBUG Value read: GB91051
+2018-10-01 16:42:07,755 DEBUG Cell value: GB91051
+2018-10-01 16:42:07,756 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,756 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,756 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\contingent_trades.xlsx
+2018-10-01 16:42:07,757 DEBUG Processing header: Strategy
+2018-10-01 16:42:07,758 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,758 DEBUG Number of rows: 129
+2018-10-01 16:42:07,758 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,759 DEBUG [Not assigned]
+2018-10-01 16:42:07,759 DEBUG Requesting2 row:2, column:2, max_row:129, max_column:14
+2018-10-01 16:42:07,761 DEBUG Value read: ACWI Quality Basket
+2018-10-01 16:42:07,761 DEBUG Cell value: ACWI Quality Basket
+2018-10-01 16:42:07,761 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,762 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,762 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\contingent_trades.xlsx
+2018-10-01 16:42:07,764 DEBUG Processing header: Asset (Optional)
+2018-10-01 16:42:07,765 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,765 DEBUG Number of rows: 129
+2018-10-01 16:42:07,765 DEBUG Going to read row 2, column 3
+2018-10-01 16:42:07,766 DEBUG [Not assigned]
+2018-10-01 16:42:07,766 DEBUG Requesting2 row:2, column:3, max_row:129, max_column:14
+2018-10-01 16:42:07,768 DEBUG Value read: None
+2018-10-01 16:42:07,768 DEBUG Cell value: 
+2018-10-01 16:42:07,769 DEBUG Processing header: Instruction
+2018-10-01 16:42:07,770 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,770 DEBUG Number of rows: 129
+2018-10-01 16:42:07,770 DEBUG Going to read row 2, column 4
+2018-10-01 16:42:07,771 DEBUG [Not assigned]
+2018-10-01 16:42:07,771 DEBUG Requesting2 row:2, column:4, max_row:129, max_column:14
+2018-10-01 16:42:07,772 DEBUG Value read: Target Close. Contingent on TRS
+2018-10-01 16:42:07,772 DEBUG Cell value: Target Close. Contingent on TRS
+2018-10-01 16:42:07,773 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,773 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,773 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\contingent_trades.xlsx
+2018-10-01 16:42:07,789 DEBUG 
+2018-10-01 16:42:07,789 DEBUG 
+2018-10-01 16:42:07,790 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\groups.xlsx
+2018-10-01 16:42:07,790 DEBUG [Not assigned]
+2018-10-01 16:42:07,790 DEBUG Requesting2 row:1, column:1, max_row:89, max_column:2
+2018-10-01 16:42:07,791 DEBUG Value read: Group
+2018-10-01 16:42:07,792 DEBUG Cell value: Group
+2018-10-01 16:42:07,792 DEBUG Got first header
+2018-10-01 16:42:07,792 DEBUG First header: Group
+2018-10-01 16:42:07,793 DEBUG Processing header: Group
+2018-10-01 16:42:07,793 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,793 DEBUG Number of rows: 89
+2018-10-01 16:42:07,793 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,794 DEBUG [Not assigned]
+2018-10-01 16:42:07,794 DEBUG Requesting2 row:2, column:1, max_row:89, max_column:2
+2018-10-01 16:42:07,795 DEBUG Value read: Slowdown
+2018-10-01 16:42:07,796 DEBUG Cell value: Slowdown
+2018-10-01 16:42:07,796 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,796 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,797 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\groups.xlsx
+2018-10-01 16:42:07,797 DEBUG Processing header: Strategy
+2018-10-01 16:42:07,798 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,798 DEBUG Number of rows: 89
+2018-10-01 16:42:07,798 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,799 DEBUG [Not assigned]
+2018-10-01 16:42:07,799 DEBUG Requesting2 row:2, column:2, max_row:89, max_column:2
+2018-10-01 16:42:07,800 DEBUG Value read: AU Benchmark 3 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:42:07,801 DEBUG Cell value: AU Benchmark 3 Year DS Govt. Index - Tot Return Ind
+2018-10-01 16:42:07,801 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,802 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,802 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\groups.xlsx
+2018-10-01 16:42:07,816 DEBUG 
+2018-10-01 16:42:07,817 DEBUG 
+2018-10-01 16:42:07,817 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\IncludedSubPortfolios.xlsx
+2018-10-01 16:42:07,817 DEBUG [Not assigned]
+2018-10-01 16:42:07,818 DEBUG Requesting2 row:1, column:1, max_row:17, max_column:7
+2018-10-01 16:42:07,819 DEBUG Value read: Portfolio Name
+2018-10-01 16:42:07,819 DEBUG Cell value: Portfolio Name
+2018-10-01 16:42:07,819 DEBUG Got first header
+2018-10-01 16:42:07,820 DEBUG First header: Portfolio Name
+2018-10-01 16:42:07,820 DEBUG Processing header: Portfolio Name
+2018-10-01 16:42:07,821 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,821 DEBUG Number of rows: 17
+2018-10-01 16:42:07,821 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,822 DEBUG [Not assigned]
+2018-10-01 16:42:07,822 DEBUG Requesting2 row:2, column:1, max_row:17, max_column:7
+2018-10-01 16:42:07,823 DEBUG Value read: DCF Liq Alts
+2018-10-01 16:42:07,823 DEBUG Cell value: DCF Liq Alts
+2018-10-01 16:42:07,823 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,825 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,825 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\IncludedSubPortfolios.xlsx
+2018-10-01 16:42:07,825 DEBUG Processing header: Included SubPortfolio
+2018-10-01 16:42:07,825 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,825 DEBUG Number of rows: 17
+2018-10-01 16:42:07,826 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,826 DEBUG [Not assigned]
+2018-10-01 16:42:07,826 DEBUG Requesting2 row:2, column:2, max_row:17, max_column:7
+2018-10-01 16:42:07,827 DEBUG Value read: GB91051017,GB91051018,GB91051019,GB91051020,GB91051021,GB91051022,GB91051023,GB91051025,GB91051026,GB91051027,GB91051028,GB91051029,GB91051038,GB91051031,GB91051032,GB91051033,GB95286001,GB95286002,GB95286003,GB95286004
+2018-10-01 16:42:07,827 DEBUG Cell value: GB91051017,GB91051018,GB91051019,GB91051020,GB91051021,GB91051022,GB91051023,GB91051025,GB91051026,GB91051027,GB91051028,GB91051029,GB91051038,GB91051031,GB91051032,GB91051033,GB95286001,GB95286002,GB95286003,GB95286004
+2018-10-01 16:42:07,828 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,828 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,829 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\IncludedSubPortfolios.xlsx
+2018-10-01 16:42:07,843 DEBUG 
+2018-10-01 16:42:07,844 DEBUG 
+2018-10-01 16:42:07,844 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\IRS_ticker_prefixes.xlsx
+2018-10-01 16:42:07,844 DEBUG [Not assigned]
+2018-10-01 16:42:07,845 DEBUG Requesting2 row:1, column:1, max_row:20, max_column:2
+2018-10-01 16:42:07,845 DEBUG Value read: CURRENCY
+2018-10-01 16:42:07,846 DEBUG Cell value: CURRENCY
+2018-10-01 16:42:07,847 DEBUG Got first header
+2018-10-01 16:42:07,847 DEBUG First header: CURRENCY
+2018-10-01 16:42:07,848 DEBUG Processing header: CURRENCY
+2018-10-01 16:42:07,848 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,848 DEBUG Number of rows: 20
+2018-10-01 16:42:07,849 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,849 DEBUG [Not assigned]
+2018-10-01 16:42:07,850 DEBUG Requesting2 row:2, column:1, max_row:20, max_column:2
+2018-10-01 16:42:07,850 DEBUG Value read: EUR
+2018-10-01 16:42:07,851 DEBUG Cell value: EUR
+2018-10-01 16:42:07,851 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,852 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,852 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\IRS_ticker_prefixes.xlsx
+2018-10-01 16:42:07,853 DEBUG Processing header: IRS TICKER PREFIX
+2018-10-01 16:42:07,853 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,854 DEBUG Number of rows: 20
+2018-10-01 16:42:07,854 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,854 DEBUG [Not assigned]
+2018-10-01 16:42:07,855 DEBUG Requesting2 row:2, column:2, max_row:20, max_column:2
+2018-10-01 16:42:07,855 DEBUG Value read: EUSA
+2018-10-01 16:42:07,856 DEBUG Cell value: EUSA
+2018-10-01 16:42:07,856 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,856 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,857 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\IRS_ticker_prefixes.xlsx
+2018-10-01 16:42:07,870 DEBUG 
+2018-10-01 16:42:07,871 DEBUG 
+2018-10-01 16:42:07,871 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\ILS_ticker_prefixes.xlsx
+2018-10-01 16:42:07,871 DEBUG [Not assigned]
+2018-10-01 16:42:07,872 DEBUG Requesting2 row:1, column:1, max_row:4, max_column:2
+2018-10-01 16:42:07,872 DEBUG Value read: INFLATION INDEX
+2018-10-01 16:42:07,873 DEBUG Cell value: INFLATION INDEX
+2018-10-01 16:42:07,873 DEBUG Got first header
+2018-10-01 16:42:07,873 DEBUG First header: INFLATION INDEX
+2018-10-01 16:42:07,874 DEBUG Processing header: INFLATION INDEX
+2018-10-01 16:42:07,874 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,875 DEBUG Number of rows: 4
+2018-10-01 16:42:07,875 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,875 DEBUG [Not assigned]
+2018-10-01 16:42:07,876 DEBUG Requesting2 row:2, column:1, max_row:4, max_column:2
+2018-10-01 16:42:07,876 DEBUG Value read: UK RPI ALL ITEMS NSA
+2018-10-01 16:42:07,876 DEBUG Cell value: UK RPI ALL ITEMS NSA
+2018-10-01 16:42:07,877 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,877 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,877 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\ILS_ticker_prefixes.xlsx
+2018-10-01 16:42:07,878 DEBUG Processing header: ILS TICKER PREFIX
+2018-10-01 16:42:07,878 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,879 DEBUG Number of rows: 4
+2018-10-01 16:42:07,879 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,879 DEBUG [Not assigned]
+2018-10-01 16:42:07,880 DEBUG Requesting2 row:2, column:2, max_row:4, max_column:2
+2018-10-01 16:42:07,880 DEBUG Value read: BPSWIT
+2018-10-01 16:42:07,881 DEBUG Cell value: BPSWIT
+2018-10-01 16:42:07,881 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,881 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,882 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\ILS_ticker_prefixes.xlsx
+2018-10-01 16:42:07,898 DEBUG 
+2018-10-01 16:42:07,899 DEBUG 
+2018-10-01 16:42:07,899 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\matching.xlsx
+2018-10-01 16:42:07,899 DEBUG [Not assigned]
+2018-10-01 16:42:07,900 DEBUG Requesting2 row:1, column:1, max_row:16, max_column:2
+2018-10-01 16:42:07,900 DEBUG Value read: Portfolio Name
+2018-10-01 16:42:07,901 DEBUG Cell value: Portfolio Name
+2018-10-01 16:42:07,901 DEBUG Got first header
+2018-10-01 16:42:07,902 DEBUG First header: Portfolio Name
+2018-10-01 16:42:07,902 DEBUG Processing header: Portfolio Name
+2018-10-01 16:42:07,903 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,903 DEBUG Number of rows: 16
+2018-10-01 16:42:07,904 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,904 DEBUG [Not assigned]
+2018-10-01 16:42:07,905 DEBUG Requesting2 row:2, column:1, max_row:16, max_column:2
+2018-10-01 16:42:07,905 DEBUG Value read: NURS
+2018-10-01 16:42:07,905 DEBUG Cell value: NURS
+2018-10-01 16:42:07,906 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,906 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,906 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\matching.xlsx
+2018-10-01 16:42:07,907 DEBUG Processing header: Matching?
+2018-10-01 16:42:07,907 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,908 DEBUG Number of rows: 16
+2018-10-01 16:42:07,908 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,908 DEBUG [Not assigned]
+2018-10-01 16:42:07,909 DEBUG Requesting2 row:2, column:2, max_row:16, max_column:2
+2018-10-01 16:42:07,910 DEBUG Value read: False
+2018-10-01 16:42:07,910 DEBUG Cell value: 
+2018-10-01 16:42:07,923 DEBUG 
+2018-10-01 16:42:07,924 DEBUG 
+2018-10-01 16:42:07,924 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\CFWD_maturities.xlsx
+2018-10-01 16:42:07,925 DEBUG [Not assigned]
+2018-10-01 16:42:07,925 DEBUG Requesting2 row:1, column:1, max_row:8, max_column:2
+2018-10-01 16:42:07,926 DEBUG Value read: Portfolio Name
+2018-10-01 16:42:07,926 DEBUG Cell value: Portfolio Name
+2018-10-01 16:42:07,926 DEBUG Got first header
+2018-10-01 16:42:07,927 DEBUG First header: Portfolio Name
+2018-10-01 16:42:07,927 DEBUG Processing header: Portfolio Name
+2018-10-01 16:42:07,927 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,928 DEBUG Number of rows: 8
+2018-10-01 16:42:07,928 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,929 DEBUG [Not assigned]
+2018-10-01 16:42:07,929 DEBUG Requesting2 row:2, column:1, max_row:8, max_column:2
+2018-10-01 16:42:07,929 DEBUG Value read: SB NURS
+2018-10-01 16:42:07,930 DEBUG Cell value: SB NURS
+2018-10-01 16:42:07,930 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,930 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,931 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\CFWD_maturities.xlsx
+2018-10-01 16:42:07,931 DEBUG Processing header: CFWD Maturity
+2018-10-01 16:42:07,932 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,932 DEBUG Number of rows: 8
+2018-10-01 16:42:07,932 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,932 DEBUG [Not assigned]
+2018-10-01 16:42:07,933 DEBUG Requesting2 row:2, column:2, max_row:8, max_column:2
+2018-10-01 16:42:07,933 DEBUG Value read: 30
+2018-10-01 16:42:07,934 DEBUG Cell value: 30
+2018-10-01 16:42:07,934 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,934 DEBUG Column type is: <class 'int'>
+2018-10-01 16:42:07,935 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\CFWD_maturities.xlsx
+2018-10-01 16:42:07,949 DEBUG 
+2018-10-01 16:42:07,950 DEBUG 
+2018-10-01 16:42:07,950 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\risk_models.xlsx
+2018-10-01 16:42:07,950 DEBUG [Not assigned]
+2018-10-01 16:42:07,951 DEBUG Requesting2 row:1, column:1, max_row:8, max_column:2
+2018-10-01 16:42:07,951 DEBUG Value read: Portfolio Name
+2018-10-01 16:42:07,952 DEBUG Cell value: Portfolio Name
+2018-10-01 16:42:07,952 DEBUG Got first header
+2018-10-01 16:42:07,953 DEBUG First header: Portfolio Name
+2018-10-01 16:42:07,953 DEBUG Processing header: Portfolio Name
+2018-10-01 16:42:07,954 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,954 DEBUG Number of rows: 8
+2018-10-01 16:42:07,954 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,955 DEBUG [Not assigned]
+2018-10-01 16:42:07,955 DEBUG Requesting2 row:2, column:1, max_row:8, max_column:2
+2018-10-01 16:42:07,956 DEBUG Value read: SISF SB 10
+2018-10-01 16:42:07,957 DEBUG Cell value: SISF SB 10
+2018-10-01 16:42:07,957 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,957 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,958 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\risk_models.xlsx
+2018-10-01 16:42:07,959 DEBUG Processing header: Risk Model
+2018-10-01 16:42:07,959 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,960 DEBUG Number of rows: 8
+2018-10-01 16:42:07,960 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,961 DEBUG [Not assigned]
+2018-10-01 16:42:07,961 DEBUG Requesting2 row:2, column:2, max_row:8, max_column:2
+2018-10-01 16:42:07,962 DEBUG Value read: Strategic Beta Full Matrix
+2018-10-01 16:42:07,962 DEBUG Cell value: Strategic Beta Full Matrix
+2018-10-01 16:42:07,962 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,963 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,963 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\risk_models.xlsx
+2018-10-01 16:42:07,978 DEBUG 
+2018-10-01 16:42:07,979 DEBUG 
+2018-10-01 16:42:07,979 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\ticker_overrides.xlsx
+2018-10-01 16:42:07,979 DEBUG [Not assigned]
+2018-10-01 16:42:07,980 DEBUG Requesting2 row:1, column:1, max_row:19, max_column:6
+2018-10-01 16:42:07,981 DEBUG Value read: Ticker
+2018-10-01 16:42:07,981 DEBUG Cell value: Ticker
+2018-10-01 16:42:07,981 DEBUG Got first header
+2018-10-01 16:42:07,982 DEBUG First header: Ticker
+2018-10-01 16:42:07,982 DEBUG Processing header: Ticker
+2018-10-01 16:42:07,982 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,983 DEBUG Number of rows: 19
+2018-10-01 16:42:07,983 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:07,983 DEBUG [Not assigned]
+2018-10-01 16:42:07,984 DEBUG Requesting2 row:2, column:1, max_row:19, max_column:6
+2018-10-01 16:42:07,985 DEBUG Value read: QCU6 Index
+2018-10-01 16:42:07,985 DEBUG Cell value: QCU6 Index
+2018-10-01 16:42:07,985 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,986 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,986 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\ticker_overrides.xlsx
+2018-10-01 16:42:07,987 DEBUG Processing header: Security Name AAS
+2018-10-01 16:42:07,987 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,988 DEBUG Number of rows: 19
+2018-10-01 16:42:07,988 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:07,988 DEBUG [Not assigned]
+2018-10-01 16:42:07,989 DEBUG Requesting2 row:2, column:2, max_row:19, max_column:6
+2018-10-01 16:42:07,990 DEBUG Value read: SSE OMXS30 INDEX FUTURE SEPTEMBER 2016 (QCU6)
+2018-10-01 16:42:07,990 DEBUG Cell value: SSE OMXS30 INDEX FUTURE SEPTEMBER 2016 (QCU6)
+2018-10-01 16:42:07,990 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,991 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:07,991 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\ticker_overrides.xlsx
+2018-10-01 16:42:07,992 DEBUG Processing header: Pace ID
+2018-10-01 16:42:07,992 DEBUG Going to read number of rows: 
+2018-10-01 16:42:07,993 DEBUG Number of rows: 19
+2018-10-01 16:42:07,993 DEBUG Going to read row 2, column 3
+2018-10-01 16:42:07,993 DEBUG [Not assigned]
+2018-10-01 16:42:07,994 DEBUG Requesting2 row:2, column:3, max_row:19, max_column:6
+2018-10-01 16:42:07,994 DEBUG Value read: 11679270
+2018-10-01 16:42:07,995 DEBUG Cell value: 11679270
+2018-10-01 16:42:07,995 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:07,996 DEBUG Column type is: <class 'int'>
+2018-10-01 16:42:07,996 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\ticker_overrides.xlsx
+2018-10-01 16:42:08,009 DEBUG 
+2018-10-01 16:42:08,010 DEBUG 
+2018-10-01 16:42:08,010 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\portfolio_strategy_freezes.xlsx
+2018-10-01 16:42:08,010 DEBUG [Not assigned]
+2018-10-01 16:42:08,011 DEBUG Requesting2 row:1, column:1, max_row:3, max_column:4
+2018-10-01 16:42:08,012 DEBUG Value read: Portfolio Name
+2018-10-01 16:42:08,012 DEBUG Cell value: Portfolio Name
+2018-10-01 16:42:08,012 DEBUG Got first header
+2018-10-01 16:42:08,013 DEBUG First header: Portfolio Name
+2018-10-01 16:42:08,013 DEBUG Processing header: Portfolio Name
+2018-10-01 16:42:08,014 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,014 DEBUG Number of rows: 3
+2018-10-01 16:42:08,014 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:08,015 DEBUG [Not assigned]
+2018-10-01 16:42:08,015 DEBUG Requesting2 row:2, column:1, max_row:3, max_column:4
+2018-10-01 16:42:08,016 DEBUG Value read: None
+2018-10-01 16:42:08,016 DEBUG Cell value: 
+2018-10-01 16:42:08,016 DEBUG Processing header: Strategy
+2018-10-01 16:42:08,017 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,017 DEBUG Number of rows: 3
+2018-10-01 16:42:08,017 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:08,018 DEBUG [Not assigned]
+2018-10-01 16:42:08,018 DEBUG Requesting2 row:2, column:2, max_row:3, max_column:4
+2018-10-01 16:42:08,019 DEBUG Value read: None
+2018-10-01 16:42:08,019 DEBUG Cell value: 
+2018-10-01 16:42:08,020 DEBUG Processing header: Freeze Current Weights?
+2018-10-01 16:42:08,020 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,021 DEBUG Number of rows: 3
+2018-10-01 16:42:08,021 DEBUG Going to read row 2, column 3
+2018-10-01 16:42:08,021 DEBUG [Not assigned]
+2018-10-01 16:42:08,022 DEBUG Requesting2 row:2, column:3, max_row:3, max_column:4
+2018-10-01 16:42:08,022 DEBUG Value read: None
+2018-10-01 16:42:08,023 DEBUG Cell value: 
+2018-10-01 16:42:08,023 DEBUG Processing header: Desired Level of Physical Cash
+2018-10-01 16:42:08,024 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,024 DEBUG Number of rows: 3
+2018-10-01 16:42:08,024 DEBUG Going to read row 2, column 4
+2018-10-01 16:42:08,024 DEBUG [Not assigned]
+2018-10-01 16:42:08,025 DEBUG Requesting2 row:2, column:4, max_row:3, max_column:4
+2018-10-01 16:42:08,025 DEBUG Value read: None
+2018-10-01 16:42:08,026 DEBUG Cell value: 
+2018-10-01 16:42:08,054 DEBUG 
+2018-10-01 16:42:08,055 DEBUG 
+2018-10-01 16:42:08,055 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Asset Mappings\assets_20180802.xlsx
+2018-10-01 16:42:08,055 DEBUG [Not assigned]
+2018-10-01 16:42:08,056 DEBUG Requesting2 row:1, column:1, max_row:384, max_column:33
+2018-10-01 16:42:08,057 DEBUG Value read: Asset ID
+2018-10-01 16:42:08,057 DEBUG Cell value: Asset ID
+2018-10-01 16:42:08,058 DEBUG Got first header
+2018-10-01 16:42:08,058 DEBUG First header: Asset ID
+2018-10-01 16:42:08,058 DEBUG Processing header: Asset ID
+2018-10-01 16:42:08,059 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,059 DEBUG Number of rows: 384
+2018-10-01 16:42:08,059 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:08,060 DEBUG [Not assigned]
+2018-10-01 16:42:08,060 DEBUG Requesting2 row:2, column:1, max_row:384, max_column:33
+2018-10-01 16:42:08,061 DEBUG Value read: ACWI
+2018-10-01 16:42:08,061 DEBUG Cell value: ACWI
+2018-10-01 16:42:08,062 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,062 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,063 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Asset Mappings\assets_20180802.xlsx
+2018-10-01 16:42:08,064 DEBUG Processing header: Portfolio Group Code
+2018-10-01 16:42:08,065 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,065 DEBUG Number of rows: 384
+2018-10-01 16:42:08,065 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:08,066 DEBUG [Not assigned]
+2018-10-01 16:42:08,066 DEBUG Requesting2 row:2, column:2, max_row:384, max_column:33
+2018-10-01 16:42:08,067 DEBUG Value read: DEFAULT
+2018-10-01 16:42:08,068 DEBUG Cell value: DEFAULT
+2018-10-01 16:42:08,068 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,068 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,069 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Asset Mappings\assets_20180802.xlsx
+2018-10-01 16:42:08,070 DEBUG Processing header: Ticker
+2018-10-01 16:42:08,070 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,071 DEBUG Number of rows: 384
+2018-10-01 16:42:08,071 DEBUG Going to read row 2, column 3
+2018-10-01 16:42:08,071 DEBUG [Not assigned]
+2018-10-01 16:42:08,072 DEBUG Requesting2 row:2, column:3, max_row:384, max_column:33
+2018-10-01 16:42:08,073 DEBUG Value read: TRSNDUEACWF Index
+2018-10-01 16:42:08,073 DEBUG Cell value: TRSNDUEACWF Index
+2018-10-01 16:42:08,074 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,074 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,074 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Asset Mappings\assets_20180802.xlsx
+2018-10-01 16:42:08,076 DEBUG Processing header: Weight
+2018-10-01 16:42:08,076 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,076 DEBUG Number of rows: 384
+2018-10-01 16:42:08,077 DEBUG Going to read row 2, column 4
+2018-10-01 16:42:08,077 DEBUG [Not assigned]
+2018-10-01 16:42:08,078 DEBUG Requesting2 row:2, column:4, max_row:384, max_column:33
+2018-10-01 16:42:08,079 DEBUG Value read: 1
+2018-10-01 16:42:08,079 DEBUG Cell value: 1
+2018-10-01 16:42:08,080 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,080 DEBUG Column type is: <class 'int'>
+2018-10-01 16:42:08,080 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Asset Mappings\assets_20180802.xlsx
+2018-10-01 16:42:08,082 DEBUG Processing header: Ticker
+2018-10-01 16:42:08,082 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,082 DEBUG Number of rows: 384
+2018-10-01 16:42:08,082 DEBUG Going to read row 2, column 5
+2018-10-01 16:42:08,082 DEBUG [Not assigned]
+2018-10-01 16:42:08,083 DEBUG Requesting2 row:2, column:5, max_row:384, max_column:33
+2018-10-01 16:42:08,084 DEBUG Value read: None
+2018-10-01 16:42:08,084 DEBUG Cell value: 
+2018-10-01 16:42:08,086 DEBUG Processing header: Weight
+2018-10-01 16:42:08,086 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,086 DEBUG Number of rows: 384
+2018-10-01 16:42:08,087 DEBUG Going to read row 2, column 6
+2018-10-01 16:42:08,087 DEBUG [Not assigned]
+2018-10-01 16:42:08,088 DEBUG Requesting2 row:2, column:6, max_row:384, max_column:33
+2018-10-01 16:42:08,089 DEBUG Value read: None
+2018-10-01 16:42:08,089 DEBUG Cell value: 
+2018-10-01 16:42:08,091 DEBUG Processing header: Ticker
+2018-10-01 16:42:08,091 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,091 DEBUG Number of rows: 384
+2018-10-01 16:42:08,092 DEBUG Going to read row 2, column 7
+2018-10-01 16:42:08,092 DEBUG [Not assigned]
+2018-10-01 16:42:08,092 DEBUG Requesting2 row:2, column:7, max_row:384, max_column:33
+2018-10-01 16:42:08,094 DEBUG Value read: None
+2018-10-01 16:42:08,094 DEBUG Cell value: 
+2018-10-01 16:42:08,096 DEBUG Processing header: Weight
+2018-10-01 16:42:08,096 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,097 DEBUG Number of rows: 384
+2018-10-01 16:42:08,097 DEBUG Going to read row 2, column 8
+2018-10-01 16:42:08,097 DEBUG [Not assigned]
+2018-10-01 16:42:08,098 DEBUG Requesting2 row:2, column:8, max_row:384, max_column:33
+2018-10-01 16:42:08,099 DEBUG Value read: None
+2018-10-01 16:42:08,100 DEBUG Cell value: 
+2018-10-01 16:42:08,101 DEBUG Processing header: Ticker
+2018-10-01 16:42:08,101 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,102 DEBUG Number of rows: 384
+2018-10-01 16:42:08,102 DEBUG Going to read row 2, column 9
+2018-10-01 16:42:08,102 DEBUG [Not assigned]
+2018-10-01 16:42:08,103 DEBUG Requesting2 row:2, column:9, max_row:384, max_column:33
+2018-10-01 16:42:08,104 DEBUG Value read: None
+2018-10-01 16:42:08,104 DEBUG Cell value: 
+2018-10-01 16:42:08,106 DEBUG Processing header: Weight
+2018-10-01 16:42:08,106 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,106 DEBUG Number of rows: 384
+2018-10-01 16:42:08,107 DEBUG Going to read row 2, column 10
+2018-10-01 16:42:08,107 DEBUG [Not assigned]
+2018-10-01 16:42:08,107 DEBUG Requesting2 row:2, column:10, max_row:384, max_column:33
+2018-10-01 16:42:08,109 DEBUG Value read: None
+2018-10-01 16:42:08,109 DEBUG Cell value: 
+2018-10-01 16:42:08,111 DEBUG Processing header: Ticker
+2018-10-01 16:42:08,111 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,112 DEBUG Number of rows: 384
+2018-10-01 16:42:08,112 DEBUG Going to read row 2, column 11
+2018-10-01 16:42:08,112 DEBUG [Not assigned]
+2018-10-01 16:42:08,113 DEBUG Requesting2 row:2, column:11, max_row:384, max_column:33
+2018-10-01 16:42:08,114 DEBUG Value read: None
+2018-10-01 16:42:08,115 DEBUG Cell value: 
+2018-10-01 16:42:08,116 DEBUG Processing header: Weight
+2018-10-01 16:42:08,117 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,117 DEBUG Number of rows: 384
+2018-10-01 16:42:08,117 DEBUG Going to read row 2, column 12
+2018-10-01 16:42:08,118 DEBUG [Not assigned]
+2018-10-01 16:42:08,118 DEBUG Requesting2 row:2, column:12, max_row:384, max_column:33
+2018-10-01 16:42:08,119 DEBUG Value read: None
+2018-10-01 16:42:08,120 DEBUG Cell value: 
+2018-10-01 16:42:08,133 DEBUG 
+2018-10-01 16:42:08,134 DEBUG 
+2018-10-01 16:42:08,134 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\cfd_settle_currency_override.xlsx
+2018-10-01 16:42:08,135 DEBUG [Not assigned]
+2018-10-01 16:42:08,135 DEBUG Requesting2 row:1, column:1, max_row:15, max_column:2
+2018-10-01 16:42:08,136 DEBUG Value read: Underlying Currency
+2018-10-01 16:42:08,136 DEBUG Cell value: Underlying Currency
+2018-10-01 16:42:08,137 DEBUG Got first header
+2018-10-01 16:42:08,137 DEBUG First header: Underlying Currency
+2018-10-01 16:42:08,137 DEBUG Processing header: Underlying Currency
+2018-10-01 16:42:08,138 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,138 DEBUG Number of rows: 15
+2018-10-01 16:42:08,138 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:08,139 DEBUG [Not assigned]
+2018-10-01 16:42:08,139 DEBUG Requesting2 row:2, column:1, max_row:15, max_column:2
+2018-10-01 16:42:08,140 DEBUG Value read: BRL
+2018-10-01 16:42:08,140 DEBUG Cell value: BRL
+2018-10-01 16:42:08,140 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,141 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,141 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\cfd_settle_currency_override.xlsx
+2018-10-01 16:42:08,142 DEBUG Processing header: Override Currency
+2018-10-01 16:42:08,142 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,142 DEBUG Number of rows: 15
+2018-10-01 16:42:08,143 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:08,143 DEBUG [Not assigned]
+2018-10-01 16:42:08,143 DEBUG Requesting2 row:2, column:2, max_row:15, max_column:2
+2018-10-01 16:42:08,144 DEBUG Value read: USD
+2018-10-01 16:42:08,144 DEBUG Cell value: USD
+2018-10-01 16:42:08,144 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,145 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,145 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Strategy Files\cfd_settle_currency_override.xlsx
+2018-10-01 16:42:08,326 DEBUG 
+2018-10-01 16:42:08,327 DEBUG 
+2018-10-01 16:42:08,327 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Subportfolios Files\subportfolios_20180720.xlsx
+2018-10-01 16:42:08,328 DEBUG [Not assigned]
+2018-10-01 16:42:08,328 DEBUG Requesting2 row:1, column:1, max_row:412, max_column:16384
+2018-10-01 16:42:08,329 DEBUG Value read: Portfolio
+2018-10-01 16:42:08,330 DEBUG Cell value: Portfolio
+2018-10-01 16:42:08,330 DEBUG Got first header
+2018-10-01 16:42:08,330 DEBUG First header: Portfolio
+2018-10-01 16:42:08,331 DEBUG Processing header: Portfolio
+2018-10-01 16:42:08,331 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,331 DEBUG Number of rows: 412
+2018-10-01 16:42:08,332 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:08,332 DEBUG [Not assigned]
+2018-10-01 16:42:08,332 DEBUG Requesting2 row:2, column:1, max_row:412, max_column:16384
+2018-10-01 16:42:08,334 DEBUG Value read: GB93479
+2018-10-01 16:42:08,334 DEBUG Cell value: GB93479
+2018-10-01 16:42:08,334 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,335 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,335 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Subportfolios Files\subportfolios_20180720.xlsx
+2018-10-01 16:42:08,336 DEBUG Processing header: Strategy
+2018-10-01 16:42:08,337 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,337 DEBUG Number of rows: 412
+2018-10-01 16:42:08,338 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:08,338 DEBUG [Not assigned]
+2018-10-01 16:42:08,338 DEBUG Requesting2 row:2, column:2, max_row:412, max_column:16384
+2018-10-01 16:42:08,340 DEBUG Value read: Main
+2018-10-01 16:42:08,340 DEBUG Cell value: Main
+2018-10-01 16:42:08,341 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,341 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,342 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Subportfolios Files\subportfolios_20180720.xlsx
+2018-10-01 16:42:08,343 DEBUG Processing header: Subportfolio Code
+2018-10-01 16:42:08,343 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,344 DEBUG Number of rows: 412
+2018-10-01 16:42:08,344 DEBUG Going to read row 2, column 3
+2018-10-01 16:42:08,344 DEBUG [Not assigned]
+2018-10-01 16:42:08,345 DEBUG Requesting2 row:2, column:3, max_row:412, max_column:16384
+2018-10-01 16:42:08,346 DEBUG Value read: GB93479001
+2018-10-01 16:42:08,347 DEBUG Cell value: GB93479001
+2018-10-01 16:42:08,347 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,347 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,348 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Subportfolios Files\subportfolios_20180720.xlsx
+2018-10-01 16:42:08,363 DEBUG 
+2018-10-01 16:42:08,364 DEBUG 
+2018-10-01 16:42:08,364 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Delegated Subportfolios Files\Delegated Subportfolios_20180807.xlsx
+2018-10-01 16:42:08,365 DEBUG [Not assigned]
+2018-10-01 16:42:08,365 DEBUG Requesting2 row:1, column:1, max_row:34, max_column:9
+2018-10-01 16:42:08,366 DEBUG Value read: Delegated Subportfolio Code
+2018-10-01 16:42:08,366 DEBUG Cell value: Delegated Subportfolio Code
+2018-10-01 16:42:08,367 DEBUG Got first header
+2018-10-01 16:42:08,367 DEBUG First header: Delegated Subportfolio Code
+2018-10-01 16:42:08,367 DEBUG Processing header: Delegated Subportfolio Code
+2018-10-01 16:42:08,368 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,368 DEBUG Number of rows: 34
+2018-10-01 16:42:08,368 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:08,369 DEBUG [Not assigned]
+2018-10-01 16:42:08,369 DEBUG Requesting2 row:2, column:1, max_row:34, max_column:9
+2018-10-01 16:42:08,370 DEBUG Value read: GB93116066
+2018-10-01 16:42:08,371 DEBUG Cell value: GB93116066
+2018-10-01 16:42:08,371 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,371 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,372 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Delegated Subportfolios Files\Delegated Subportfolios_20180807.xlsx
+2018-10-01 16:42:08,373 DEBUG Processing header: Main Subportfolio Code
+2018-10-01 16:42:08,373 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,373 DEBUG Number of rows: 34
+2018-10-01 16:42:08,374 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:08,374 DEBUG [Not assigned]
+2018-10-01 16:42:08,374 DEBUG Requesting2 row:2, column:2, max_row:34, max_column:9
+2018-10-01 16:42:08,376 DEBUG Value read: GB93116001
+2018-10-01 16:42:08,376 DEBUG Cell value: GB93116001
+2018-10-01 16:42:08,376 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,377 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,377 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Delegated Subportfolios Files\Delegated Subportfolios_20180807.xlsx
+2018-10-01 16:42:08,378 DEBUG Processing header: Instruction Currency
+2018-10-01 16:42:08,379 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,379 DEBUG Number of rows: 34
+2018-10-01 16:42:08,379 DEBUG Going to read row 2, column 3
+2018-10-01 16:42:08,380 DEBUG [Not assigned]
+2018-10-01 16:42:08,380 DEBUG Requesting2 row:2, column:3, max_row:34, max_column:9
+2018-10-01 16:42:08,381 DEBUG Value read: GBP
+2018-10-01 16:42:08,382 DEBUG Cell value: GBP
+2018-10-01 16:42:08,382 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,382 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,383 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Delegated Subportfolios Files\Delegated Subportfolios_20180807.xlsx
+2018-10-01 16:42:08,384 DEBUG Processing header: Delegated Desk Name
+2018-10-01 16:42:08,384 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,385 DEBUG Number of rows: 34
+2018-10-01 16:42:08,385 DEBUG Going to read row 2, column 4
+2018-10-01 16:42:08,385 DEBUG [Not assigned]
+2018-10-01 16:42:08,386 DEBUG Requesting2 row:2, column:4, max_row:34, max_column:9
+2018-10-01 16:42:08,387 DEBUG Value read: PIT Trading
+2018-10-01 16:42:08,388 DEBUG Cell value: PIT Trading
+2018-10-01 16:42:08,388 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,388 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,389 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Delegated Subportfolios Files\Delegated Subportfolios_20180807.xlsx
+2018-10-01 16:42:08,390 DEBUG Processing header: Settlement Days
+2018-10-01 16:42:08,391 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,391 DEBUG Number of rows: 34
+2018-10-01 16:42:08,391 DEBUG Going to read row 2, column 5
+2018-10-01 16:42:08,392 DEBUG [Not assigned]
+2018-10-01 16:42:08,392 DEBUG Requesting2 row:2, column:5, max_row:34, max_column:9
+2018-10-01 16:42:08,393 DEBUG Value read: 0
+2018-10-01 16:42:08,394 DEBUG Cell value: 
+2018-10-01 16:42:08,395 DEBUG Processing header: Delegated Manager Email Address
+2018-10-01 16:42:08,396 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,396 DEBUG Number of rows: 34
+2018-10-01 16:42:08,396 DEBUG Going to read row 2, column 6
+2018-10-01 16:42:08,397 DEBUG [Not assigned]
+2018-10-01 16:42:08,397 DEBUG Requesting2 row:2, column:6, max_row:34, max_column:9
+2018-10-01 16:42:08,398 DEBUG Value read: pittrading@schroders.com
+2018-10-01 16:42:08,399 DEBUG Cell value: pittrading@schroders.com
+2018-10-01 16:42:08,399 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,399 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,400 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Delegated Subportfolios Files\Delegated Subportfolios_20180807.xlsx
+2018-10-01 16:42:08,401 DEBUG Processing header: CC Email Address
+2018-10-01 16:42:08,401 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,402 DEBUG Number of rows: 34
+2018-10-01 16:42:08,402 DEBUG Going to read row 2, column 7
+2018-10-01 16:42:08,402 DEBUG [Not assigned]
+2018-10-01 16:42:08,402 DEBUG Requesting2 row:2, column:7, max_row:34, max_column:9
+2018-10-01 16:42:08,404 DEBUG Value read: pittrading@schroders.com; Mark.Brandreth@Schroders.com; Edwin.Lamptey@Schroders.com; Howard.Wallis@Schroders.com
+2018-10-01 16:42:08,404 DEBUG Cell value: pittrading@schroders.com; Mark.Brandreth@Schroders.com; Edwin.Lamptey@Schroders.com; Howard.Wallis@Schroders.com
+2018-10-01 16:42:08,404 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,405 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,405 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Delegated Subportfolios Files\Delegated Subportfolios_20180807.xlsx
+2018-10-01 16:42:08,406 DEBUG Processing header: Email Body
+2018-10-01 16:42:08,407 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,407 DEBUG Number of rows: 34
+2018-10-01 16:42:08,407 DEBUG Going to read row 2, column 8
+2018-10-01 16:42:08,408 DEBUG [Not assigned]
+2018-10-01 16:42:08,408 DEBUG Requesting2 row:2, column:8, max_row:34, max_column:9
+2018-10-01 16:42:08,409 DEBUG Value read: Please see attached for portfolio accounting moves. Details for the investment team as follows.
+2018-10-01 16:42:08,410 DEBUG Cell value: Please see attached for portfolio accounting moves. Details for the investment team as follows.
+2018-10-01 16:42:08,410 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,410 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,411 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Delegated Subportfolios Files\Delegated Subportfolios_20180807.xlsx
+2018-10-01 16:42:08,412 DEBUG Processing header: ITAP BRCUSIP
+2018-10-01 16:42:08,412 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,413 DEBUG Number of rows: 34
+2018-10-01 16:42:08,413 DEBUG Going to read row 2, column 9
+2018-10-01 16:42:08,413 DEBUG [Not assigned]
+2018-10-01 16:42:08,414 DEBUG Requesting2 row:2, column:9, max_row:34, max_column:9
+2018-10-01 16:42:08,414 DEBUG Value read: ITAP1
+2018-10-01 16:42:08,415 DEBUG Cell value: ITAP1
+2018-10-01 16:42:08,415 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,416 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,416 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Delegated Subportfolios Files\Delegated Subportfolios_20180807.xlsx
+2018-10-01 16:42:08,598 DEBUG 
+2018-10-01 16:42:08,598 DEBUG 
+2018-10-01 16:42:08,599 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Portfolio Constraints Files\Portfolio Constraints_20170720.xlsx
+2018-10-01 16:42:08,599 DEBUG [Not assigned]
+2018-10-01 16:42:08,599 DEBUG Requesting2 row:1, column:1, max_row:1, max_column:5
+2018-10-01 16:42:08,600 DEBUG Cell out of bounds1
+2018-10-01 16:42:08,600 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:08,600 DEBUG Got first header
+2018-10-01 16:42:08,601 DEBUG First header: [Not assigned]
+2018-10-01 16:42:08,601 DEBUG Processing header: [Not assigned]
+2018-10-01 16:42:08,601 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,602 DEBUG Number of rows: 1
+2018-10-01 16:42:08,602 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:08,602 DEBUG [Not assigned]
+2018-10-01 16:42:08,603 DEBUG Requesting2 row:2, column:1, max_row:1, max_column:5
+2018-10-01 16:42:08,603 DEBUG Cell out of bounds2
+2018-10-01 16:42:08,603 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:08,604 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,604 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,604 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Portfolio Constraints Files\Portfolio Constraints_20170720.xlsx
+2018-10-01 16:42:08,605 DEBUG Processing header: Net Leverage Lower Bound
+2018-10-01 16:42:08,605 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,605 DEBUG Number of rows: 1
+2018-10-01 16:42:08,606 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:08,606 DEBUG [Not assigned]
+2018-10-01 16:42:08,606 DEBUG Requesting2 row:2, column:2, max_row:1, max_column:5
+2018-10-01 16:42:08,607 DEBUG Cell out of bounds2
+2018-10-01 16:42:08,607 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:08,607 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,608 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,608 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Portfolio Constraints Files\Portfolio Constraints_20170720.xlsx
+2018-10-01 16:42:08,609 DEBUG Processing header: Net Leverage Upper Bound
+2018-10-01 16:42:08,609 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,609 DEBUG Number of rows: 1
+2018-10-01 16:42:08,610 DEBUG Going to read row 2, column 3
+2018-10-01 16:42:08,610 DEBUG [Not assigned]
+2018-10-01 16:42:08,610 DEBUG Requesting2 row:2, column:3, max_row:1, max_column:5
+2018-10-01 16:42:08,611 DEBUG Cell out of bounds2
+2018-10-01 16:42:08,611 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:08,611 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,612 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,612 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Portfolio Constraints Files\Portfolio Constraints_20170720.xlsx
+2018-10-01 16:42:08,612 DEBUG Processing header: Gross Leverage Lower Bound
+2018-10-01 16:42:08,613 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,613 DEBUG Number of rows: 1
+2018-10-01 16:42:08,614 DEBUG Going to read row 2, column 4
+2018-10-01 16:42:08,614 DEBUG [Not assigned]
+2018-10-01 16:42:08,614 DEBUG Requesting2 row:2, column:4, max_row:1, max_column:5
+2018-10-01 16:42:08,614 DEBUG Cell out of bounds2
+2018-10-01 16:42:08,615 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:08,615 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,615 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,616 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Portfolio Constraints Files\Portfolio Constraints_20170720.xlsx
+2018-10-01 16:42:08,616 DEBUG Processing header: Gross Leverage Upper Bound
+2018-10-01 16:42:08,617 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,617 DEBUG Number of rows: 1
+2018-10-01 16:42:08,618 DEBUG Going to read row 2, column 5
+2018-10-01 16:42:08,619 DEBUG [Not assigned]
+2018-10-01 16:42:08,619 DEBUG Requesting2 row:2, column:5, max_row:1, max_column:5
+2018-10-01 16:42:08,619 DEBUG Cell out of bounds2
+2018-10-01 16:42:08,619 DEBUG Cell value: [Not assigned]
+2018-10-01 16:42:08,620 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,620 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,621 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Portfolio Constraints Files\Portfolio Constraints_20170720.xlsx
+2018-10-01 16:42:08,641 DEBUG 
+2018-10-01 16:42:08,642 DEBUG 
+2018-10-01 16:42:08,642 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Borrow Availability and Cost Files\Borrow Availability and Costs_20180706.xlsx
+2018-10-01 16:42:08,642 DEBUG [Not assigned]
+2018-10-01 16:42:08,642 DEBUG Requesting2 row:1, column:1, max_row:351, max_column:4
+2018-10-01 16:42:08,644 DEBUG Value read: Prime Broker
+2018-10-01 16:42:08,645 DEBUG Cell value: Prime Broker
+2018-10-01 16:42:08,645 DEBUG Got first header
+2018-10-01 16:42:08,645 DEBUG First header: Prime Broker
+2018-10-01 16:42:08,646 DEBUG Processing header: Prime Broker
+2018-10-01 16:42:08,647 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,647 DEBUG Number of rows: 351
+2018-10-01 16:42:08,647 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:08,648 DEBUG [Not assigned]
+2018-10-01 16:42:08,648 DEBUG Requesting2 row:2, column:1, max_row:351, max_column:4
+2018-10-01 16:42:08,649 DEBUG Value read: JPM
+2018-10-01 16:42:08,650 DEBUG Cell value: JPM
+2018-10-01 16:42:08,650 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,650 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,651 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Borrow Availability and Cost Files\Borrow Availability and Costs_20180706.xlsx
+2018-10-01 16:42:08,652 DEBUG Processing header: Asset
+2018-10-01 16:42:08,652 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,653 DEBUG Number of rows: 351
+2018-10-01 16:42:08,653 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:08,653 DEBUG [Not assigned]
+2018-10-01 16:42:08,654 DEBUG Requesting2 row:2, column:2, max_row:351, max_column:4
+2018-10-01 16:42:08,655 DEBUG Value read: 2046251
+2018-10-01 16:42:08,655 DEBUG Cell value: 2046251
+2018-10-01 16:42:08,656 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,656 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,656 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Borrow Availability and Cost Files\Borrow Availability and Costs_20180706.xlsx
+2018-10-01 16:42:08,658 DEBUG Processing header: Cost
+2018-10-01 16:42:08,658 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,658 DEBUG Number of rows: 351
+2018-10-01 16:42:08,659 DEBUG Going to read row 2, column 3
+2018-10-01 16:42:08,659 DEBUG [Not assigned]
+2018-10-01 16:42:08,659 DEBUG Requesting2 row:2, column:3, max_row:351, max_column:4
+2018-10-01 16:42:08,661 DEBUG Value read: 0.01216163745316994
+2018-10-01 16:42:08,661 DEBUG Cell value: 0.01216163745316994
+2018-10-01 16:42:08,661 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,662 DEBUG Column type is: <class 'float'>
+2018-10-01 16:42:08,662 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Borrow Availability and Cost Files\Borrow Availability and Costs_20180706.xlsx
+2018-10-01 16:42:08,663 DEBUG Processing header: Availability
+2018-10-01 16:42:08,663 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,664 DEBUG Number of rows: 351
+2018-10-01 16:42:08,664 DEBUG Going to read row 2, column 4
+2018-10-01 16:42:08,664 DEBUG [Not assigned]
+2018-10-01 16:42:08,665 DEBUG Requesting2 row:2, column:4, max_row:351, max_column:4
+2018-10-01 16:42:08,666 DEBUG Value read: 10000000
+2018-10-01 16:42:08,666 DEBUG Cell value: 10000000
+2018-10-01 16:42:08,667 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,667 DEBUG Column type is: <class 'int'>
+2018-10-01 16:42:08,668 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Borrow Availability and Cost Files\Borrow Availability and Costs_20180706.xlsx
+2018-10-01 16:42:08,682 DEBUG 
+2018-10-01 16:42:08,682 DEBUG 
+2018-10-01 16:42:08,682 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Target Prime Broker Ratio Files\Target Prime Broker Ratio_20170929.xlsx
+2018-10-01 16:42:08,683 DEBUG [Not assigned]
+2018-10-01 16:42:08,683 DEBUG Requesting2 row:1, column:1, max_row:3, max_column:2
+2018-10-01 16:42:08,684 DEBUG Value read: Prime Broker
+2018-10-01 16:42:08,684 DEBUG Cell value: Prime Broker
+2018-10-01 16:42:08,685 DEBUG Got first header
+2018-10-01 16:42:08,685 DEBUG First header: Prime Broker
+2018-10-01 16:42:08,685 DEBUG Processing header: Prime Broker
+2018-10-01 16:42:08,685 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,686 DEBUG Number of rows: 3
+2018-10-01 16:42:08,686 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:08,686 DEBUG [Not assigned]
+2018-10-01 16:42:08,687 DEBUG Requesting2 row:2, column:1, max_row:3, max_column:2
+2018-10-01 16:42:08,687 DEBUG Value read: JPM
+2018-10-01 16:42:08,688 DEBUG Cell value: JPM
+2018-10-01 16:42:08,688 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,688 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,688 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Target Prime Broker Ratio Files\Target Prime Broker Ratio_20170929.xlsx
+2018-10-01 16:42:08,689 DEBUG Processing header: Target Ratio
+2018-10-01 16:42:08,689 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,690 DEBUG Number of rows: 3
+2018-10-01 16:42:08,690 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:08,690 DEBUG [Not assigned]
+2018-10-01 16:42:08,691 DEBUG Requesting2 row:2, column:2, max_row:3, max_column:2
+2018-10-01 16:42:08,691 DEBUG Value read: 1
+2018-10-01 16:42:08,692 DEBUG Cell value: 1
+2018-10-01 16:42:08,692 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,692 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,693 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Target Prime Broker Ratio Files\Target Prime Broker Ratio_20170929.xlsx
+2018-10-01 16:42:08,871 DEBUG 
+2018-10-01 16:42:08,872 DEBUG 
+2018-10-01 16:42:08,872 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Trade Decision Maker\trade_decision_maker_20180622.xlsx
+2018-10-01 16:42:08,872 DEBUG [Not assigned]
+2018-10-01 16:42:08,873 DEBUG Requesting2 row:1, column:1, max_row:321, max_column:2
+2018-10-01 16:42:08,874 DEBUG Value read: Strategy
+2018-10-01 16:42:08,875 DEBUG Cell value: Strategy
+2018-10-01 16:42:08,875 DEBUG Got first header
+2018-10-01 16:42:08,876 DEBUG First header: Strategy
+2018-10-01 16:42:08,876 DEBUG Processing header: Strategy
+2018-10-01 16:42:08,876 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,877 DEBUG Number of rows: 321
+2018-10-01 16:42:08,877 DEBUG Going to read row 2, column 1
+2018-10-01 16:42:08,877 DEBUG [Not assigned]
+2018-10-01 16:42:08,878 DEBUG Requesting2 row:2, column:1, max_row:321, max_column:2
+2018-10-01 16:42:08,879 DEBUG Value read: Trend Index UCITS
+2018-10-01 16:42:08,879 DEBUG Cell value: Trend Index UCITS
+2018-10-01 16:42:08,880 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,880 DEBUG Column type is: <class 'str'>
+2018-10-01 16:42:08,880 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Trade Decision Maker\trade_decision_maker_20180622.xlsx
+2018-10-01 16:42:08,882 DEBUG Processing header: Algo ID/Investment Decision Maker
+2018-10-01 16:42:08,882 DEBUG Going to read number of rows: 
+2018-10-01 16:42:08,883 DEBUG Number of rows: 321
+2018-10-01 16:42:08,883 DEBUG Going to read row 2, column 2
+2018-10-01 16:42:08,883 DEBUG [Not assigned]
+2018-10-01 16:42:08,884 DEBUG Requesting2 row:2, column:2, max_row:321, max_column:2
+2018-10-01 16:42:08,885 DEBUG Value read: 3019
+2018-10-01 16:42:08,885 DEBUG Cell value: 3019
+2018-10-01 16:42:08,886 DEBUG Exception: could not get cell value, went for internal_value
+2018-10-01 16:42:08,886 DEBUG Column type is: <class 'int'>
+2018-10-01 16:42:08,886 DEBUG Processing file: \\lon0302.london.schroders.com\dfs\DATA\DTA\INVESTMENT_CRITSPREAD\SHARED APPS\Test\Rebalance Tool\Data\SB\Trade Decision Maker\trade_decision_maker_20180622.xlsx

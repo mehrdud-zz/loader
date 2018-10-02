@@ -1,0 +1,212 @@
+[
+  {
+    "RowNumber": 2,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "BRL"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 3,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "CNY"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 4,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "IDR"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 5,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "INR"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 6,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "KRW"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 7,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "MYR"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 8,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "PHP"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 9,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "PKR"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 10,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "RUB"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 11,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "TWD"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 12,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "ILS"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 13,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "MXN"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 14,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "VND"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "USD"
+      }
+    ]
+  },
+  {
+    "RowNumber": 15,
+    "values": [
+      {
+        "column_index": 1,
+        "header": "Underlying Currency",
+        "value": "[Not assigned]"
+      },
+      {
+        "column_index": 2,
+        "header": "Override Currency",
+        "value": "[Not assigned]"
+      }
+    ]
+  }
+]
