@@ -1,0 +1,119 @@
+{
+  "RebalancerToolInputs": [
+    {
+      "File": "Asset Mapping",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Asset Mappings",
+      "Type": "folder"
+    },
+    {
+      "File": "Strategy Definitions",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files",
+      "Type": "folder"
+    },
+    {
+      "File": "Subportfolio Mappings",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Subportfolios Files",
+      "Type": "folder"
+    },
+    {
+      "File": "Delegated Subportfolios",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Delegated Subportfolios Files",
+      "Type": "folder"
+    },
+    {
+      "File": "Trading Methods",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\trading_methods.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "Models",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Model Files",
+      "Type": "folder"
+    },
+    {
+      "File": "Special Instructions",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\special_instructions.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "Mergeability",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\mergeability.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "Contingent Trades",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\contingent_trades.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "Groups",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\groups.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "Strategy Covariance Matrices",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Covariance Files",
+      "Type": "folder"
+    },
+    {
+      "File": "Included Subportfolios",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\IncludedSubPortfolios.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "IRS Ticker Prefixes",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\IRS_ticker_prefixes.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "ILS Ticker Prefixes",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\ILS_ticker_prefixes.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "Matching",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\matching.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "CFWD Maturities",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\CFWD_maturities.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "Risk Models",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\risk_models.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "Portfolio Constraints",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Portfolio Constraints Files",
+      "Type": "folder"
+    },
+    {
+      "File": "Ticker Overrides",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\ticker_overrides.xlsx",
+      "Type": "file"
+    },
+    {
+      "File": "Borrow Availability and Cost",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Borrow Availability and Cost Files",
+      "Type": "folder"
+    },
+    {
+      "File": "Target Prime Broker Ratios",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Target Prime Broker Ratio Files",
+      "Type": "folder"
+    },
+    {
+      "File": "Trade Decision Maker",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Trade Decision Maker",
+      "Type": "folder"
+    },
+    {
+      "File": "Portfolio Strategy Freezes",
+      "Path": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\EquityBaskets\\Strategy Files\\portfolio_strategy_freezes.xlsx",
+      "Type": "file"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+"Domains": [
+   {
+    "Domain": "SB",
+    "Folder": "\\\\lon0302.london.schroders.com\\dfs\\DATA\\DTA\\INVESTMENT_CRITSPREAD\\SHARED APPS\\Test\\Rebalance Tool\\Data\\SB",
+    "ConfigFileList": "\\\\lon0306.london.schroders.com\\dfs\\home3\\users\\nateghm\\My Documents\\Projects\\Multi-Asset Core Platform\\DataLoader\\Configs\\SB_Inputs.json",
+    "OutputFolder": "\\\\lon0306.london.schroders.com\\dfs\\home3\\users\\nateghm\\My Documents\\Projects\\Multi-Asset Core Platform\\DataLoader\\Jobs"
+   }
+]
+}
